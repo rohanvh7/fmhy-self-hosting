@@ -23,7 +23,7 @@ import { transform, transformGuide } from './transformer'
 export const meta = {
   name: 'fmhy-rvh-sh',
   description: 'The largest collection of free stuff on the internet!',
-  hostname: 'https://fmhy.rohanvh.me',
+  hostname: 'https://papaya-centaur-205b31.netlify.app',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
     api: false,
