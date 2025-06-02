@@ -68,6 +68,7 @@
 
 * ⭐ **[VRPirates](https://vrpirates.wiki/)**, [2](https://vrpirates.club/) - VR Piracy Wiki / [Telegram](https://t.me/VRPirates) / [Discord](https://discord.gg/tBKMZy7QDA)
 * ⭐ **[ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)** - VR Games / [Telegram](https://t.me/ARMGDDNGames)
+* [Phoenix Place](https://phoenixplace.xyz/) - VR Games / Signup Required / [Discord](https://discord.gg/wfJs3eJvHa)
 * [/r/QuestPiracy](https://www.reddit.com/r/QuestPiracy/) - Oculus Quest Piracy
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games
@@ -116,7 +117,7 @@
 
 * 🌐 **[OSGL](https://trilarion.github.io/opensourcegames/)**, [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - PC Ports, Decompilations, Remakes, Fan Games and more
-* 🌐 **[⁠TheGameEmporium](https://www.thegamingemporium.com/)** - Decompilation / Recompilation Archive
+* 🌐 **[TheGameEmporium](https://www.thegamingemporium.com/)** - Decompilation / Recompilation Archive
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
@@ -164,7 +165,7 @@
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball / [Android](https://github.com/fexed/Pinball-on-Android)
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r)
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Wiki / Guides](https://wiki.clonehero.net/) / [Setlists](https://rentry.co/FMHYBase64#setlists), [2](https://customsongscentral.com/), [3](https://rentry.co/FMHYBase64#frif-drive) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing) / [Custom Client](https://clonehero.scorespy.online)
 * [Bridge](https://github.com/Geomitron/Bridge) - Download Charts for Rhythm Games
 * [ITGmania](https://www.itgmania.com/) - DDR Clone
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
@@ -252,7 +253,7 @@
 * [RomPatcher](https://www.marcrobledo.com/RomPatcher.js/), [Rom Patcher JS](https://www.romhacking.net/patch/), [Hack64 Patcher](https://hack64.net/tools/patcher.php) or [FFF6Hacking Patcher](https://www.ff6hacking.com/patcher/) - Online ROM Patchers
 * [Dats.site](https://dats.site/home.php) or [No Intro](https://no-intro.org/) - ROM .dat Files
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
-* [/r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub
+* [/r/ROMs](https://www.reddit.com/r/ROMs/) - ROM Discussion Sub / [Matrix](https://matrix.to/#/#romz:matrix.org)
 * [Kuribo64](https://kuribo64.net/) - ROM Modding Community
 
 ***
@@ -264,7 +265,7 @@
 * ⭐ **[Myrient](https://rentry.co/FMHYBase64#myrient)** - ROMs
 * ⭐ **[AlvRo](https://rentry.co/FMHYBase64#alvro)** - ROMs / PW: `ByAlvRo`
 * ⭐ **[No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROMs
-* ⭐ **[ROM Heaven](https://romheaven.com/)**, [2](https://romheaven.su) - ROMs
+* ⭐ **[ROM Heaven](https://romheaven.com/)** - ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * ⭐ **[RUTracker ROMs](https://rutracker.org/forum/viewforum.php?f=548)** - ROMs / Torrents / Use VPN
 * ⭐ **[RetroGameTalk](https://retrogametalk.com/)**, [ROMhacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
@@ -327,7 +328,7 @@
 * [taodung](https://taodung.com/) - ROMs / 3DS / Switch
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Gameboy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
-* [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/) - ROMs / Switch
+* [nsw2u](https://nswdl.com/) - ROMs / Switch
 * [NswRom](https://nswrom.com/) - ROMs / Switch
 * [ROMsHQ](https://romshq.com/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/) - ROMs / Switch / DDL / Torrents / [Discord](https://discord.com/invite/rgttByzYRY)
@@ -352,7 +353,7 @@
 
 ## ▷ Sony ROMs
 
-* ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSP
+* ⭐ **[PSVitaVPK](https://psvitavpk.com/)** - ROMs / PSVita
 * [PKGPS4](https://www.pkgps4.click/), [PS4PKG](https://ps4pkg.com/) or [Game-2u PS4](https://game-2u.com/Category/game/ps4) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#game-2u-ps4-note) - ROMs / PS4
 * [SuperPSX](https://www.superpsx.com/) - ROMs / PS3 / PS4
 * [PS3R](https://ps3r.com/) - ROMs / PS3
@@ -367,7 +368,6 @@
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
 * ↪️ **[Multi-Console Browser Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi-console_browser_emulators)**
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
-* ⭐ **[PSX Party](https://psxparty.kosmi.io/)** - Multiplayer Playstation Browser Emulator
 * [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
 * [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator
@@ -390,17 +390,111 @@
 
 ***
 
+# ► Puzzle Games
+
+* ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
+* [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
+* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
+* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
+* [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
+* [Murdle](https://murdle.com/) - Daily Murder Mystery
+* [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
+* [DailyDungeon](https://dailydungeon.net/) - Puzzle Dungeon Crawler
+* [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
+* [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
+* [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
+* [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
+* [Orion](https://orion.lukasbach.com/) - Puzzle Game
+* [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
+* [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) - Block Puzzles
+* [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
+* [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
+* [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
+* [BreakLock](https://maxwellito.github.io/breaklock/) - Pattern Lock Game
+* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
+* [MazeGenerator](https://www.mazegenerator.net/), [Maze Toys](https://maze.toys/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
+
+***
+
+## ▷ Rubiks Cube
+
+* 🌐 **[cubing.net](https://www.cubing.net/)** - Cubing Tools
+* ↪️ **[Cubing Practice / Training](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_rubiks_cube)**
+* ⭐ **[Grubiks](https://grubiks.com/)** or **[Rubikverse](https://rubikverse.com/)** - Multi-Cube Types Simulators
+* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)** - 3x3 Cube Simulator
+* [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) - Multi-Cube Types Windows App
+* [The Cube](https://bsehovac.github.io/the-cube/) - Multi-Size Cube Simulator
+* [RubiksCu.be](https://rubikscu.be/solver/) - 3x3 Cube Solver
+* [RubikSolve](https://rubiksolve.com/) - 3x3 Cube Solver
+* [Rubik's Cube Solver](https://rubiks-cube-solver.com/) - 3x3 Cube Solver
+
+***
+
+## ▷ Minesweeper
+
+* ⭐ **[Minesweeper.Online](https://minesweeper.online/)** / [Wiki](https://minesweeper.online/help) or [PROXX](https://proxx.app/) - Play Minesweeper
+* [Authoritative Minesweeper](https://minesweepergame.com/) - Minesweeper Wiki
+* [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [Mines JD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
+* [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
+* [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
+
+***
+
+## ▷ Crosswords
+
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)** - Crossword Puzzles
+* ⭐ **[Killer Crossword](https://killercrossword.com/)** - No Clue Crosswords
+* [Crosshare](https://crosshare.org/) - Crossword Puzzles / Creator
+* [Hovercats](https://hovercats.gg/) - Multiplayer Crosswords
+* [Truncate](https://truncate.town/) - Crossword Strategy Game
+* [Regex Crossword](https://regexcrossword.com/), [2](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
+* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms.org](https://www.nonograms.org/) - Graphic Crosswords (Nonograms)
+* [Crossword Labs](https://crosswordlabs.com/), [Puzzlemaker](https://puzzlemaker.discoveryeducation.com/) or [XWords](https://www.xwords-generator.de/en) - Crossword Creators
+
+***
+
+## ▷ Word Games
+
+* 🌐 **[Wordleverse](https://wordleverse.net/)**, [WordleWeb](https://github.com/rarelygoeshere/WordleWeb), [Wordle Collection](https://rentry.org/v72n74fu), [Awesome Wordle](https://github.com/prakhar897/awesome-wordle), [Alldle](https://alldle.net/) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
+* ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
+* ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
+* ⭐ **[MoreWords](https://www.morewords.com/)**, [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
+* [TheWordSearch](https://thewordsearch.com/) - Word Search Puzzles
+* [Make a Word Search](http://www.makeawordsearch.net/) or [Word Search Labs](https://wordsearchlabs.com/) - Word Search Creators
+* [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
+* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
+* [Word Golf](https://www.word.golf/) - Word Relation Game
+* [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
+* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
+* [Squaredle](https://squaredle.app/), [2](https://squaredle.online/) - Daily Word Puzzle
+* [Linxicon](https://linxicon.com/) - Word Connection Game
+* [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
+* [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limit
+* [Fusele](https://fusele.netlify.app/) - Wordle Variant
+* [Word500](https://word500.com/) - Wordle + Mastermind
+* [Wordly](https://wordly.org/) - Wordle Clone
+* [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
+* [Sqword](https://www.sqword.com/) - Deck-Based Wordle
+* [Alphabeticle](https://alphabeticle.xyz/) - Alphabetical Wordle
+* [WordMaze](https://wordmaze.click/) - Maze Style Wordle
+* [Pixletters](https://pixletters.com/) - Pixel Style Wordle
+* [Wourdle](https://wourdle.com/) - British English Wordle
+* [Ridella](https://ridella.xyz/) - Riddle Wordle
+
+***
+
 # ► Browser Games
 
 * ⭐ **[Allchemy](https://allchemy.io/)**, [Little Alchemy](https://littlealchemy.com/), [Little Alchemy 2](https://littlealchemy2.com/) or [Infinite Craft](https://neal.fun/infinite-craft/) / [Wiki](https://expitau.com/InfiniteCraftWiki/) / [Search](https://infinibrowser.wiki/) - Infinite Item Crafting Games
 * ⭐ **[The World's Biggest Pac-Man](https://worldsbiggestpacman.com/)** - Infinite Custom Pac-Mac
-* ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
+* ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Marble Blast Gold Web](https://marbleblast.vaniverse.io/)** or [Marble Blast Ultra](https://marbleblastultra.randomityguy.me/) - Marble Blast in Browser
 * ⭐ **[QWOP](https://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * [Tetris](https://tetris.com/) or [Tetr.js](http://farter.cn/tetr.js/) - Tetris
 * [SMBGames](https://smbgames.be/) - Browser Super Mario
 * [SMWGames](https://www.smwgames.com/) - Modded Browser Super Mario World
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
+* [CelesteClassic](https://maddymakesgamesinc.itch.io/celesteclassic) - Full Classic Celeste
 * [Mega Man Games](https://www.megamangames.net/) - Browser Mega Man
 * [Play Snake](https://playsnake.org/), [Snake-Game](https://www.onemotion.com/snake-game/) or [Google Snake Mods](https://googlesnakemods.com/) - Snake Style Games
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
@@ -445,6 +539,7 @@
 * ⭐ **[itch.io web games](https://itch.io/games/free/platform-web)** - Browser Games
 * ⭐ **[Newgrounds](https://www.newgrounds.com/games)** - Browser Games
 * ⭐ **[Armor Games](https://armorgames.com/)** - Browser Games
+* [Nitrome](https://www.nitrome.com/) - Browser Games
 * [Browser Craft](https://browsercraft.com/) - Indie Browser Games
 * [RG Games](https://www.rgshows.me/games/) - Browser Games / [Discord](https://discord.gg/e34HMTgyEy)
 * [Addicting Games](https://www.addictinggames.com/) - Browser Games
@@ -483,7 +578,7 @@
 * [Noel Friedrich](https://www.noel-friedrich.de/terminal/) - Browser Terminal Games
 * [ABA Games](https://www.asahi-net.or.jp/~cs8k-cyu/browser.html) - Single Button Games
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/), [frogie's arcade](https://frogiesarca.de/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
-* [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
+* [Cool Math Games](https://www.coolmathgames.com/) - Browser Game Site
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
 * [Arcade Prehacks](https://www.arcadeprehacks.com/) or [KongHack](https://konghack.com/) - Flash Game Mods
 * [Js13kGames](https://js13kgames.com/entries), [HTML5 Games](https://html5games.com/) or [TheBestarcade](https://html5.thebestarcadescript.com/) - HTML5 Games
@@ -567,9 +662,9 @@
 * [MiniRoyale](https://miniroyale.io/) - Battle Royale Game
 * [ZombsRoyale.io](https://zombsroyale.io/) - Top-Down Battle Royale
 * [Gats.io](https://gats.io/) - Top-Down Battle Royale / [Discord](https://discord.gg/8Tspptdupm)
-* [Wings.io](https://wings.io/) - Multiplayer Plane Battles / [Discord](https://discord.com/invite/HQcTbuZByA)
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game
+* [MK48](https://mk48.io/) - Ship Combat Game / [Discord](https://discord.com/invite/YMheuFQWTX) / [GitHub](https://github.com/SoftbearStudios/mk48)
 * [Tanki](https://tankionline.com/) or [Diep](https://diep.io/) - Online Team VS Team Tank Games
 * [webXash](https://x8bitrain.github.io/webXash/) - Half Life Demo
 
@@ -682,38 +777,6 @@
 
 ***
 
-## ▷ Puzzle Games
-
-* ⭐ **[Rubik's Cube Explorer](https://iamthecu.be/)**, [Grubiks](https://www.grubiks.com/), [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054) or [The Cube](https://bsehovac.github.io/the-cube/) - Rubik's Cubes / [Guide](https://easiestsolve.com/) / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/) / [Timer](https://cstimer.net/)
-* ⭐ **[Minesweeper.online](https://minesweeper.online/)** - Minesweeper
-* ⭐ **[Simon Tatham's Puzzles](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)** - Multiple Puzzle Games / [Mobile](https://github.com/chrisboyle/sgtpuzzles)
-* [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
-* [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
-* [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
-* [Murdle](https://murdle.com/) - Daily Murder Mystery
-* [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
-* [DailyDungeon](https://dailydungeon.net/) - Puzzle Dungeon Crawler
-* [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
-* [All The 2048](https://true65536.github.io/allthe2048/), [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - 2048 Puzzles
-* [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
-* [mmmines!](https://mmmines.fly.dev/), [MinesweeperPro](https://www.minesweeperpro.com/), [MineJD](https://minesjd.com/) or [m3o](https://play.m3o.xyz/) - Multiplayer Minesweeper
-* [Minesweeper Infinity](https://www.minesweeperinfinity.com/) - Infinite Minesweeper
-* [Minesweeper Twist](https://polyreplay.com/minesweepertwist) - Irregular Grid Minesweeper
-* [PROXX](https://proxx.app/) - Space Minesweeper
-* [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
-* [Orion](https://orion.lukasbach.com/) - Puzzle Game
-* [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
-* [Pixel Puzzler](https://pixel-puzzler.playcurious.games/) or [UnFlip](https://unflipgame.com/) - Block Puzzles
-* [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
-* [picture dots](https://www.picturedots.com/) - Make & Play Dot Puzzles
-* [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
-* [BreakLock](https://maxwellito.github.io/breaklock/) - Pattern Lock Game
-* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
-* [MazeGenerator](https://www.mazegenerator.net/), [Maze Toys](https://maze.toys/) or [Maze](https://www.epgsoft.com/maze/) - Maze Generators
-
-***
-
 ## ▷ Incremental / Idle
 
 * 🌐 **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Galaxy Click](https://galaxy.click/), [Incremental Game Plaza](https://plaza.dsolver.ca/), [IncrementalDB](https://www.incrementaldb.com/) or [Almost Idle](https://almostidle.com/) - Incremental Games Indexes
@@ -812,49 +875,6 @@
 * [travle](https://travle.earth/) - Guess Countries Between Two Locations
 * [MapGenerator](https://map-generator-nsj.vercel.app/) - GeoGuessr Map Generator
 * [VirtualStreets](https://virtualstreets.org/) - Google Street Update Tracker
-
-***
-
-## ▷ Word Games
-
-* 🌐 **[Wordleverse](https://wordleverse.net/)**, [WordleWeb](https://github.com/rarelygoeshere/WordleWeb), [Wordle Collection](https://rentry.org/v72n74fu), [Awesome Wordle](https://github.com/prakhar897/awesome-wordle), [Alldle](https://alldle.net/) or [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) - Wordle Game Index
-* ⭐ **[Wordle](https://www.nytimes.com/games/wordle/index.html)** - Original Wordle
-* ⭐ **[Wordle Analyzer](https://wordle-analyzer.com/)**
-* ⭐ **[MoreWords](https://www.morewords.com/)**, [PlayScrabble](https://playscrabble.com/) or [WordHub](https://wordhub.com/) - Scrabble
-* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
-* [Connections](https://connections.swellgarfo.com/) - Custom Word Puzzles
-* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
-* [Word Golf](https://www.word.golf/) - Word Relation Game
-* [JKLM.FUN](https://jklm.fun/) - Multiplayer Word Games
-* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
-* [Squaredle](https://squaredle.app/), [2](https://squaredle.online/) - Daily Word Puzzle
-* [Linxicon](https://linxicon.com/) - Word Connection Game
-* [Wordle VS](https://wordlevs.com/) - Multiplayer Wordle
-* [Wordle Unlimited](https://wordleunlimited.org/) - Wordle without Daily Limit
-* [Fusele](https://fusele.netlify.app/) - Wordle Variant
-* [Word500](https://word500.com/) - Wordle + Mastermind
-* [Wordly](https://wordly.org/) - Wordle Clone
-* [Octordle](https://www.britannica.com/games/octordle/) - Eight Word Wordle
-* [Sqword](https://www.sqword.com/) - Deck-Based Wordle
-* [Alphabeticle](https://alphabeticle.xyz/) - Alphabetical Wordle
-* [WordMaze](https://wordmaze.click/) - Maze Style Wordle
-* [Pixletters](https://pixletters.com/) - Pixel Style Wordle
-* [Wourdle](https://wourdle.com/) - British English Wordle
-* [Ridella](https://ridella.xyz/) - Riddle Wordle
-
-***
-
-## ▷ Crossword Puzzles
-
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)** - Crossword Puzzles
-* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
-* [TheWordSearch](https://thewordsearch.com/) - Crossword Puzzles / Creator
-* [Crosshare](https://crosshare.org/) - Crossword Puzzles / Creator
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
-* [Truncate](https://truncate.town/) - Crossword Strategy Game
-* [Regex Crossword](https://regexcrossword.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Regex Crosswords
-* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
-* [WordSearchLabs](https://wordsearchlabs.com/), [CrosswordLabs](https://crosswordlabs.com/), [PuzzleMaker](https://puzzlemaker.discoveryeducation.com/) or [xWords Generator](https://www.xwords-generator.de/en) - Crossword Creators
 
 ***
 
