@@ -176,7 +176,6 @@
 * ⭐ **[Historic Films](https://www.historicfilms.com/)** or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * ⭐ **[Histography](https://histography.io/)** or [Oldest](https://www.oldest.org/) - History Timelines
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
-* [HistoryMaps](https://history-maps.com/) - Learn History Visually
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) or [RareHistoricalPhotos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Museo](https://museo.app/) - Museum Search
@@ -264,7 +263,7 @@
 * [JustinGuitar](https://www.justinguitar.com/) or [Guitarsix](https://guitarsix.com/) - Guitar Lessons
 * [Ultimate Guitar](https://www.ultimate-guitar.com/) - Guitar Tabs
 * [Chorder](https://www.chorder.com/guitar-chords/) - Guitar Chord Finder
-* [Guitar Fretboard](https://muted.io/guitar-fretboard/), [Fretastic](https://fretastic.com/guitar) or [Gitori](https://www.gitori.com/) - Virtual Fretboards / Guitar Lessons
+* [Guitar Fretboard](https://muted.io/guitar-fretboard/) or [Gitori](https://www.gitori.com/) - Virtual Fretboards / Guitar Lessons
 * [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) or [FreeDrumLessons](https://www.youtube.com/c/freedrumlessons) - Drum Lessons
 * [911tabs](https://www.911tabs.com/) or [Finger Tabs](https://fingertabs.com/) - Tabs
 * [Jazz Improvisor](https://www.cs.hmc.edu/~keller/jazz/improvisor/) - Improvised Jazz
@@ -293,7 +292,7 @@
 * [Curriculum for the Solo Artists](https://alexhuneycutt.gumroad.com/l/free_curriculum) - Self-Taught Artist Curriculum / [PDF Version](https://mega.nz/file/sU0AxThb#m96_xISlS-5wtpSrauWFdh8mjhed7EitknQn_XIBaQc) / [Gallery Version](https://i.redd.it/7ns7su264gp31.png), [2](https://imgur.com/a/EZPc28m)
 * [DoArtDaily](https://dad.gallery) - Daily Art Challenges
 * [Character Design References](https://characterdesignreferences.com/visual-library) - Character Design Visual Library
-* [FloobyNooby](http://www.floobynooby.com/comp1.html), [Let's Learn Storyboarding](https://nicparris.gumroad.com/l/JyCxo), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
+* [FloobyNooby](http://www.floobynooby.com/comp1.html), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
 * [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/) / [X](https://x.com/mangamaterials2), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [Pixiv](https://www.pixiv.net/en/users/16776564)
 * [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
 * [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
@@ -321,7 +320,7 @@
 * [DevinKorwin Color Guide](https://x.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
 * [Draw Mix Paint](https://www.drawmixpaint.com/) - Learn Oil Painting
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
-* [CG_Hacker](https://t.me/CG_Hacker), [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
+* [cg_tuts](https://t.me/cg_tuts) or [cgreferenceshub](https://t.me/cgreferenceshub) - CG Tutorials
 * [Agora](https://agora.community/) - Animation Learning Community / Tutorials / [Discord](https://discord.com/invite/9hJxMyR)
 * [AMV101](https://www.amv101.com/) - Animated Music Video-Making Guides
 
@@ -332,7 +331,7 @@
 * 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
 * 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
 * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
-* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Ozymandias](https://population.ozymandias.so/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
+* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
@@ -483,9 +482,9 @@
 * [Astrogeology](https://astrogeology-usgs.hub.arcgis.com/pages/map-search) - Planetary Maps
 * [Map of the Universe](https://mapoftheuniverse.net/), [Scale of the Universe](https://scaleofuniverse.com/), [AndroidCelestia](https://github.com/celestiamobile/AndroidCelestia/) or [SpaceEngine](https://spaceengine.org/) / [Old Versions](https://forum.spaceengine.org/viewtopic.php?t=182) - Interactive Universe Scales
 * [NASA's Eyes](https://science.nasa.gov/eyes/) or [Celestia](https://celestiaproject.space/) - 3D Space Visualizations / [Solar System](https://eyes.nasa.gov/apps/solar-system/#/home)
-* [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
+* [⁠WikiSky](https://www.wikisky.org/) or [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualizations
 * [AndroidPlanisphere](https://github.com/tengel/AndroidPlanisphere) - Android Star Chart
-* [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
+* [Aladin](https://aladin.cds.unistra.fr/) - Astronomical Image quar fViewer / [Lite Version](https://aladin.cds.unistra.fr/AladinLite/)
 * [Siril](https://siril.org/) - Astronomical Image Processor
 * [ESAsky](https://sky.esa.int/) - Public Astronomical Data
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) - Virtual Stellariums
@@ -595,7 +594,7 @@
 * [QuickChem](https://play.google.com/store/apps/details?id=com.map.michael.chemistry) - Chemistry Calculator
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](https://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
 * [ChemistrySteps](https://www.chemistrysteps.com/), [Science Geek](https://www.sciencegeek.net/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
-* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
+* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ReactionFlash](https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash&hl=en-US) / [iOS](https://apps.apple.com/us/app/reactionflash/id432080813) - Chemical Reaction Flashcards
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
@@ -814,7 +813,6 @@
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters
 * [KR Dict](https://krdict.korean.go.kr/eng/) - Korean Learning Dictionary
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
-* [iksi](https://www.iksi.or.kr/) - Korean Classes
 * [TalkToMeInKorean](https://talktomeinkorean.com/) - Korean Learning Courses
 * [Sogang](https://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
 * [Mirinae](https://mirinae.io/) - Korean Word Breakdown
@@ -981,6 +979,7 @@
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
+* [Scratch](https://scratch.mit.edu/) - Beginner Programming Learning
 * [USACO Guide](https://usaco.guide/) - Competitive Programming Lessons
 * [Beej's Guides](https://www.beej.us/guide/) or [LearnByExample](https://learnbyexample.github.io/) - Programming Guides
 * [CodinGame](https://www.codingame.com/) - Games to Practice Coding / Programming
@@ -1023,7 +1022,7 @@
 * [Typing.io](https://typing.io/) or [Silver Dev's WPM](https://wpm.silver.dev/) - Typing Practice for Programming / Sign-Up Required
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) or [Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Python Guides
 * [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
-* [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [python-mastery](https://github.com/dabeaz-course/python-mastery) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Courses
+* [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [python-mastery](https://github.com/dabeaz-course/python-mastery), [⁠Genepy](https://genepy.org/) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Courses
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
 * [Learn C](https://www.learn-c.org/) - C Tutorial
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [GitHub](https://github.com/isocpp/CppCoreGuidelines)
@@ -1057,7 +1056,6 @@
 * [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
 * [Web Skills](https://andreasbm.github.io/web-skills/), [Codeguage](https://www.codeguage.com/) / [Discord](https://discord.gg/V8jcS8d2H5), [web.dev](https://web.dev/learn) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
-* [Local-First Web](https://localfirstweb.dev/) - Local-First Web Development Guide
 * [DOM Events](https://domevents.dev/) - Learn about DOM Events
 * [WebRTCForTheCurious](https://webrtcforthecurious.com/) - WebRTC Guide / [GitHub](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious)
 * [backendlore](https://github.com/fpereiro/backendlore) or [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Backend Coding Guides
@@ -1081,7 +1079,6 @@
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
 * [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - JavaScript Query Style Events Guide
 * [Untrusted](https://untrustedgame.com/) - JavaScript Learning Game
-* [HTML DOM](https://phuoc.ng/collection/html-dom/) - Learn DOM Manipulation
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 * [Pixactly](https://pixact.ly/) - Test Pixel Dimension Orientation
 
@@ -1183,7 +1180,7 @@
 * [Deceptive Patterns](https://www.deceptive.design/) - Deceptive User Experience Examples
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
 * [HTML Dog](https://htmldog.com/) or [Front Tips](https://front.tips/) - Frontend Tutorials & Examples
-* [FrontEndMentor](https://www.frontendmentor.io/), [Phuoc](https://phuoc.ng/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
+* [FrontEndMentor](https://www.frontendmentor.io/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
 * [Frontend Bootcamp](https://microsoft.github.io/frontend-bootcamp/) - Frontend Workshop
 
@@ -1195,7 +1192,7 @@
 * 🌐 **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [CTF101](https://ctf101.org/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/), [CTFtime](https://ctftime.org/) or [CTFLearn](https://ctflearn.com/) - CTF Resources / Guides
 * ⭐ **[HackTricks](https://book.hacktricks.wiki/)** - Practical Penetration Testing & Security Auditing Tips
 * ⭐ **[OWASP Cheatsheet](https://cheatsheetseries.owasp.org/)** - Application Security Guide
-* [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/), [WebHacking](https://webhacking.kr/) or [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
+* [Hackers101](https://www.hacker101.com/), [SmashTheStack](https://smashthestack.org/) or [WebHacking](https://webhacking.kr/) - Cybersecurity Challenges
 * [Skills for All](https://www.netacad.com/) or [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - Cybersecurity Courses
 * [Sectube](https://sectube.tv/) - IT Security Event Recordings
 * [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
@@ -1222,6 +1219,7 @@
 * ⭐ **[develop.games](https://www.develop.games/)** - Game Dev Guides
 * ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - Game Dev Tutorials
 * ⭐ **[/r/gamedev](https://www.reddit.com/r/gamedev/)** - Reddit Community
+* [⁠20 Games Challenge](https://20_games_challenge.gitlab.io/) - Beginner Game Dev Challenges
 * [Amit’s Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Game Programming Guide
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Dev Concepts / [Web Version](https://www.pico-8-edu.com/)
 * [From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) - 2D Game Dev Book
@@ -1325,7 +1323,7 @@
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
 * [Revisely](https://www.revisely.com/) - GCSE Exam Help
 * [CatchaScience](https://catchascience.wordpress.com/), [IGCSEResources](https://sites.google.com/view/igcseresources/home), [r/IGCSE](https://www.reddit.com/r/igcse/) or [ZNotes](https://znotes.org/) - IGCSE Study Notes / Resources
-* [IGCSE Papers](https://igcse.net/igcse-past-papers-download/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
+* [IGCSE Papers](https://igcse.net/igcse-past-papers-download/), [RevisionScience](https://revisionscience.com/) or [Physics & Maths Tutor](https://www.physicsandmathstutor.com/) - Download Past GCSE / IGCSE Papers
 * [IELTS69](https://www.ielts69.com/) - Cambridge Practice Tests
 * [CaieFinder](https://caiefinder.com/) - Previous Cambridge Test Answers
 * [anthropology](https://t.me/anthropology) - UPSC Telegram Channel
@@ -1369,7 +1367,7 @@
 * [Kalker](https://kalker.xyz/) or [Numbat](https://numbat.dev/) - Scientific Calculators
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
-* [Cymath](https://www.cymath.com/), [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
+* [Cymath](https://www.cymath.com/), [PhotoMath](https://rentry.co/FMHYBase64#photomath), [Mathway](https://www.mathway.com/), [MathDF](https://mathdf.com/), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 
 ***
 
