@@ -22,22 +22,23 @@
 ## ▷ Disc Utilities
 
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [CDBurnerXP](https://cdburnerxp.se/), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
-* [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-ray Ripping
+* [VidCoder](https://vidcoder.net/) or [XReveal](https://www.xreveal.com/) - DVD / Blu-ray Ripping
+* [MakeMKV](https://www.makemkv.com/) - Create MKV from Blu-ray / DVD / [Beta Keys](https://rentry.co/FMHYBase64#makemkv-beta)
 * [DGDemux](https://www.rationalqm.us/dgdemux/dgdemux.html) - Blu-ray/UHD Disk Demuxer
 * [PgcDemux](https://www.videohelp.com/software/PgcDemux) - DVD Disk Demuxer
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-ray Ripping
+* [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634)
 
 ***
 
 ## ▷ Video File Hosts
 
-* **Note** - Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry.
+* **Note** - Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Account Space / Individual File Limit / File Retention.
 
 ***
 
 * ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
 * [Files.vc](https://files.vc/) - Unlimited / 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
@@ -183,7 +184,7 @@
 * 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Streaming Resources
 * 🌐 **[Video Help](https://www.videohelp.com/software/sections/video-players?orderby=Rating)** - Video Player Index
 * ⭐ **[MPC-HC](https://github.com/clsid2/mpc-hc/)**, [MPC-QT](https://mpc-qt.github.io/) or [MPC-BE](https://sourceforge.net/projects/mpcbe/) - Video Player / [YT-DL Support](https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm)
-* ⭐ **[MPV](https://mpv.io/)** - Video Player / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
+* ⭐ **[MPV](https://mpv.io/)** - Video Player / [Custom Builder](https://mpv-easy.github.io/mpv-build/) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv)
 * ⭐ **[VLC](https://www.videolan.org/)** - Video Player
 * [Codec Guide](https://www.codecguide.com/), [ALF FreeWare VideoCODECs](https://codec.kyiv.ua/), or [Free-Codecs](https://www.free-codecs.com/) - Video Player Codec Collections
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Video Player
@@ -217,7 +218,6 @@
 * ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) - Docker Virtual Browser
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [Trast](https://trast.live/), [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
-* [bear.cat](https://bear.cat/) - Online Virtual Machine / Allows NSFW
 * [Metastream](https://getmetastream.com/) - Online Extension / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream) / [X](https://x.com/getmetastream)
 * [Caracal Club](https://caracal.club/) - Online Video Player
 * [CyTube](https://cytu.be/) - Online Video Player
@@ -313,7 +313,7 @@
 ## ▷ Jellyfin Tools
 
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
-* ⭐ **[Blink](https://github.com/prayag17/Blink)**, [Fladder](https://github.com/DonutWare/Fladder/) or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
+* ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)**, [Blink](https://github.com/prayag17/Blink) or [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Clients
 * [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
 * [Jellyfin Forum](https://forum.jellyfin.org/) - Official Jellyfin Forum
 * [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) - Jellyfin Web Client
@@ -346,7 +346,7 @@
 * ↪️ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_downloaders)**
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
-* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Zoom Fix](https://github.com/yt-dlp/yt-dlp/issues/2299) / [Discord](https://discord.gg/H5MNcFW63r)
+* ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://toolbrew.org/), [2](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Zoom Fix](https://github.com/yt-dlp/yt-dlp/issues/2299) / [Discord](https://discord.gg/H5MNcFW63r)
 * ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://instances.cobalt.best/) / [Playlist Support](https://playlist.kwiatekmiki.pl/), [2](https://playlist.kwiatekmiki.com/)
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.online/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * ⭐ **[Video DownloadHelper](https://www.downloadhelper.net/)**, [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions

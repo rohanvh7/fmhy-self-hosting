@@ -12,6 +12,7 @@
 * ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photo / Video Files by Date
 * [UnLock IT](https://emcosoftware.com/unlock-it/download) or [Lock Hunter](https://lockhunter.com/) - File Unlocker / Deleter
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
@@ -24,7 +25,7 @@
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
-* [ExtractMetadata](https://www.extractmetadata.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
+* [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
 * [CUETools](http://cue.tools/wiki/CUETools) - Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
 
 ***
@@ -32,14 +33,15 @@
 ## ▷ Download Managers
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Apps](https://my.jdownloader.org/apps/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)
-* ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager
+* ⭐ **[IDM](https://rentry.co/FMHYBase64#idm)** - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 * [AB Download Manager](https://abdownloadmanager.com/) - Download Manager / [GitHub](https://github.com/amir1376/ab-download-manager) / [Telegram](https://t.me/abdownloadmanager_discussion)
 * [Go Speed](https://gopeed.com/) - Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
-* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
-* [pyLoad](https://pyload.net/) - Lightweight Download Manager
-* [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Media Download Tool
-* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager / [GitHub](https://github.com/pyload/pyload)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
+* [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / [Discord](https://discord.gg/hGBDWNDHG3) / [GitHub](https://github.com/BrisklyDev/brisk) 
+* [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
+* [pyLoad](https://pyload.net/) - Lightweight Download Manager / [GitHub](https://github.com/pyload/pyload)
+* [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Media Download Tool
+* [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
 * [DownThemAll](https://www.downthemall.org/) - Download Management Extension
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
@@ -50,7 +52,7 @@
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** or **[7-Zip](https://www.7-zip.org/)** - File Archiver
-* ⭐ **[PeaZip](https://peazip.github.io/)** - Cross-Platform File Archiver
+* ⭐ **[PeaZip](https://peazip.github.io/)** - Cross-Platform File Archiver / [GitHub](https://github.com/peazip/PeaZip/)
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
@@ -85,26 +87,20 @@
 ## ▷ File Managers
 
 * ⭐ **[Files](https://files.community/)** - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
-* ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - Windows File Manager
+* ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - File Manager
 * [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
-* [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / Windows, Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based Windows File Manager
+* [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
+* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager
 * [Yazi](https://yazi-rs.github.io/) - Terminal File Manager / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
 * [One Commander](https://www.onecommander.com/) - File Manager
 * [Free Commander](https://freecommander.com/) - File Manager
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Manager
-* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
-* [FileExplorer](https://github.com/omeryanar/FileExplorer) - File Manager
-* [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
-* [Far Manager](https://www.farmanager.com/) - Windows File / Archive Manager
-* [Total Commander](https://www.ghisler.com/) - Shareware Windows File Manager
-* [Organize](http://organize.readthedocs.io) - Automated File Manager
-* [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
-* [TablacusExplorer](https://tablacus.github.io/explorer_en.html), [QTTabBar](https://github.com/indiff/qttabbar) or [Multi Commander](https://multicommander.com/) - Tab File Managers
+* [Far Manager](https://www.farmanager.com/) - File / Archive Manager
+* [Total Commander](https://www.ghisler.com/) - Shareware File Manager
+* [TablacusExplorer](https://tablacus.github.io/explorer_en.html) or [Multi Commander](https://multicommander.com/) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-Based File Manager
 * [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
-* [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 
 ***
 
@@ -147,7 +143,7 @@
 ## ▷ File Backup
 
 * ⭐ **[Kopia](https://kopia.io/)** - Encrypted File Backup / [GitHub](https://github.com/kopia/kopia/)
-* ⭐ **[Rescuezilla](https://rescuezilla.com/)** or [CloneZilla](https://clonezilla.org/) - Disk Image Backup
+* ⭐ **[Rescuezilla](https://rescuezilla.com/)** / [GitHub](https://github.com/rescuezilla/rescuezilla) or [CloneZilla](https://clonezilla.org/) - Disk Image Backup
 * [FolderClone](https://www.folderclone.com/) or [Echosync](https://www.luminescence-software.org/en/echosync/about/) - Folder Clone / Backup
 * [BackupPC](https://backuppc.github.io/backuppc/) - Networked File Backup
 * [TeraCopy](https://www.codesector.com/teracopy) - Copy Files Quickly / More Securely
@@ -187,7 +183,6 @@
 * ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)** or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - Bulk Renamers
 * [FoliCon](https://dineshsolanki.github.io/FoliCon/) - Automatic Custom Media Icons / Folders / [GitHub](https://github.com/DineshSolanki/FoliCon)
 * [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
-* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 * [FileBot](https://www.filebot.net/) - Media File Renaming
 * [TVRename](https://www.tvrename.com/) - TV File Data Automation
@@ -226,15 +221,12 @@
 
 ## ▷ Offline PDF Toolkits
 
-* ⭐ **[PDFGear](https://www.pdfgear.com/)**
-* [PDF24](https://www.pdf24.org/)
+* ⭐ *[PDF24](https://www.pdf24.org/)**
+* [PDFGear](https://www.pdfgear.com/)
 * [Foxit](https://www.foxit.com/pdf-reader/) / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * [xPDFReader](https://www.xpdfreader.com/)
 * [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
-* [PrivatePDF](https://photown.github.io/private-pdf/)
-* [PDFBox](https://pdfbox.apache.org/)
-* [OpenPDF](https://github.com/LibrePDF/OpenPDF)
-* [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+* [Stirling-PDF](https://stirlingpdf.io/) / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ***
 
@@ -267,9 +259,6 @@
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filezilla)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client
-* [Wing FTP](https://www.wftpserver.com/) - FTP Client
-* [Xlight](https://xlightftpd.com/) - FTP Client
-* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
@@ -279,25 +268,12 @@
 * ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop)
 * ⭐ **[JustBeamIt](https://justbeamit.com/)**
 * ⭐ **[SpaceDrop](https://spacedrop.app/)**
-* [Surge](https://getsurge.io/) - P2P App
-* [Wormhole](https://wormhole.app/)
-* [ToffeeShare](https://toffeeshare.com/)
+* [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
+* [Wormhole](https://wormhole.app/) / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/SocketDev)
+* [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
 * [new.space](https://new.space/)
-* [FilePizza](https://file.pizza/)
-* [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze)
-* [TransferNow](https://www.transfernow.net/en)
-* [Horizon Send](https://send.hrzn.cool/)
-* [Salad Room](https://saladroom.net/)
-* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop)
-* [sendfilesencrypted.com](https://sendfilesencrypted.com/)
-* [LIGHTNING SHARE](https://lightning-share.vercel.app/)
-* [rDrop](https://rdrop.link/)
-* [WebDrop](https://webdrop.space/)
-* [MyAirBridge.com](https://www.myairbridge.com/)
-* [Sprend](https://sprend.com/)
-* [WebWormhole](https://webwormhole.io/)
-* [EchoDuck](https://oglama.com/)
-* [FileLove](https://file.love/)
+* [FilePizza](https://file.pizza/) / [GitHub](https://github.com/kern/filepizza)
+* [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
 
 ***
 
@@ -308,11 +284,10 @@
 ***
 
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
-* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Cold Storage Bypass](https://greasyfork.org/en/scripts/527711) / [Manager Export](https://greasyfork.org/en/scripts/515250)
+* ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 Days After Last Pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
 * ⭐ **[Files.vc](https://files.vc/)** - 10GB / Forever / [Discord](https://discord.com/invite/ArMj8q8psR)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.co/), [3](https://fuckingfast.net/), [4](https://bzzhr.co/) - Unlimited / 8 Days, Can Extend Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [Send.now](https://send.now/) - 100GB / 30 Days After Last Download
 * [Transfer.it](https://transfer.it/) / 20GB / 90 Days / Owned by Mega.nz
@@ -381,7 +356,6 @@
 * ⭐ **[mega](https://mega.io/)** - 20GB Free / 3 Months / ~$4.50 for 1TB / [GitHub](https://github.com/meganz)
 * [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / $2 for 1TB
 * [filen](https://filen.io/) - 10GB Free / 3 Months / ~$8 for 1TB / Account Required for Sharing
-* [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
@@ -415,6 +389,7 @@
 * [AList](https://alist.nn.ci) - Cloud Storage Manager
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [xpipe](https://xpipe.io) - Remote File Manager
+* [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 
 ***
 

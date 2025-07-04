@@ -28,6 +28,7 @@
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager
 * [Netbalancer](https://netbalancer.com/) - Internet Traffic Control
 * [Arcai](https://arcai.com/) - WiFi Speed Control
+* [NeverSSL](http://neverssl.com/) - Fix Public Wi-Fi Login Pages
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - Windows Hosts File Editor
 * [MAC Address](https://macaddress.io/) - MAC Address Lookup
 * [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
@@ -91,7 +92,7 @@
 
 ## ▷ Captcha Tools
 
-* ⭐ **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver
+* ⭐ **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver / [Improve Success Rate](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buster-note) (Important)
 * [NopeCHA](https://nopecha.com/) - Auto Captcha Solver / [Required Tokens](https://nopecha.com/manage) / [Discord](https://discord.com/invite/yj7cTYBQaw)
 * [Privacy Pass](https://github.com/cloudflare/pp-browser-extension) - Save Captcha Tokens
 * [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) - hCaptcha Demo / Get Captcha Tokens
@@ -104,20 +105,21 @@
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#teamspeak-warning) - Voice Chat
-* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [LittlePlanets](https://littleplanets.us/), [Convene](https://letsconvene.im/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Stinto](https://stinto.chat/en), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / No Account Required Chats
+* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Convene](https://letsconvene.im/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Stinto](https://stinto.chat/en), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / No Account Required Chats
 * ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
 * [Pidgin](https://www.pidgin.im/) / [GitHub](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
 * [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
-* [Atlus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
+* [Altus](https://github.com/amanharwara/altus) or [WAO](https://dedg3.com/wao/) - WhatsApp Clients
 * [WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter), [2](https://wts.knugi.dev/) - WhatsApp HTML Chat Exporter / Root Required
 * [WAIncognito](https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil) - Disable WhatsApp Read Receipts & Presence Updates
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [MiroTalk](https://p2p.mirotalk.com/) / [2](https://mirotalk.up.railway.app/) or [MiroTalk SFU](https://sfu.mirotalk.com/) - Video Chat / [GitHub](https://github.com/miroslavpejic85/mirotalk)
 * [Videolink2me](https://videolink2me.com/) - Video Chat
+* [Jitsi](https://jitsi.org/) - Video Chat / [Web App](https://meet.jit.si/) / [GitHub](https://github.com/jitsi/jitsi-meet)
 * [Hello](https://hello.vasanthv.me/) - Video Chat / [GitHub](https://github.com/vasanthv/hello)
 * [Briefing](https://brie.fi/ng) - Video Chat
 * [Talky](https://talky.io/) - Video Chat
@@ -371,7 +373,6 @@
 * [PicSee](https://picsee.io/) - `psee.io/5pye68`
 * [Jii.Li](https://jii.li/) - `jii.li/hNFXP`
 * [u.to](https://u.to/) - `u.to/jc85Ig`
-* [f1.tf](https://f1.tf/) - `f1.tf/hMbn`
 * [ShortURL](https://shorturl.at/) - `shorturl.at/ioOk0`
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [Walee](https://wal.ee/) - `wal.ee/zluqo`
@@ -409,7 +410,6 @@
 * ↪️ **[Domain Availability](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_availability)**
 * ⭐ **[censys](https://search.censys.io/)**, [wtfis](https://github.com/pirxthepilot/wtfis), [LinkScope](https://accentusoft.com/), [URLDNA](https://urldna.io/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * [Rankchart](https://rankchart.org/) - Multiple Domain Tools
-* [DNSTwist](https://dnstwist.it/) / [GitHub](https://github.com/elceef/dnstwist) or [DNSTwister](https://dnstwister.report/) - Phishing Domain Scanners
 * [WhoisRequest](https://whoisrequest.com/) or [Whois Lookup](https://whois.domaintools.com/) - Whois Search
 * [IPIP.NET](https://whois.ipip.net/) - Country / Region ASNs
 * [AtSameIP](https://atsameip.intercode.ca/) - Find Websites on the Same IP
@@ -592,6 +592,7 @@
 * ⭐ **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / [Nightly](https://www.mozilla.org/en-US/firefox/nightly/) / [Beta](https://www.mozilla.org/en-US/firefox/beta/) / [GitHub](https://github.com/mozilla-firefox/firefox)
 * ⭐ **[Firefox Trains](https://whattrainisitnow.com/)** - Official Release Tracker
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
+* [⁠Sine](https://github.com/CosmoCreeper/Sine) - Firefox Mod / Theme Manager
 * [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/-/blob/master/firefox.md) - Firefox Hidden Settings
 * [Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js Tweaks / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning)
 * [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Firefox Bookmarks

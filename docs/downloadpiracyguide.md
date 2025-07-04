@@ -11,7 +11,6 @@
 ***
 
 * 🌐 **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / [/u/ODScanner](https://reddit.com/u/ODScanner)
-* ↪️ **[Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups)**
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
@@ -35,6 +34,7 @@
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_internet_archive_tools)
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / [Donate](https://www.worldsrc.net/service_end)
+* [DirtyWarez](https://forum.dirtywarez.com/) - Video / Audio / Books / Comics
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics
 * [rlsbb](https://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://rlsbb.cc/), [4](http://rlsbb.in/) - Video / Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [PreDB](https://log.rlsbb.ru/)
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Books
@@ -117,7 +117,7 @@
 
 * 🌐 **[Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)**, [2](https://rentry.org/adobealt) - Adobe Software Alternative Index
 * ↪️ **[Windows ISOs / Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)**
-* ⭐ **[CRACKSurl](https://cracksurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
+* ⭐ **[AppsURL](https://appsurl.com/)** / [Telegram](https://t.me/cracksurldotcom)
 * ⭐ **[LRepacks](https://lrepacks.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)**
 * ⭐ **[soft98](https://soft98.ir/)** - Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Anti-Adblock Fix](https://github.com/AdguardTeam/AdGuardExtra)
@@ -195,7 +195,7 @@
 
 * 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
 * 🌐 **[IRC Client Comparisons](https://en.wikipedia.org/wiki/Comparison_of_IRC_clients)**
-* [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [LoadGuru](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
+* [IRC Guide](https://rentry.org/ircfmhyguide), [Libera Guides](https://libera.chat/guides/), [New Blood](https://anonops.com/newblood/) or [Simple Wiki Guide](https://en.wikipedia.org/wiki/Wikipedia:IRC/Tutorial) - IRC Guides
 * [AdiIRC](https://adiirc.com/), [KVIrc](https://github.com/kvirc/KVIrc), [Konversation](https://konversation.kde.org/), [Convos](https://convos.chat/) or [Halloy](https://github.com/squidowl/halloy) - IRC Clients
 * [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [libera](https://libera.chat/), [tilde](https://tilde.chat/), [anonops](https://anonops.com/) or [rizon](https://rizon.net/) - IRC Networks
@@ -227,7 +227,6 @@
 * [usenet-crawler](https://www.usenet-crawler.com/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
-* [NZBKing](https://nzbking.com/)
 * [g4u](https://g4u.to/) - Download Games via Usenet / PW: `404`
 * [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials

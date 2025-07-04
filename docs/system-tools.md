@@ -19,7 +19,7 @@
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
-* [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) or [Pastas](https://rentry.org/pastas#guides) - Windows Guides
+* [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Microsoft Community](https://msft.chat/) / [Discord](https://discord.com/invite/microsoft) or [Pastas](https://rentry.org/pastas#guides) - Windows Guides
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
@@ -58,6 +58,8 @@
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/), [Nilesoft Shell](https://nilesoft.org/) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
 * [RCWM](https://github.com/GChuf/RCWM) - Tweaked Context Menus
 * [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
+* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
+* [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [RBTray](https://github.com/benbuck/rbtray) - Minimize any App to Tray
@@ -74,7 +76,7 @@
 * ⭐ **[UniGetUI](https://www.marticliment.com/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/marticliment/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager
 * ⭐ **[sfsu](https://github.com/winpax/sfsu/)** or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco), [Patch My PC](https://patchmypc.com/home-updater) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
+* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco) or [RuckZuck](https://ruckzuck.tools/) - Package Managers
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
@@ -94,6 +96,7 @@
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
+* [Organize](http://organize.readthedocs.io) - Automated File Manager
 
 ***
 
@@ -123,7 +126,7 @@
 * ⭐ **[Parsec](https://parsec.app/)** - Desktop Client / [X](https://x.com/parsecteam) / [Discord](https://discordapp.com/invite/cQjEGFy)
 * ⭐ **[RustDesk](https://rustdesk.com/)** - Desktop Client / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Aspia](https://aspia.org/)** - Desktop Client / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
+* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
 * [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Arcane](https://github.com/PhrozenIO/Arcane) - Desktop Client
 * [HopToDesk](https://www.hoptodesk.com/) - Desktop Client / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
@@ -174,7 +177,6 @@
 * [Looking Glass](https://looking-glass.io/) - App for Using Kernel-Based Virtual Machine Configured for VGA PCI Pass-Through / [GitHub](https://github.com/gnif/LookingGlass)
 * [QEMU](https://www.qemu.org/) / [GitLab](https://gitlab.com/qemu-project/qemu), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/) or [Denodo Test](https://community.denodo.com/test-drives/) - Virtual Machines
 * [OSBoxes](https://www.osboxes.org/) - Preinstalled Virtual Machine
-* [Terminator](https://terminator.aeza.net/) - Online Virtual Machines
 * [JSLinux](https://bellard.org/jslinux/) - Online Linux Virtual Machines
 * [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
@@ -340,6 +342,7 @@
 
 * ⭐ **[Rufus](https://rufus.ie/)** - Create Bootable USB Drives
 * ⭐ **[YUMI](https://yumiusb.com/)**, [2](https://pendrivelinux.com/yumi-multiboot-usb-creator/) - Create Bootable USB Drives
+* [⁠balenaEtcher](https://etcher.balena.io/) - Create Bootable USB Drives
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
@@ -373,7 +376,7 @@
 * [MagNumDB](https://www.magnumdb.com/), [ErrorLookup](https://github.com/henrypp/errorlookup) or [Microsoft Error Lookup](https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool) - Windows Debugging Tools
 * [Medicat](https://medicatusb.com/) / [GitHub](https://github.com/mon5termatt/medicat_installer), [⁠SergeiStrelec](https://sergeistrelec.name/), [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) or [Hiren's BootCD PE](https://www.hirensbootcd.org/) - WinPE / Recovery Toolkits
 * [/r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) - Tech Support Subreddit / [Discord](https://discord.gg/2EDwzWa)
-* [Hardforum](https://hardforum.com/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
+* [Hardforum](https://hardforum.com/), [TechGuy](https://www.techguy.org/), [Eleven Forums](https://www.elevenforum.com/) or [Ten Forums](https://www.tenforums.com/) - Tech Support Forums
 
 ***
 
@@ -381,7 +384,7 @@
 
 * 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)** or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Discord](https://discord.com/invite/rainmeter)
-* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrbg-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RGBSync](https://rgbsync.com/), [SignalRGB](https://www.signalrgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
+* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrbg-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [SignalRGB](https://www.signalrgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
 * ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
 * Styled Themes - [Anime](https://winmoes.com/) / [Modern Style](https://www.vinstartheme.com/) / [macOS Style](https://redd.it/pd5ha6), [2](https://github.com/Runixe786/Macified-Windows) / [Old School Style](https://winclassic.boards.net/), [2](https://forum.spacehey.com/topic?id=94545)
 * [VirtualCustoms](https://virtualcustoms.net/) or [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Communities
@@ -403,6 +406,8 @@
 * [HackBGRT](https://github.com/Metabolix/HackBGRT) - Boot Logo Changer
 * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Auto Change Wallpaper
 * [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - File Explorer Effects
+* [QTTabBar](https://github.com/indiff/qttabbar) - Windows File Explorer Enhancement
+* [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Title Bar Effects
 * [ModernFlyouts](https://modernflyouts-community.github.io) - Modern Flyouts / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells
@@ -430,7 +435,7 @@
 * ⭐ **[Rev Wallpaper](https://we-img-search.ordinall.me/)** or [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** or [Ghibli Upscaled](https://rentry.co/FMHYBase64#ghibli-upscaled) - Studio Ghibli Wallpapers
 * ⭐ **[Ultimate Windows Wallpack](https://rentry.co/fmhybase64#windows-wallpapers)** / [Wiki](https://windowswallpaper.miraheze.org/wiki/Main_Page), [Spotlight](https://windows10spotlight.com/) - Windows Wallpapers
-* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
+* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers
 * [/r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Community
 * [DualMonitorBackgrounds](https://www.dualmonitorbackgrounds.com/) - Dual Monitor Wallpapers
 * [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations) - Landscape Wallpapers
