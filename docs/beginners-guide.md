@@ -26,9 +26,9 @@ For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/a
 
 We recommend **[Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_firefox_tools)**, but you can also try **[Privacy-Focused Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)** or **[Brave](https://brave.com/)** if you prefer Chromium.
 
-For Android we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
+For Android, we recommend **[Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)**, **[Brave](https://brave.com/)** or **[Cromite](https://github.com/uazo/cromite)**.
 
-For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Safari + [Adguard](https://adguard.com/en/adguard-ios/overview.html).
+For iOS, we recommend **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Safari + [Adguard](https://adguard.com/en/adguard-ios/overview.html).
 
 !!!note We recommend looking through our [Extension](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_browser_extensions) / [Userscript](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_userscripts) sections to find ways to enhance your browser.
 
@@ -37,7 +37,8 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 ### Movies / Shows
 
 * **Streaming: [P-Stream](https://pstream.mov/) / [Cineby](https://www.cineby.app/) / [Hexa](https://hexa.watch/)**
-* **Torrenting: [1337x](https://1337x.to/movie-library/1/)**
+* **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drives_.2F_directories)**
+* **Torrenting: [1337x](https://1337x.to/movie-library/1/) / [ExT.to](https://ext.to/browse/?cat=1)**
 * **Sports Streaming: [Streamed](https://streamed.su/) / [WatchSports](https://watchsports.to/)**
 * **Drama Streaming: [DramaGo](https://dramago.me/) / [DramaCool](https://dramacool.com.tr/)**
 * **Track / Discover: [Trakt](https://trakt.tv/) / [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
@@ -46,7 +47,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 ### Anime
 
-* **Streaming: [AnimeKai](https://animekai.to/) / [Miruro](https://www.miruro.com/) / [HiAnime](https://hianime.to/)**
+* **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/) / [HiAnime](https://hianime.to/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Hi10Anime](https://hi10anime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/)**
 * **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
@@ -57,7 +58,7 @@ For iOS **[Orion](https://kagi.com/orion/)**, [Brave](https://brave.com/) or Saf
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Custom YouTube Music](https://th-ch.github.io/youtube-music/)**
 * **Downloading: [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
-* **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) (iOS)**
+* **Mobile: [ReVanced Manager](https://revanced.app/) (Android) / [Metrolist](https://github.com/mostafaalagamy/metrolist) (Android) / [EeveeSpotify](https://github.com/whoeevee/EeveeSpotifyReborn) (iOS)**
 * **Track / Discover: [Last.fm](https://www.last.fm/home) / [RateYourMusic](https://rateyourmusic.com/)**
 
 ***
@@ -157,7 +158,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Piracy Glossary](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafesites)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding
-* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772)** - Tools to decode encrypted base64 links
+* **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Tools to decode encrypted base64 links
 * **[FMHY.net](https://fmhy.net/)** - Our website with many more sites / tools
 
 ***

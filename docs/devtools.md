@@ -106,14 +106,12 @@
 * [IT Tools](https://it-tools.tech/)
 * [Web Toolbox](https://web-toolbox.dev/en)
 * [devina](https://devina.io/)
-* [w3resource](https://www.w3resource.com/)
 * [wangchujiang](https://wangchujiang.com/tools/)
 * [SmallDev.tools](https://smalldev.tools/)
 * [Coders Tool](https://www.coderstool.com/)
 * [Utilities and Tools](https://utilities-online.info/)
 * [Clean CSS](https://www.cleancss.com/)
 * [FreeFormatter.com](https://freeformatter.com/)
-* [Online String Tools](https://onlinestringtools.com/)
 
 ***
 
@@ -228,11 +226,11 @@
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Delta](https://github.com/dandavison/delta) or [Git-Split-Diffs](https://github.com/banga/git-split-diffs) - Syntax Highlighting / Comparison
 * [Onefetch](https://onefetch.dev) - Command-line Git information tool / [GitHub](https://github.com/o2sh/onefetch)
+* [pre-commit](https://pre-commit.com/) - Manage / Maintain Pre-Commit Hooks / [GitHub](https://github.com/pre-commit/)
 * [commitlint](https://commitlint.js.org/) - Lint Commit Messages / [GitHub](https://github.com/conventional-changelog/commitlint)
 * [Git Cliff](https://git-cliff.org) - Changelog Generator
 * [github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - Terminal Style Readme
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/git-quick-stats/git-quick-stats)
-* [gitignore.io](https://www.toptal.com/developers/gitignore/) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
 
 ***
 
@@ -245,7 +243,6 @@
 * 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
 * 🌐 **[GitHub-Userscripts](https://greasyfork.org/en/users/24847)** - GitHub Userscripts
 * ⭐ **[GitHub Desktop](https://desktop.github.com/)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
-* ⭐ **[GitHub.Dev](https://github.dev/)** - GitHub Web Apps
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
@@ -263,11 +260,8 @@
 * [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
 * [Pages CMS](https://pagescms.org/) - GitHub Content Management System / [GitHub](https://github.com/pages-cms/pages-cms)
 * [KeyManager](https://github.com/Yash-Garg/KeyManager) - GitHub SSH / GPG Key Manager
-* [Serctl](https://d.serctl.com/) - Backup GitHub Projects
-* [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
-* [No Secrets](https://sourcegraph-community.github.io/no-secrets/) - Cleanup Sensitive Files in Repos
 * [DownGit](https://downgit.evecalm.com/), [GitHub2File](https://github.com/cognitivecomputations/github2file), [Gitzip](https://kinolien.github.io/gitzip/) or [Download Directory](https://download-directory.github.io/) - Download GitHub Repo Sub-Folders / Files
-* [Install from GitHub](https://github.com/MaxGyver83/install-from-github) or [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub
+* [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
 * [Graphite](https://graphite.dev/) or [Stacking](https://stacking.dev/) - Improve Pull Request Workflow
@@ -335,7 +329,7 @@
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
 * [Lip Gloss](https://github.com/charmbracelet/lipgloss) - Style Definitions for Terminal Layouts
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
-* [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/)
+* [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/) / [Recipes](https://catonmat.net/cookbooks/curl)
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - `grep` Alternatives
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
@@ -357,7 +351,7 @@
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
 * 🌐 **[⁠NASA API](http://api.nasa.gov/)** - NASA Open APIs
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** / [2](https://cas.zukijourney.com/), [FreeAPIProviders](https://rentry.co/freeapiproviders) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
-* 🌐 **[Countless](https://countless.dev/)** - AI API Price Comparisons
+* 🌐 **[LMAerena Price Compare](https://countless.dev/)** - AI API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib) / [Docs](https://docs.wyzie.ru/)
@@ -389,7 +383,7 @@
 * ⭐ **[Hugging Face](https://huggingface.co/)**, [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
 * ⭐ **[Deep playground](http://playground.tensorflow.org/)** - Neural Networks Playground
 * [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
-* [⁠Unsloth](https://github.com/unslothai/unsloth?tab=readme-ov-file#-finetune-for-free) - LLM Finetuning / Text Completion / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
+* [⁠Unsloth](https://github.com/unslothai/unsloth) - LLM Finetuning / Text Completion / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide)
 * [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
 * [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
@@ -470,10 +464,10 @@
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Extensions](https://www.vsixhub.com/) / [Extensions Marketplace](https://rentry.co/vscodiumguide)
 * ⭐ **[JetBrains](https://jetbrains.com/)** / [Unlock](https://rentry.co/FMHYBase64#jetbrains)
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org)
+* ⭐ **[zed](https://zed.dev/)** - Code Editor / [GitHub](https://github.com/zed-industries/zed)
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - Code Editor / [Docs](https://emacsdocs.org/) / [Resources](https://github.com/emacs-tw/awesome-emacs)
 * ⭐ **[WebDen](https://webden.dev/)**, [Sharplab](https://sharplab.io/), [tech.io](https://tech.io/) or [CodingGround](https://www.tutorialspoint.com/codingground.htm) - Code Playgrounds
-* ⭐ **[Android Studio](https://developer.android.com/studio)** / [Guide](https://developer.android.com/studio/intro), [SupaBase](https://supabase.com/) or [Plasmic](https://www.plasmic.app/) - App Creators / Builders
 * [Heynote](https://heynote.com/) - Code Editor / Notepad
 * [Edna](https://edna.arslexis.io/) - Web App / Code Editor / Notepad
 * [Trinket](https://trinket.io/) - Web App / Live Preview / Sign-Up Required / Online Workspace
@@ -532,9 +526,10 @@
 
 ## ▷ Android Code Editors
 
+* ⭐ **[Android Studio](https://developer.android.com/studio)** or [Plasmic](https://www.plasmic.app/) - App Creators / Builders
 * ⭐ **[Acode](https://acode.app)** - Android Code Editor / [GitHub](https://github.com/Acode-Foundation/Acode)
+* ⭐ **[Squircle-CE](https://github.com/massivemadness/Squircle-CE)** - Android Code Editor
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
-* [Squircle-CE](https://github.com/massivemadness/Squircle-CE) - Android Code Editor
 * [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - Android Code Editor
 * [Spck Editor](https://play.google.com/store/apps/details?id=io.spck) - Android Code Editor
 * [droidvim](https://github.com/shiftrot/droidvim) - Vim Code Editor
@@ -659,7 +654,7 @@
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
 * [The Algorithms - C++](https://thealgorithms.github.io/C-Plus-Plus) - C++ Algorithms
-* [cpp.sh](https://cpp.sh/) - Online C++ Compiler
+* [⁠C++ Insights](https://cppinsights.io/) or [cpp.sh](https://cpp.sh/) - Online C++ Compiler / Explorers
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
 * [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
 
@@ -711,7 +706,7 @@
 * [Buttons.cool](https://www.buttons.cool/) - Copy CSS Buttons
 * [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
 * [CSS3 Transform](https://css-transform.moro.es/) - 2D & 3D CSS Transform Functions Visualizer
-* [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/) or [heropatterns](https://heropatterns.com/) - CSS Patterns / Gradients
+* [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [patternCraft](https://patterncraft.fun/), [GradientMagic](https://www.gradientmagic.com/) or [heropatterns](https://heropatterns.com/) - CSS Patterns / Gradients
 * [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
 * [Animista](https://animista.net/) - CSS Animations
 
@@ -778,7 +773,7 @@
 * ⭐ **[Ray.st](https://ray.st/)**, [BuiltWith](https://builtwith.com/) or [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * ⭐ **[GoAccess](https://goaccess.io/)** - Web Log Analyzer / [GitHub](https://github.com/allinurl/goaccess)
 * ⭐ **[Formulaer](https://formulaer.com/)**, [Tally](https://tally.so/), [FormBricks](https://github.com/formbricks/formbricks), [Formshare](https://formshare.ai/), [Deformity](https://deformity.ai/) or [Stylr](https://www.stylr.xyz/) - Form Builders
-* [DataNodes](https://datanodes.to/) - Webmasters Only File Host / [Discord](https://discord.gg/mKyBMyeKvh)
+* [FileQ](https://fileq.net/) or [DataNodes](https://datanodes.to/) / [Discord](https://discord.gg/mKyBMyeKvh) - Webmasters Only File Hosts 
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Browserling Tools](https://www.browserling.com/tools/) or [WebCode](https://webcode.tools/) - Site Development Tools
 * [shadcn-ui](https://ui.shadcn.com/) or [shadcn-svelte](https://shadcn-svelte.com) - Web Component Libraries
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
@@ -790,7 +785,6 @@
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) - Things to Remember for Web Devs
 * [Dagu](https://dagu.readthedocs.io) - WebUI Job Manager / [GitHub](https://github.com/dagu-org/dagu)
-* [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Validation Services
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Apache](https://httpd.apache.org/) - HTTP Server
@@ -832,7 +826,7 @@
 ## ▷ Website Builders
 
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Lists of Static Website Generators / Frameworks
-* ⭐ **[WebStudio](https://webstudio.is/)** - Code Editor
+* ⭐ **[Webstudio](https://webstudio.is/)** - Code Editor
 * ⭐ **[Framer](https://www.framer.com/)** - Interactive Site / App Design Tool
 * ⭐ **[Eleventy](https://11ty.dev/)** - Static Site Generator / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * ⭐ **[Hugo](https://gohugo.io/)** or **[vitepress](https://vitepress.dev/)** - Static Website Generators
@@ -1140,7 +1134,7 @@
 * [W3Schools Spaces](https://www.w3schools.com/spaces/) - 100MB Storage (5MB A File) / 100MB Bandwidth / No Custom Domain
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
 * [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
-* [Reocities](https://www.reocities.xyz/) - Unspecified Storage / Unspecified Bandwidth / No Custom Domain
+* [Reocities](https://www.reocities.xyz/) - 1GB Storage / Unlimited Bandwidth / No Custom Domain
 * [yay.boo](https://yay.boo/) - 10MB Storage / Unlimited Bandwidth / No Custom Domain
 * [Staclo](https://staclo.host/) - 30MB Storage / 1GB Bandwidth / No Custom Domain
 
@@ -1219,6 +1213,7 @@
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
+* [SupaBase](https://supabase.com/) - Database / Authentication Service
 * [ZAP](https://www.zaproxy.org/) - Web App Security Testing
 * [IP Intelligence](https://getipintel.net/), [AbuseIPDB](https://www.abuseipdb.com/) or [Proxy Check](https://proxycheck.io/) - Proxy / VPN / Bad IP Detection
 * [Fail2Ban](https://github.com/fail2ban/fail2ban) - Protect Servers from Brute Force Attacks
@@ -1235,12 +1230,11 @@
 * [HTTPToolkit](https://httptoolkit.com/) - Intercept, Debug, and Mock HTTP(S)
 * [Mozilla SSL](https://ssl-config.mozilla.org/) - SSL Configuration Generator
 * [SSLLabs](https://www.ssllabs.com/) - SSL Testing
-* [BadSSL](https://badssl.com/) - Test Clients Against Bad SSL Configs
 * [Hitch](https://www.varnish-software.com/community/hitch) - SSL / TLS Proxy / [GitHub](https://github.com/varnish/hitch)
-* [Let's Encrypt](https://letsencrypt.org/) or [Certbot](https://certbot.eff.org/) - Free TLS Certificates
-* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [Let's Encrypt](https://letsencrypt.org/) or [ZeroSSL](https://zerossl.com/) - Free TLS Certificates
+* [SSL for Free](https://www.sslforfree.com/) - Free SSL Certificates
 * [CertAlert](https://certalert.net/) - TLS/SSL Certificate Expiration Alerts
-* [acme.sh](https://github.com/acmesh-official/acme.sh) - Auto Issues / Certificate Renewal
+* [acme.sh](https://github.com/acmesh-official/acme.sh) or [Certbot](https://certbot.eff.org/) - Automatically Configure / Renew Certificates
 * [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
 * [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
 
@@ -1253,7 +1247,7 @@
 * ⭐ **[GHIDRA](https://ghidra-sre.org/)** - Reverse Engineering
 * ⭐ **[x64dbg](https://x64dbg.com/)** - Debugger for Reverse Engineering
 * [⁠LemmeDebug](https://greasyfork.org/en/scripts/537775) - Disable Anti-Devtools for Reverse Engineering / Debugging
-* [Radare](https://www.radare.org/n/) - Free Reversing Toolkit / [GitHub](https://github.com/radareorg/radare2) / [Discord](https://discord.gg/YBey7CR9jf)
+* [Radare](https://www.radare.org/n/) - Free Reversing Toolkit / [Discord](https://discord.gg/YBey7CR9jf) / [GitHub](https://github.com/radareorg/radare2)
 * [Rizin](https://rizin.re/) or [Cutter](https://cutter.re/) - Reverse Engineering Framework
 * [Frida](https://frida.re/) - Reverse Engineering
 * [Flare VM](https://github.com/mandiant/flare-vm) - Reverse Engineering Environment Setup Script

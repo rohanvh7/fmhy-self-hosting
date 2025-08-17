@@ -21,15 +21,16 @@
 * ⭐ **[WebOasis](https://weboasis.su/)**, [2](https://behu.io/), [3](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[Startpage](https://www.startpage.com/) / [Community Examples](https://www.reddit.com/r/startpages/) / [Subreddit](https://www.reddit.com/r/StartpageSearch/), [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
+[FMHY Startpage](https://fmhy.net/startpage), [r/startpages](https://www.reddit.com/r/startpages/), [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
 
 ### Customizable New Tab Page
 
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
-* [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
-* [Tabiverse](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#tabiverse-extensions) / [Discord](https://discord.gg/MUgRGwE)
+* ⭐ **[Mue](https://muetab.com/)** / [GitHub](https://github.com/mue/mue) - Customizable New Tab
+* ⭐ **[Bonjourr](https://bonjourr.fr/)** / [GitHub](https://github.com/victrme/Bonjourr) - Minimalist Startpage
+* [Renewed Tab](https://renewedtab.com/) / [GitLab](https://gitlab.com/renewedtab/renewedtab/) / [Discord](https://discord.gg/zYjR54b) - Customizable New Tab
 
-[mtab](https://github.com/maxhu08/mtab), [Minimal Startpage](https://github.com/deepjyoti30/startpage), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page), [Renewed Tab](https://renewedtab.com/), [Momentum](https://momentumdash.com/), [NightTab](https://github.com/zombieFox/nightTab), [Mue](https://github.com/mue/mue)
+[mtab](https://github.com/maxhu08/mtab), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Infinity New Tab](https://en.infinitynewtab.com/), [Momentum](https://momentumdash.com/)
 
 ***
 
@@ -37,7 +38,6 @@
 
 * [Video-Tutor](https://www.video-tutor.net/) / [YT](https://youtube.com/@theorganicchemistrytutor)
 * [Tyler DeWitt](https://www.youtube.com/user/tdewitt451)
-* [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor)
 * [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g)
 * [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
 * [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html)
@@ -72,7 +72,7 @@
 * [Cascii](https://cascii.app/) / [GitHub](https://github.com/casparwylie/cascii-core), [ASCII Flow](https://asciiflow.com/) or [tree](https://tree.nathanfriend.com/) - Create ASCII Diagrams
 * [SVGBob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert ASCII Diagrams to SVG Images
 
-[DGM](https://dgm.sh/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [Git](https://github.com/AykutSarac/jsoncrack.com)
+[DGM](https://dgm.sh/), [DrawDB](https://www.drawdb.app/) / [Discord](https://discord.gg/BrjZgNrmR6), [Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](https://www.chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [Dia](http://dia-installer.de/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [Graphonline](https://graphonline.top/en/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt), [Diagram.codes](https://www.diagram.codes/), [text2diagram](https://text2diagram.com/), [SankeyMATIC](https://sankeymatic.com/), [histogrammaker](https://histogrammaker.net/), [flowgorithm](http://flowgorithm.org/), [Chart Builder](https://textquery.app/tools/chart-builder/), [⁠JSON Crack](https://jsoncrack.com/) / [GitHub](https://github.com/AykutSarac/jsoncrack.com)
 
 ***
 
@@ -107,12 +107,6 @@
 
 ***
 
-## Encrypted XMPP Servers
-
-[Server List](https://xmpp.404.city/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [404.city](https://404.city/)
-
-***
-
 ## Free DNS Resolvers
 
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
@@ -143,7 +137,7 @@
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
 * [VPN Jantit](https://www.vpnjantit.com/)
-* [sshOcean](https://sshocean.com/) / [2](https://sshocean.net/)
+* [sshOcean](https://sshocean.com/), [2](https://sshocean.net/)
 * [FreeVPN](https://www.freevpn.us/)
 * [Goodssh](https://www.goodssh.com/)
 * [SSHKit](https://sshkit.com/)
@@ -176,27 +170,6 @@
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View Repository Forks
 
 [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [LibHunt](https://www.libhunt.com/), [bestofjs](https://bestofjs.org/), [grep.app](https://grep.app/), [git.news](https://git.news/)
-
-***
-
-## Hackintosh
-
-* ⭐ **[Hackintosh](https://hackintosh.com/)** - Hackintosh Building Guides
-* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Building Guides
-* ⭐ **[/r/Hackintosh](https://www.reddit.com/r/hackintosh/)** - Hackintosh Community / Subreddit / [Discord](https://discord.gg/u8V7N5C)
-* [/r/Hackintosh Tools](https://www.reddit.com/r/hackintosh/comments/npvuqg/hackintosh_macos_free_tools/) or [hackintosh-tools](https://rentry.org/hackintosh-tools) - Hackintosh Tools
-* [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines using QEMU
-* [OSX-PROXMOX](https://rentry.co/FMHYBase64#osx-proxmox) - macOS on Proxmox
-* [OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) - Hackintosh for Unsupported Hardware / [GitHub](https://github.com/dortania/OpenCore-Legacy-Patcher)
-* [VMware Workstation Hackintosh](https://docs.bluebubbles.app/server/advanced/macos-virtualization/running-a-macos-vm/deploying-macos-in-vmware-on-windows-full-guide) - Install macOS in Vmware Workstation
-* [Ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh) - Hackintosh for Ryzen
-* [Xiaomi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - Hackintosh for Xiaomi
-* [Unplugged](https://github.com/corpnewt/UnPlugged) - Bash Script for macOS Offline Installer
-* [EFI-Agent](https://github.com/benbaker76/EFI-Agent) - GUI App to Mount EFI Partitions
-* [Vmware Tools](https://packages.vmware.com/tools/frozen/darwin/) - VMware Tools ISO for macOS VM / [Unlocker](https://rentry.co/FMHYBase64#vmware-workstation)
-* [Emaculation](https://www.emaculation.com/) or [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) - Virtual macOS
-* [macOS for all computers](https://github.com/yusufklncc/Hackintosh-for-All-Computers) - Contains Prebuilt EFI for Systems
-* [Tonymacx86](https://www.tonymacx86.com/) or [Olarilla](https://olarila.com/) - Customized macOS for Intel and AMD / [Notes](https://rentry.org/what-to-choose)
 
 ***
 
@@ -234,27 +207,9 @@
 
 ***
 
-## LaTeX Tools
-
-* [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
-* [Gilles Castel](https://castel.dev/) - Homework & Note Writing Guides
-* [Overleaf](https://www.overleaf.com/), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors
-* [Typst](https://typst.app/home) / [GitHub](https://github.com/typst/typst) or [R Markdown](https://rmarkdown.rstudio.com/) - LaTeX Alternatives
-* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
-* [Quick LaTeX](https://quicklatex.com/) - Generate LaTeX Images
-* [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
-* [SimpleTex](https://simpletex.net/) - Formula Recognition to MathML and LaTeX / [Online](https://simpletex.net/ai/latex_ocr)
-* [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
-* [Detexify](https://detexify.kirelabs.org/classify.html) - Character Recognition
-
-***
-
 ## LibGen Mirrors
 
 * https://librarygenesis.net/ - site list
-* https://libgen.rs/ - mirror
-* https://libgen.is/ - mirror
-* https://libgen.st/ - mirror
 * https://libgen.li/ - clone
 * https://libgen.gs/ - clone
 * https://libgen.vg/ - clone
@@ -475,8 +430,7 @@
 
 ## Tab Managers
 
-* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)**
-* ⭐ **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)**
+* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** or **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)** - Firefox
 
 [OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.tabdeck.so/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
 

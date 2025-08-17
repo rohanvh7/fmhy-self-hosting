@@ -38,18 +38,18 @@
 ***
 
 * ↪️ **[Streaming Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_streaming)** - Host Videos on YouTube Style Sites
-* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Account Required
+* ⭐ **[DoodStream](https://doodstream.com/)** - 5GB / 60 Days / Sign-Up Required
 * ⭐ **[Litterbox](https://litterbox.catbox.moe/)** - 1GB / 3 Days
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / Allows Hotlinking
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / 10 Days
 * ⭐ **[Send.now](https://send.now/)** - Unlimited / 30 Days
-* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Account Required
-* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Account Required
+* [VOE](https://voe.sx/) - Unlimited / 60 Days / 720p / Sign-Up Required
+* [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / 720p / Sign-Up Required
 * [FEX.NET](https://fex.net/) - 100GB / 10GB Guest / 7 Days
-* [FileMoon](https://filemoon.sx/), [2](https://filemoon.in/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever / Account Required
+* [FileMoon](https://filemoon.sx/), [2](https://filemoon.in/), [3](https://filemoon.to/) - 50GB / 40TB per account / Forever / Sign-Up Required
 * [Hexupload](https://hexload.com/) or [AnonTransfer](https://anontransfer.com/) - 15GB / 30 Days
-* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Account Required
-* [Streamtape](https://streamtape.com/) - 15GB / Account Required / [.to](https://streamtape.to/)
+* [Vidoza](https://vidoza.net/) - 15GB / 15 Days / Sign-Up Required
+* [Streamtape](https://streamtape.com/) - 15GB / Sign-Up Required / [.to](https://streamtape.to/)
 * [⁠Darkibox](https://darkibox.com/) - 10GB / 53 Days 
 * [Dubz](https://dubz.co/) - 100MB / Forever
 * [Streamable](https://streamable.com/) - 250MB / 2 Days (90 Days with Account)
@@ -81,7 +81,7 @@
 * ⭐ **[FFmpeg](https://ffmpeg.org/)** - Multimedia Processors / Windows, Mac, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
 * ⭐ **[Shutter Encoder](https://www.shutterencoder.com/)** - Video Encoding Software / Windows, Mac, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * ⭐ **[MKVToolNix](https://mkvtoolnix.download/)** - MKV Editing Tools / Windows, Mac, Linux
-* ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
+* ⭐ **[archived-things](https://sometimes-archives-things.github.io/archived-things/)**, [Codec Wiki](https://wiki.x266.mov/) / [Discord](https://discord.gg/bbQD5MjDr3) / [GitHub](https://github.com/av1-community-contributors/codec-wiki), [The Encoding Guide](https://encoding-guide.neocities.org/) or [Silentaperture](https://silentaperture.gitlab.io/mdbook-guide/) - Video Encoding Guides
 * ⭐ **[Disc Ripping Guide](https://nullish.cat/blog/disc-rip)**, [2](https://rentry.org/disc-rip) - Disc Ripping Guide
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn How to Remux Videos
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
@@ -215,10 +215,10 @@
 * ⭐ **[SyncWatch](https://github.com/Semro/syncwatch)** - Online Extension
 * ⭐ **[Kosmi](https://kosmi.io/)** - Online Player
 * ⭐ **[WatchParty](https://www.watchparty.me/)** - Online / Virtual Browser
-* ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) - Docker Virtual Browser
+* ⭐ **[neko](https://neko.m1k1o.net/)** - Docker Virtual Browser / [GitHub](https://github.com/m1k1o/neko)
 * [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795) - Virtual Computer Embed
 * [Trast](https://trast.live/), [OpenTogetherTube](https://opentogethertube.com/), [TurtleTV](https://turtletv.app/) or [twoseven](https://twoseven.xyz/) - Online Player
-* [Metastream](https://getmetastream.com/) - Online Extension / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream) / [X](https://x.com/getmetastream)
+* [Metastream](https://getmetastream.com/) - Online Extension / [X](https://x.com/getmetastream) / [Discord](https://discord.com/invite/nfwPRb9) / [GitHub](https://github.com/samuelmaddock/metastream)
 * [Caracal Club](https://caracal.club/) - Online Video Player
 * [CyTube](https://cytu.be/) - Online Video Player
 * [VideoTogether](https://2gether.video/en-us/) - App
@@ -263,12 +263,12 @@
 # ► Media Servers
 
 * 🌐 **[Auto Download Tool Index](https://web.archive.org/web/20250322180317/https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/)**
-* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [Github](https://github.com/jellyfin/jellyfin)
+* ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
 * [Self-Hosted Anime](https://github.com/shyonae/selfhosted-anime/wiki) - Anime Server Setup Guides
 * [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
-* [Organizr](https://github.com/causefx/Organizr), [Reiverr](https://github.com/aleksilassila/reiverr) or [Homarr](https://github.com/homarr-labs/homarr) - Media Server Managers
+* [Organizr](https://github.com/causefx/Organizr), [Reiverr](https://github.com/aleksilassila/reiverr) or [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr) - Media Server Managers
 * [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Huntarr](https://github.com/plexguide/Huntarr.io) - Automate Media Server Missing Content / Quality Upgrades / [Discord](https://discord.com/invite/PGJJjR5Cww)
@@ -282,7 +282,7 @@
 * [Homehost](https://github.com/ridhwaans/homehost) - Media Server
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server
-* [WatchIt](https://watchit.movie/) / [GitHub](https://github.com/WatchItDev/watchit-app) / [Discord](https://discord.com/invite/4vQG56NuHA) - Media Server
+* [WatchIt](https://watchit.movie/) - Media Server / [Discord](https://discord.com/invite/4vQG56NuHA) / [GitHub](https://github.com/WatchItDev/watchit-app)
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
 * [Seanime](https://seanime.rahim.app/) - Anime Server
@@ -314,7 +314,7 @@
 ## ▷ Jellyfin Tools
 
 * 🌐 **[Awesome Jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)** - Jellyfin Resources
-* ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Linux, Mac
+* ⭐ **[Fladder](https://github.com/DonutWare/Fladder/)** - Desktop Client / Windows, Linux, Mac, Android, iOS
 * [Blink](https://github.com/prayag17/Blink) - Desktop Client
 * [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Desktop Client
 * [/r/JellyfinShare](https://www.reddit.com/r/JellyfinShare/) - Jellyfin Server Sharing
@@ -414,7 +414,7 @@
 * [Panzoid](https://panzoid.com/)
 * [vidmix](https://vidmix.app/)
 * [Video Cutter](https://video-cutter-js.com/)
-* [Omniclip](https://omniclip.app/) / [GitHub](https://github.com/omni-media/omniclip) / [Discord](https://discord.com/invite/Nr8t9s5wSM)
+* [Omniclip](https://omniclip.app/) / [Discord](https://discord.com/invite/Nr8t9s5wSM) / [GitHub](https://github.com/omni-media/omniclip)
 * [Vididoo](https://vididoo.vercel.app/) - Multitool
 * [VideoCandy](https://videocandy.com/) - Multitool
 * [Video2Edit](https://www.video2edit.com/) - Multitool

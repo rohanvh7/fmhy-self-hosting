@@ -20,7 +20,6 @@
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 * [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
-* [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Design
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 
 ***
@@ -31,7 +30,7 @@
 
 ***
 
-* ⭐ **[embeds.video](https://embeds.video/)**, **[x266.mov](https://x266.mov/discord-embed/)**, [stolen.shoes](https://stolen.shoes/) or [npf.is](https://discord.nfp.is/) - Discord Video Embedders
+* ⭐ **[x266.mov](https://x266.mov/discord-embed/)**, **[embeds.video](https://embeds.video/)**, [stolen.shoes](https://stolen.shoes/) or [npf.is](https://discord.nfp.is/) - Discord Video Embedders
 * ⭐ **[embedez](https://embedez.com/)** - Social Link Embedder / [X](https://twitter.com/embedez) / [Discord](https://discord.gg/FmW9c8gtCp)
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://github.com/CroissantDuNord/discord-adblock) - Hide Nitro / Boost Ads
 * ⭐ **[Revolt](https://revolt.chat/)** / [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/revoltchat/awesome-revolt) or [Guilded](https://www.guilded.gg/) - Discord Alternatives
@@ -56,7 +55,7 @@
 * [Embed Visualizer](https://embed.discord.website/) or [EB](https://eb.nadeko.bot/) - Preview Embeds
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
-* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
 * [haystackfs](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
@@ -103,7 +102,7 @@
 * [Snowsgiving Icons & Emotes](https://web.archive.org/web/20230729100139/https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons / Emojis
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Convert Text to Discord Emojis
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
-* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [GitHub](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.premid.app/)
+* [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Discord](https://discord.premid.app/) / [GitHub](https://github.com/PreMiD/PreMiD)
 * [Music Presence](https://musicpresence.pocha.moe/) - Audio Player Rich Presence / [Discord](https://discord.gg/musicpresence) / [GitHub](https://github.com/ungive/discord-music-presence)
 * [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Rich Presence
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
@@ -114,8 +113,8 @@
 
 ## ▷ Discord Bots
 
-* ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Discord](https://discord.com/invite/WrnKKF8) / [Telegram](https://t.me/freestuff_hub)
-* [FixEmbed](https://github.com/kenhendricks00/FixEmbed) - Fix Embeds on Discord Bot
+* ⭐ **[FreeStuff Bot](https://freestuffbot.xyz/)** - Free Games Alert Bot / [Telegram](https://t.me/freestuff_hub) / [Discord](https://discord.com/invite/WrnKKF8)
+* [FixEmbed](https://www.kenhendricks.me/FixEmbed) - Fix Embeds on Discord Bot / [GitHub](https://github.com/kenhendricks00/FixEmbed)
 * [esmBot](https://github.com/esmBot/esmBot) - Image / Music Bot
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
@@ -337,20 +336,19 @@
 * ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
 * ⭐ **[UnTrap](https://untrap.app/)**, [TubeMod](https://github.com/Pedro-Gregorio/TubeMod) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
-* [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#enhancer-for-yt-note) - YouTube Enhancement Extensions
+* ⭐ **[VORAPIS](https://vorapis.pages.dev/)** -  Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Discord](https://discord.com/invite/tBBZQMscag)
+* [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [YouTube Tweaks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#youtube-tweaks) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#enhancer-for-yt-note) - YouTube Enhancement Extensions
 * [PKGA](https://greasyfork.org/en/scripts/442089) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Theater Mode
 * [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
 * [Fast Forward YT Shorts](https://greasyfork.org/en/scripts/466438) - Add Seek Hotkeys to Shorts
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
 * [YT Like-Dislike Shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Add Like / Dislike Hotkeys
 * [YT: Not Interested](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Show "Not Interested" and "Don't Recommend" Buttons
-* [YouTube Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Search Results in Grid View
-* [YouTube Search Fixer](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Declutter Search Results / Homepage
+* [YouTube Search Fixer](https://phoennix.gitlab.io/youtubesearchfix/) - Declutter Search Results / Homepage
 * [BlockTube](https://github.com/amitbl/blocktube) or [YTBlock](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea) - YouTube Content Blocker
 * [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
 * [Restore Handle to Custom](https://greasyfork.org/en/scripts/468740) - Shows Display Name Instead of Handle
-* [Focused YouTube](https://github.com/makaroni4/focused_youtube), [yt-neuter](https://github.com/mchangrh/yt-neuter) or [GoodTube](https://github.com/goodtube4u/goodtube) - Minimalist YouTube
-* [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux), [VORAPIS](https://vorapis.pages.dev/) / [Extra Features](https://greasyfork.org/en/scripts/485622) / [Discord](https://vorapis.pages.dev/#/join_community) - Restore Classic YouTube Layout / [/r/OldYouTubeLayout](https://www.reddit.com/r/oldyoutubelayout/)
+* [Focused YouTube](https://github.com/makaroni4/focused_youtube) or [yt-neuter](https://github.com/mchangrh/yt-neuter) - Minimalist YouTube
 * [Non-Rounded Design](https://greasyfork.org/en/scripts/453802) - Revert YouTube's New Rounded Design
 * [Timestamped YouTube Comments](https://chromewebstore.google.com/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
 * [Tabview YouTube](https://greasyfork.org/en/scripts/501249) - View Comments / Info in Tab View
@@ -367,7 +365,6 @@
 * [Walrus](https://joinwalrus.tv/), [Sync-Tube](https://sync-tube.de/), [YouTube Party](https://youtubeparty.netlify.app/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [TwitchTheater](https://twitchtheater.tv/), [VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [YouTube Clone KMP](https://github.com/KhubaibKhan4/Youtube-Clone-KMP) - YouTube Frontend
-* [Poke](https://poketube.fun/) - YouTube Frontend
 * [Piped](https://piped.video/) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/) - YouTube Frontend / Sign-Up Required / [GitHub](https://github.com/TeamPiped/Piped)
 * [youtube-local](https://github.com/user234683/youtube-local) or [yt-local](https://git.sr.ht/~heckyel/yt-local) - YouTube Frontend
 * [YouT-ube](https://www.yout-ube.com/) - YouTube Frontend
@@ -442,7 +439,7 @@
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
-* [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find Videos with <100 Views
+* [YTBin](https://rentry.co/ytbin) / [Image](https://i.imgur.com/h2A19Pd.png), [2](<https://i.ibb.co/pv38kCj6/GTw-ILYb-XAAADWa-Q.png>) / [Video](https://youtu.be/zYmkOInF6Us), [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find Videos with <100 Views
 * [Find-Unfinished-YT](https://rentry.co/find-unfinished-yt) - Find Partially Watched Videos
 * [IMG_0001](https://walzr.com/IMG_0001) - Find Random YouTube Videos
 
@@ -663,7 +660,7 @@
 * ⭐ **[instances.social](https://instances.social/)** or [Mastodon Near Me](http://mastodon-near.me/) - Mastodon Instances
 * ⭐ **[Mastodon Apps](https://joinmastodon.org/apps)** - Mastodon Client List
 * [Phanpy](https://phanpy.social/) or [Mastodeck](https://mastodeck.com/) - Mastodon Clients
-* [MastoVue](https://mastovue.glitch.me/) or [FediWall](https://fediwall.social/) - View Public Timelines / Hashtags
+* [Fediwall](https://fediwall.social/) - View Public Timelines / Hashtags
 * [Followgraph](https://followgraph.vercel.app/) or [StreetPass](https://streetpass.social/) - Find Mastodon Users
 * [MastoGizmos](https://mastogizmos.com/) - Mastodon Search Tools
 * [western.social](https://western.social/) - User Search

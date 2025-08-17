@@ -7,7 +7,7 @@
 # ► Internet Tools
 
 * ↪️ **[Web Privacy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_web_privacy)**
-* [WebCatalog](https://webcatalog.io/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
+* [WebCatalog](https://webcatalog.io/) (signup) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Namechk](https://namechk.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [UsernameGenerator](https://usernamegenerator.com/) - Username Generator
@@ -95,8 +95,8 @@
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_encrypted_messengers)**
 * ↪️ **[IRC Clients / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_irc_tools)**
 * ⭐ **[Mumble](https://www.mumble.info/)**, [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/) or [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#teamspeak-warning) - Voice Chat
-* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Convene](https://letsconvene.im/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Stinto](https://stinto.chat/en), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / No Account Required Chats
-* ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)
+* ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [Convene](https://letsconvene.im/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Stinto](https://stinto.chat/en), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tik.io](https://tlk.io/) - Minimal / No Sign-Up Required Chats
+* ⭐ **[Gajim](https://gajim.org/)**, [CoyIM](https://coy.im/), [Profanity](https://profanity-im.github.io/) / [GitHub](https://github.com/profanity-im/profanity) or [xabber](https://www.xabber.com/) - XMPP Clients
 * [Pidgin](https://www.pidgin.im/) / [GitHub](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services
 * [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps
 * [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
@@ -116,6 +116,21 @@
 * [GoTeam](https://goteam.video/) - Video Chat
 * [⁠Linkello](https://call.linkello.com/) - Video Chat
 * [Chat Analytics](https://github.com/mlomb/chat-analytics) - Generate Chat Analytics
+
+***
+
+## ▷ QR Code Tools
+
+* ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Customizable / [GitHub](https://github.com/lyqht/mini-qr)
+* [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
+* [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
+* [⁠QRCode.Best](https://qrcode.best/) - Generator / Customizable
+* [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
+* [2QR](https://2qr.info/) - Generator
+* [barcodrod.io](https://barcodrod.io/) - Scanner / Windows / [GitHub](https://github.com/MarkHopper24/barcodrod.io)
+* [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) - Scanner / Android
+* [Binary Eye](https://github.com/markusfisch/BinaryEye) - Scanner / Android
+* [QR Code Scanner](https://qrcodescan.in/) - Scanner / Web
 
 ***
 
@@ -328,7 +343,6 @@
 * [Bypass-Links](https://bypass-links.vercel.app) - Bypass Links / [GitHub](https://github.com/amitsingh-007/bypass-links)
 * [Yuumari](https://yuumari.com/bypass/) - Convert Shortened Links / [Script](https://yuumari.com/m-links/#js-code)
 * [UploadHEaven](https://greasyfork.org/en/scripts/442019) - Bypass Uploadhaven Time Restriction
-* [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - FileCrypt Bypass
 * [Bypass FREEdlink](https://greasyfork.org/en/scripts/522735) - Bypass FREEdlink "frdl" Timers / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#bypass-freedlink)
 
 ***
@@ -389,19 +403,6 @@
 
 ***
 
-## ▷ QR Code Tools
-
-* ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Customizable / [GitHub](https://github.com/lyqht/mini-qr)
-* [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
-* [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
-* [⁠QRCode.Best](https://qrcode.best/) - Generator / Customizable
-* [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
-* [2QR](https://2qr.info/) - Generator
-* [barcodrod.io](https://barcodrod.io/) - Scanner / Windows / [GitHub](https://github.com/MarkHopper24/barcodrod.io)
-* [QR Code Scanner](https://qrcodescan.in/) - Scanner / Web
-
-***
-
 # ► Email Tools
 
 * 🌐 **[Email Providers](https://en.wikipedia.org/wiki/Comparison_of_webmail_providers)** - Provider Comparisons
@@ -452,10 +453,10 @@
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
 * ⭐ **[temp-mail.io](https://temp-mail.io/)** - 1 Day / 1 Day / 12 Domains
 * ⭐ **[burner.kiwi](https://burner.kiwi/)** - 1 Day / 1 Day / 3 Domains
+* [⁠TotallyLegit](https://totallylegit.edu.pl/) / [Tempumail](https://tempumail.com/edu-mail-generator) / [etempmail](https://eTempMail.com/)  or [SecureTempMail](https://tempmail.edu.kg/en/) - Temp .edu Addresses
 * [TempMailHub](https://tempmailhub.org/) - Gmail / 15 Mins / 1 Domain / Public Shared Addresses
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
-* [⁠TotallyLegit](https://totallylegit.edu.pl/) or [Temp.edu](https://tempmail.edu.kg/en/) - Temp .edu Address'
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 * [Vortex Email](https://vortex.skyfall.dev/) - Forever / 9 Domains / [GitHub](https://github.com/SkyfallWasTaken/vortex.email)
@@ -471,7 +472,7 @@
 * [Spambox](https://spambox.xyz/) or [Trashinbox](https://trashinbox.net/) - Forever / 1 Day / 4 Domains
 * [Maildrop](https://maildrop.cc/), [Trashmail](https://trashmail.ws/) - Forever / 1 Day / 1 Domain
 * [cs.email](https://cs.email/) - Forever / 1 Hour / 12 Domains
-* [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - Forever / N/A / 50+ Domains
+* [Email Generator](https://generator.email/), [Fake Email](https://email-fake.com/) or [TempM](https://tempm.com/) - 50+ Domains
 * [EduMail](https://edumail.icu/) - 1 Month / 1 Month / 10 Domains
 * [10minutesemail](https://10minutesemail.net/) - 10 Minutes / 1 Domain
 * [DisposableMail](https://www.disposablemail.com/) or [FakeMail](https://www.fakemail.net/) - 14 Days / 14 Days / 1 Domain
@@ -482,7 +483,6 @@
 * [TempMail.love](https://tempmail.love/) - 1 Day / 1 Day / 1 Domain
 * [tempmail.altmails](https://tempmail.altmails.com/) - 1 Day / 1 Day / 1 Domain
 * [Mail.cx](https://mail.cx/) - 1 Day / 12 Hours / 5 Domains
-* [Tmail](https://tmail.gg/) - 1 Domain
 * [BottleMail](https://bottlemail.org/) - 14 Days / 1 Domain
 * [TemporaryMail.com](https://temporarymail.com/) - 6 Hours / 6 Hours / 7 Domains
 * [Moakt](https://www.moakt.com/) - 1 Hour / 1 Hour / 13 Domains
@@ -500,7 +500,7 @@
 ## ▷ Email Aliasing
 
 * 🌐 **[⁠Email Aliasing Comparison](https://email-aliasing-comparison.netlify.app/)** / [GitHub](https://github.com/fynks/email-aliasing-comparison)
-* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [X](https://x.com/SimpleLogin) / [GitHub](https://github.com/simple-login/app)
+* ⭐ **[SimpleLogin](https://simplelogin.io/)** - Email Aliasing / [X](https://x.com/SimpleLogin) / [Subreddit](https://www.reddit.com/r/Simplelogin/) / [GitHub](https://github.com/simple-login/app)
 * ⭐ **[addy.io](https://addy.io/)** - Email Aliasing / [GitHub](https://github.com/anonaddy/anonaddy)
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)** - Email Aliasing / [Send Mail](https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/how-do-i-compose-a-new-email)
 * [Mailgw](https://mailgw.com/) - Email Aliasing
@@ -598,7 +598,8 @@
 * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
 * ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ↪️ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)**
-* ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [OLED](https://github.com/zettaexa/userstyles) / [Oldschool](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
+* ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes
+* ⭐ **Stylus Styles** - [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [OLED](https://github.com/zettaexa/userstyles) / [Oldschool](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
 * ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
 * ⭐ **[Zoom WE](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#zoom-page-addons)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#scrollanywhere-addons)** - Improves Scrolling Functionality
@@ -710,7 +711,6 @@
 * [WebCRX](https://webcrx.io/) - Easily Install Local CRX Files
 * [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
-* [Darkness](https://darkness.app/) - Dark Mode
 * [Transpose](https://transpose.video/) - Online Video Pitch Shifter, Speed Changer and Looper
 * [Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
 * [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume

@@ -29,11 +29,10 @@
 
 ## ▷ Pastebins
 
-* 🌐 **[PrivateBin Instances](https://privatebin.info/directory)**
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
-* ⭐ **[GitHub Gists](https://gist.github.com/)** - Multi-Syntax / Account Needed
+* ⭐ **[GitHub Gists](https://gist.github.com/)** - Multi-Syntax / Sign-Up Required
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
-* ⭐ **[PrivateBin](https://privatebin.net/)**, [2](https://notebin.de/) - Markdown Support / Syntax Highlighting / [GitHub](https://github.com/PrivateBin/PrivateBin)
+* ⭐ **[PrivateBin](https://privatebin.net/)**, [2](https://notebin.de/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [Text.is](https://text.is/) - Markdown Support / Rentry Clone
@@ -63,15 +62,15 @@
 
 ## ▷ Translators
 
-* **Note** - Chatbots like Gemini, Claude and GPT-4o can also translate text and are sometimes better than the ones listed below.
+* **Note** - [AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots) sometimes translate better than traditional translators, especially when it comes to languages with inherently different structures.
 
 ***
 
 * ⭐ **[Kagi Translate](https://translate.kagi.com/)**
 * ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-* ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
+* ⭐ **[DeepL](https://www.deepl.com/translator)** or [⁠Qwen-MT](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo) / [Docs](https://qwenlm.github.io/blog/qwen-mt/) - AI-Based Translation
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
-* [DeepL](https://www.deepl.com/translator) or [⁠Qwen-MT](https://huggingface.co/spaces/Qwen/Qwen3-MT-Demo) / [Docs](https://qwenlm.github.io/blog/qwen-mt/) - AI-Based Translation
+* ⭐ **[/r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [Bing Translator](https://www.bing.com/translator)
@@ -109,7 +108,7 @@
 * 🌐 **[DecodeUnicode](https://decodeunicode.org/)** - Unicode Decoding Database
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text / [GitHub](https://github.com/gchq/CyberChef)
 * ⭐ **[Base64 Decode](https://www.base64decode.org/)** or [Base64 Editor](https://nimadez.github.io/base64/) - Encode / Decode Base64
-* ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772)** - Auto-Decode B64 Links on Pastebins
+* ⭐ **[Auto Decoder](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)** - Auto-Decode B64 Links on Pastebins
 * [Ciphey](https://github.com/Ciphey/Ciphey) - Automated Decryption Tool
 * [Universal Encoding Tool](https://unenc.com/) - Encode / Convert Text
 * [cryptii](https://cryptii.com/) or [DenCode](https://dencode.com/) - Text / URL Encoding
@@ -179,10 +178,21 @@
 * [typing.academy](https://www.typing.academy/) - Typing Lessons / Requires JavaScript Enabled
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
-* [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
+* [⁠Typersguild](https://typersguild.com/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
 * [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
 * [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Touch Typing Tests
 * [10fastfingers](https://10fastfingers.com/) - Typing Competitions
+
+***
+
+## ▷ LaTeX Tools
+
+* ⭐ **[Overleaf](https://www.overleaf.com/) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
+* [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
+* [Typst](https://typst.app/home) / [GitHub](https://github.com/typst/typst) - LaTeX Alternative
+* [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
+* [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
+* [Detexify](https://detexify.kirelabs.org/classify.html) - Character Recognition
 
 ***
 
@@ -510,7 +520,7 @@
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
 * [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
-* [TextDrom](https://en.textdrom.com/), [3DText2GIF](https://3dtext2gif.com/) or [TextStudio](https://www.textstudio.com/) - 3D / Animated Text Generators
+* [Fast3DText](https://fast3dtext.com/), [TextDrom](https://en.textdrom.com/), [3DText2GIF](https://3dtext2gif.com/) or [TextStudio](https://www.textstudio.com/) - Animated / 3D Text Generators
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generators
 * [Batname](https://batname.vercel.app/) - Batman (2022) Text Generator
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](https://arcade.photonstorm.com/) - Arcade Text Generators
