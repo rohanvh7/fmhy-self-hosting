@@ -6,18 +6,18 @@
 
 # ► Indexes
 
-* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)**, [Awesome.facts](https://awesome.facts.dev/) or [awesome-list](https://github.com/topics/awesome-list) - All Awesome Lists
-* 🌐 **[lists](https://github.com/jnv/lists)** - List Index
+* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [GitHub Topics](https://github.com/topics/awesome)** / [2](https://github.com/topics/awesome-list) - All Awesome Lists
+* 🌐 **[Lists](https://github.com/jnv/lists)** - List of Lists Index
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
-* ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
+* ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
 * [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
-* [/danfmhy/](https://dan.valeena.dev/#my-guides), [2](https://rentry.co/danfmhy/) - List of Guides by Dan
-* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/sites/int), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
+* [Dan's Guides](https://dan.valeena.dev/#my-guides) - List of Guides by Dan
+* [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/sites/int), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
 * [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
@@ -40,7 +40,7 @@
 ## ▷ Site / Tool Indexes
 
 * ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
-* ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)**, [2](https://csrin.org/) - Game Piracy Index
 * ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
@@ -61,34 +61,34 @@
 * ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community / [Telegram](https://t.me/Official_OneHack)
 * [AppAgg](https://appagg.com/) - Multi-Platform / Apps / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
 * [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
-* [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap Apps / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
+* [r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap Apps / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
 * [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap Apps / Games
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap Apps / Games
-* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & Apps / Games
+* [r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & Apps / Games
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
-* [/r/FREE](https://reddit.com/r/FREE/)
-* [⁠/r/freebies](https://www.reddit.com/r/freebies/)
-* [/r/eFreebies](https://reddit.com/r/eFreebies)
-* [/r/udemyfreebies](https://reddit.com/r/udemyfreebies)
-* [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
+* [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
+* [r/FREE](https://reddit.com/r/FREE/)
+* [⁠r/freebies](https://www.reddit.com/r/freebies/)
+* [r/eFreebies](https://reddit.com/r/eFreebies)
+* [r/udemyfreebies](https://reddit.com/r/udemyfreebies)
+* [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
 
 ***
 
 ## ▷ Free Games
 
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Discord](https://discord.com/invite/C3K4bBh)
-* ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
-* [SteamGifts](https://www.steamgifts.com/), [Free250](https://steam250.com/price/free), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
+* [SteamGifts](https://www.steamgifts.com/), [Free250](https://steam250.com/price/free), [r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
 * [Key Hub](https://key-hub.eu/) - Steam Key Giveaways / [Discord](https://discord.gg/RbWahNY)
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [FreeGameCodes](https://freegames.codes/) - Games / [Discord](https://discord.gg/ZmUbRcp)
-* [/r/freegames](https://www.reddit.com/r/freegames/) - Games
+* [r/freegames](https://www.reddit.com/r/freegames/) - Games
 * [FreeToKeep](https://freetokeep.gg/) - Games / [Discord](https://discord.gg/t3Yh5Pfw6Y)
-* [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
+* [r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
 * [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
 * [Free Games Tracker](https://pyoneerc1.itch.io/free-games-tracker) - Games
 * [GamerPower](https://www.gamerpower.com/) - Games
@@ -97,12 +97,14 @@
 * [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
 * [Freetchio](https://shaigrorb.github.io/freetchio/) - itch.io Games
+* [⁠VRDB](https://vrdb.app/games?min_price=0&max_price=0) or [QuestStoreDB](https://queststoredb.com/free_apps/) - VR Games
 * [NobsGames](https://nobsgames.stavros.io/android/?name=&genre=&rating__gt=&price=free) - Game APKs
 * [MiniReview](https://minireview.io/browse?sort=last-added-reviews&monetization=free&monetization-android=free&monetization-ios=free) - Mobile Game Recommendations / [Discord](https://discord.gg/TJq6EXfm7f) - Game APKs
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
 * [Games Radar](https://play.google.com/store/apps/details?id=com.arioch.efgr) - Games / Android App
-* [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) / [Socials](https://freegamefindings.ca/)
-* [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
+* [r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) / [Socials](https://freegamefindings.ca/)
+* [r/Freegamestuff](https://reddit.com/r/Freegamestuff)
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
 
 ***
 
@@ -111,9 +113,9 @@
 * ⭐ **[⁠FindHelp](https://www.findhelp.org/)** - Find Free or Reduced-Cost Resources / US Only
 * [⁠Single Mother Guide](https://singlemotherguide.com/) - Single Mother Government Benefits Guide / US Only
 * [Be My Eyes](https://www.bemyeyes.com/) - Assist the Visually Impaired
-* [/r/Assistance](https://www.reddit.com/r/Assistance/) or [/r/borrow](https://www.reddit.com/r/borrow/) - Assistance / Donation Subreddits
-* [/r/Homeless](https://www.reddit.com/r/homeless/) - Homeless Assistance Subreddit
-* [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
+* [r/Assistance](https://www.reddit.com/r/Assistance/) or [r/borrow](https://www.reddit.com/r/borrow/) - Assistance / Donation Subreddits
+* [r/Homeless](https://www.reddit.com/r/homeless/) - Homeless Assistance Subreddit
+* [r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
 * [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
 * [CharityNavigator](https://www.charitynavigator.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings / Resources
 * [Free Rice](https://freerice.com/) - Earn Rice for the World Food Programme / Trivia
@@ -134,8 +136,8 @@
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) or [Fridgey](https://f-droid.org/packages/lying.fengfeng.foodrecords/) - Food Expiration Trackers
 * [⁠Cook Well](https://www.cookwell.com/) - Cooking Lessons / Science
 * [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
-* [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
-* [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
+* [r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
+* [r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
 * [Cheese.com](https://cheese.com/) - Cheese Resources
 * [Crispy Creations](https://rentry.co/crispycreations) - Potato Chip Info / Guides
 * [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
@@ -151,26 +153,25 @@
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [Cooked](https://cooked.wiki/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
 * ⭐ **[Noods.io](https://noods.io/)**, [⁠Gobsmacked](https://gobsmacked.io/), [Just the Recipe](https://www.justtherecipe.com/), [WheresTheDish](https://www.wheresthedish.com/), [⁠Forkestrate](https://app.forkestrate.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
-* [MyFridgeHome](https://myfridgefood.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
+* [MyFridgeFood](https://myfridgefood.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
 * [FoodSubs](https://foodsubs.com/) - Ingredient Substitutions Database
 * [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - Blend Two Cuisines for Recipes
 * [Fit Men Cook](https://fitmencook.com/) or [PunchFork](https://www.punchfork.com/) - Recipes
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
 * [Epicurious](https://www.epicurious.com/) - Recipe Search / Index
-* [based.cooking](https://based.cooking/) or [PublicDomainRecipes](https://publicdomainrecipes.com/) / [GitHub](https://github.com/ronaldl29/public-domain-recipes) - Recipe Search
+* [PublicDomainRecipes](https://publicdomainrecipes.com/) - Recipe Search / [GitHub](https://github.com/ronaldl29/public-domain-recipes) 
 * [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
 * [Hari Recipes](https://hari.recipes/) - Recipe Search
 * [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
 * [KitchenAid](https://www.kitchenaid.com/recipes.html) - Recipe Search
-* [Recipe Site List](https://pastebin.com/f1wAjWEB) - List of Recipe Sites
 * [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
-* [/r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
-* [/r/recipes](https://reddit.com/r/recipes) - Share Recipes
+* [r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
+* [r/recipes](https://reddit.com/r/recipes) - Share Recipes
 
 ***
 
@@ -182,9 +183,9 @@
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [Nahbucks!](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops (US)
 * [⁠Aeromatic](https://aeromatic.app/) - AeroPress Recipe App
-* [/tea/](https://rentry.co/teageneral) - Tea Brewing Masterlist / Guides
+* [/tea/](https://rentry.co/teageneral) - Tea Brewing Masterlist / Guide
 * [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
-* [Drinknation](https://www.drinknation.com/bar) or [Make Me a Cocktail](https://makemeacocktail.com/mybar/) - Cocktail Builders
+* [Make Me a Cocktail](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Modern Meadmaking](https://meadmaking.wiki/) - Homebrewing Wiki
 
 ***
@@ -213,9 +214,9 @@
 * 🌐 **[Agriculture / Gardening Subreddits](https://rentry.co/TouchGrasss)**
 * 🌐 **[Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)** or [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
 * ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
-* ⭐ **[/r/Gardening](https://reddit.com/r/gardening)** - Gardening Community
-* ⭐ **[/r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** - Plant Identification Community
-* [PictureThis](https://www.picturethisai.com/) / [Premium](https://rentry.co/FMHYBase64#picture-this) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identification Tools / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
+* ⭐ **[r/Gardening](https://reddit.com/r/gardening)** - Gardening Community
+* ⭐ **[r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** - Plant Identification Community
+* [PictureThis](https://www.picturethisai.com/) / [Premium](https://rentry.co/FMHYB64#picture-this) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identification Tools / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
 * [WildFlowerSearch](https://wildflowersearch.org/) - Flower Identifier
 * [Permapeople](https://permapeople.org/) - Garden Plant Info
 * [How Many Plants](https://howmanyplants.com/) - House Plant Information
@@ -223,13 +224,13 @@
 * [WorldOfSucculents](https://worldofsucculents.com/) - Succulent Database
 * [MyGarden](https://gitlab.com/m9712/mygarden) - Garden Management App
 * [Gardenia](https://www.gardenia.net/) or [Garden Design](https://www.gardendesign.com/) - Garden Design Resources
-* [/r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
-* [/r/Farming](https://reddit.com/r/farming/) - Farming Community
+* [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
+* [r/Farming](https://reddit.com/r/farming/) - Farming Community
 * [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [World Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plantmaps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
-* [/r/Microgrowery](https://reddit.com/r/microgrowery/) or [GrassCity](https://forum.grasscity.com/) - Cannabis Growing Communities
+* [r/Microgrowery](https://reddit.com/r/microgrowery/) or [GrassCity](https://forum.grasscity.com/) - Cannabis Growing Communities
 * [SeedFinder](https://seedfinder.eu/en) - 35500+ Strain Database
 
 ***
@@ -249,6 +250,7 @@
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
 * [EV-Map](https://ev-map.app/) - Electronic Vehicle Charging Map
+* [Alibi](https://github.com/Myzel394/Alibi) or [DroidDashcam](https://play.google.com/store/apps/details?id=com.helge.droiddashcam) - Mobile Dashcams
 
 ***
 
@@ -261,6 +263,7 @@
 * [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
 * [Seat61](https://www.seat61.com/) - Train Travel Guide
+* [⁠Trustroots](https://www.trustroots.org/) - Traveler Hospitality Community
 * [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
 * [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
 
@@ -294,7 +297,7 @@
 * [TextToMap](https://www.textomap.com/) - Text-Based Map Search
 * [Copernix](https://copernix.io/) or [Local Map](https://www.matthewsiu.com/local-map) - Explore a Map with Wikipedia
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
-* [/r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
+* [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
 * [Urbex](https://urbexology.com/) - Abandoned Places Map
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
@@ -317,11 +320,13 @@
 
 ## ▷ Navigation / Transport
 
-* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Bing Maps](https://www.bing.com/maps), [Mapy](https://en.mapy.cz/), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor) or [Apple Maps](https://beta.maps.apple.com/) - Online / Offline Maps
-* ⭐ **[Comaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/) / [Resources](https://github.com/osmlab/awesome-openstreetmap)
+* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps) or [Mapy](https://en.mapy.cz/) - Online / Offline Maps
+* ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
+* ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
 * [OsmAnd](https://osmand.net/) or [Magic Earth](https://www.magicearth.com/) - Mobile Only Maps
-* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) / [GitHub](https://github.com/woheller69/maps) - Restricted Google Maps WebView Wrapper
+* [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
+* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) - Restricted Google Maps WebView Wrapper / [GitHub](https://github.com/woheller69/maps)
 * [CubeTrek](https://cubetrek.com/) - GPS Track Manager
 * [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Maps
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
@@ -349,10 +354,11 @@
 
 ## ▷ Climate / Weather
 
-* ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Weatherwise](https://web.weatherwise.app/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) or [satellite-map.gosur](https://satellite-map.gosur.com/) - General Weather / Climate Maps
+* ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [⁠WXCharts](https://wxcharts.com/), [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Weatherwise](https://web.weatherwise.app/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) or [satellite-map.gosur](https://satellite-map.gosur.com/) - General Weather / Climate Maps
 * [⁠CyclonicWx](https://cyclonicwx.com/) - Tropical Weather Tracking Tools / Plotting
 * [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
+* [Supercell Wx](https://supercellwx.net/) - Visualize / Archive NEXRAD Data + Weather Alerts / [GitHub](https://github.com/dpaulat/supercell-wx)
 * [tornado.live](https://tornado.live/) - Real-Time US Severe Weather Alerts Map
 * [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
 * [FloodMap](https://www.floodmap.net/) - Sea Level / Flood Map
@@ -388,7 +394,7 @@
 * [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
 * [Native Land](https://native-land.ca/) - Indigenous Territory Map
-* [kepler.gl](https://kepler.gl/) / [GitHub](https://github.com/keplergl/kepler.gl) - Geospatial Analysis Tool
+* [kepler.gl](https://kepler.gl/) - Geospatial Analysis Tool / [GitHub](https://github.com/keplergl/kepler.gl)
 
 ***
 
@@ -412,11 +418,11 @@
 ## ▷ Historic Maps
 
 * 🌐 **[Map History](https://www.maphistory.info/)** or [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical Map Indexes
-* ⭐ **[Running Reality](https://www.runningreality.org/)**, [Chronas](https://www.chronas.org/) or [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Maps
+* ⭐ **[Running Reality](https://www.runningreality.org/)**, [World History Maps](https://www.worldhistory.org/mapselect/), [Chronas](https://www.chronas.org/) or [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Maps
 * [Harvard WorldMap](https://worldmap.maps.arcgis.com/home/index.html) - ArcGIS Map Archive
 * [Cronobook](https://cronobook.com/) - Historic Street View
 * [EuraAtlas](https://euratlas.com/) - Historical Atlas of Europe
-* [/r/oldmaps](https://www.reddit.com/r/oldmaps/) or [/r/papertowns](https://www.reddit.com/r/papertowns/) - Historical Maps Community
+* [r/oldmaps](https://www.reddit.com/r/oldmaps/) or [r/papertowns](https://www.reddit.com/r/papertowns/) - Historical Maps Community
 * [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps
 * [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Maps Archive
 * [Historic Borders](https://historicborders.app/) - Borders History Map
@@ -426,7 +432,9 @@
 * [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
+* [⁠Project’44](https://www.project44.ca/) - World War II Historical Map / [Discord](https://discord.gg/bzWEuc6JJv)
 * [HK Battle 1941](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - The Battle of Hong Kong 1941 Interactive Map
+* [Medieval Murder Maps](https://medievalmurdermap.co.uk/) - Interactive Medieval Murder / Death Maps
 
 ***
 
@@ -465,7 +473,7 @@
 * 🌐 **[AllYouCanRead](https://www.allyoucanread.com/)** - Worldwide News Sites Index
 * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
+* ⭐ **[TorrentFreak](https://torrentfreak.com/)** - Piracy News / [Telegram](https://t.me/torrentfreaks)
 * ⭐ **[Current Events Wiki](https://en.wikipedia.org/wiki/Portal:Current_events)** - Breaking News
 * ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
 * [News as Facts](https://newsasfacts.com/) - Wiki-Based News
@@ -476,7 +484,7 @@
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
 * [ArtDaily](https://artdaily.com) - Art News
 * [Codrops](https://tympanus.net/codrops/) - Design News
-* [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://rentry.co/FMHYBase64#the-athletic)
+* [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://rentry.co/FMHYB64#the-athletic)
 * [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
 * [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S.
 * [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/) or [WebMD](https://www.webmd.com/) - Health News
@@ -488,8 +496,8 @@
 * [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 Disaster News
 * [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [POTUS Tracker](https://potustracker.us/), [GovData](https://www.govactionlist.com/) or [WikiPolitica](https://wikipolitica.org/) - Government Executive Orders, Location & more
-* [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Incidents / News
-* [Read Something Interesting](https://readsomethinginteresting.com/), [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
+* [PlaneCrashInfo](https://www.planecrashinfo.com/), [FlightSaftey](https://asn.flightsafety.org/) or [AVHerald](https://avherald.com/) - Aviation Incidents / News
+* [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
 * [PressMob](https://pressmob.ai/) - Journalist Search
 * [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
@@ -500,8 +508,8 @@
 
 * ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
-* [Mozberg](https://mozberg.com/) - News Search
-* [NewsMinimalist](https://www.newsminimalist.com/) - AI News Aggregator
+* [Kite](https://kite.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
+* [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries 
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Sign-Up Required
 * [Upstract](https://upstract.com/)
@@ -519,16 +527,16 @@
 
 * ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
 * ⭐ **[⁠GamersNexus](https://gamersnexus.net/)** - PC Gaming News
-* ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech / Hacking News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
+* ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
 * [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
 * [TechURLs](https://techurls.com/) - Tech News
 * [Techmeme](https://www.techmeme.com/) - Tech News
 * [The Brutalist Report](https://brutalist.report/) - Tech News
 * [⁠ThisWeekInVideoGames](https://thisweekinvideogames.com/news/) - Gaming News
-* [TuxURLs](https://tuxurls.com/) - Linux News
+* [TuxURLs](https://tuxurls.com/) or [⁠LWN](https://lwn.net/Archives/) - Linux News
 * [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
 * [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
-* [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso-archives) - AI News
+* [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News
 * [GamesRecap](https://gamesrecap.io/) - Game Annoucements / Trailers
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [RestorePrivacy](https://cyberinsider.com/news/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
@@ -543,17 +551,16 @@
 * [Related Submissions](https://hnrelevant.imadij.com/) - Similar Posts Sidebar Extension / [GitHub](https://github.com/imdj/HNRelevant)
 * [The Hacker Herald](https://hackerherald.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
 * [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
-* [Lindy Hacker News](https://hn.lindylearn.io/) - Best of / Top Posts Aggregator
+* [HNRankings](https://hnrankings.info/) or [Lindy Hacker News](https://hn.lindylearn.io/) - Best of / Top Posts Aggregator
 * [Hacker News RSS](https://hnrss.github.io/) - HN RSS Feeds
 
 ***
 
 ## ▷ Science News
 
+* ⭐ **[phys](https://phys.org/)** - Physics News / Articles
 * [SciURLs](https://sciurls.com/)
 * [NewScientist](https://www.newscientist.com/)
-* [Nature](https://www.nature.com/)
-* [Science](https://www.science.org/)
 * [PopSci](https://www.popsci.com/)
 * [ScienceDaily](https://www.sciencedaily.com/)
 * [EurekAlert](https://www.eurekalert.org/)
@@ -596,12 +603,12 @@
 * [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
-* [/r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
+* [r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
 * [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
-* [/r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
-* [/r/Flexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
-* [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
+* [r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
+* [r/Flexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
+* [HealthDirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 
@@ -612,14 +619,14 @@
 * 🌐 **[Evidence-Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
 * 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
 * ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
-* ⭐ **[/r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app) / [iOS](https://apps.apple.com/app/8x3/id1561393713) / [Discord](https://discord.gg/bwf)
+* ⭐ **[r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app) / [iOS](https://apps.apple.com/app/8x3/id1561393713) / [Discord](https://discord.gg/bwf)
 * ⭐ **[/u/KNightNox Diagram](https://imgur.com/bodyweight-training-skill-tree-with-over-200-exercises-high-res-gEfyf0q)** - Zoomable Exercise Diagram
 * ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Calistree](https://calistree.app/) - Exercise Search
 * [FitnessProgramer](https://fitnessprogramer.com/) - Workout Plans
 * [Workout.lol](https://workout.lol/) - Custom Workout Plans
-* [MuscleWiki](https://musclewiki.com/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
+* [MuscleWiki](https://musclewiki.com/), [⁠Workout.cool](https://workout.cool/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
 * [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
 * [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
@@ -642,7 +649,7 @@
 ## ▷ Nutritional Health
 
 * ⭐ **[Nutritionix](https://www.nutritionix.com/)** - Nutrition Tracker App
-* ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
+* ⭐ **[r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Urine Color Chart](https://www.southtees.nhs.uk/wp-content/uploads/2022/08/Urine-colour-chart.pdf)** - Levels of Dehydration
 * ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
@@ -680,7 +687,7 @@
 
 ## ▷ Detoxing / Sobriety
 
-* ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discord.com/invite/QFhXt2F)
+* ⭐ **[r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discord.com/invite/QFhXt2F)
 * [Farhan](https://github.com/tahaak67/Farhan), [LockMeOut](https://play.google.com/store/apps/details?id=vikesh.dass.lockmeout), [DetoxDroid](https://github.com/flxapps/DetoxDroid) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
 * [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - Addiction-Help Model / [Books](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL)
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
@@ -714,7 +721,7 @@
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** or [Clockify](https://clockify.me/) - Work Hour Trackers
 * [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/), [Career Dreamer](https://grow.google/career-dreamer/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
-* [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
+* [r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [UseThis](https://usesthis.com/) - Career Interviews
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
@@ -722,7 +729,6 @@
 * [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform-Based Side Work
-* [The Dots](https://the-dots.com/events/search) - Online Workshops / Courses / Meetups
 * [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
@@ -731,7 +737,7 @@
 * [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
 * [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
 * [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - Business Courses / Library Card Required
-* [Marketing Mega](https://rentry.co/FMHYBase64#marketing-courses), [Pimp My Money](https://pimpmymoney.net/) (Torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
+* [Pimp My Money](https://pimpmymoney.net/) (Torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
 * [Statista](https://statista.com/) - Market Statistic Search
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
@@ -786,7 +792,7 @@
 * 🌐 **[⁠remote-jobs](https://remoteintech.company/)** - Remote Friendly Company Index / [GitHub](https://github.com/remoteintech/remote-jobs)
 * ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
 * [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
-* [/r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit / Check "Job Posts" Flag
+* [r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit / Check "Job Posts" Flag
 * [MTurk](https://www.mturk.com/) - Online Task Work
 * [NoCommute](https://www.nocommutejob.com/) - Remote Job Notifications
 * [WeNomad](https://wenomad.so/) or [Nomad List](https://nomads.com/) - Remote Work Ratings
@@ -817,23 +823,21 @@
 * 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
 * ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
 * ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+* ⭐ **[Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)** or [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/) - Interview Handbooks / [GitHub](https://github.com/yangshun/)
 * [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
 * [FOSS Jobs](https://www.fossjobs.net/) - FOSS Project Jobs
-* [key : values](https://www.keyvalues.com/) - Find Companies that Match Your Values
 * [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
 * [Dribbble](https://dribbble.com/) - Designer Jobs
-* [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
+* [r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
 * [Golang Jobs](https://golangjob.xyz/) - Find Golang Jobs
 * [Best PM Jobs](https://www.bestpmjobs.com/) - Tech Firm Night Jobs
 * [JS Remotely](https://jsremotely.com/) - Find Remote JavaScript Jobs
 * [js chimp](https://jschimp.com/) - Reverse Job Board / JavaScript
 * [larajobs](https://larajobs.com/) - Find Laravel Jobs
 * [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
-* [RailsDevs](https://railsdevs.com/) - Reverse Job Board / Rails
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
 * [LeetFree](https://doocs.github.io/leetcode/#/README_EN) - Leaked Google / Facebook / Amazon Interview Questions / [GitHub](https://github.com/doocs/leetcode/blob/main/README_EN.md)
 * [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
-* [Tech Interview Handbook](https://www.techinterviewhandbook.org/) or [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/) - Interview Handbooks / [GitHub](https://github.com/yangshun/)
 * [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Interview Practice
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity US Job Market Info
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - Find NICE Cybersecurity Apprenticeship Programs
@@ -869,7 +873,7 @@
 * [Zulip](https://zulip.com/) - Team Chat / [GitHub](https://github.com/zulip/zulip/)
 * [Freedcamp](https://freedcamp.com/) - Project / Task Organization
 * [Asana](https://asana.com/) - Project / Task Organization
-* [Focalboard](https://www.focalboard.com/) - Project Manager / [GitHub](https://github.com/mattermost-community/focalboard)
+* [Linear](https://linear.app/) - Project / Task Organization 
 * [Factsplat](https://factsplat.com/) - Project Manager
 * [Mural](https://www.mural.co/) - Project Manager
 * [Taskcafe](https://github.com/JordanKnott/taskcafe) - Task Manager
@@ -881,7 +885,7 @@
 
 ## ▷ Finance / Savings
 
-* 🌐 **[/r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
+* 🌐 **[r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
 * ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or [Candle](https://gitlab.com/cosmosapps/candle) - Mobile Stock Market Trackers
 * ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Paisa](https://paisa.fyi/) / [GitHub](https://github.com/ananthakumaran/paisa), [HomeBank](https://www.gethomebank.org/en/index.php), [Bagels](https://github.com/EnhancedJax/Bagels), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance / Expense Managers
@@ -892,14 +896,15 @@
 * [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Managers
 * [Ledger](https://ledger-cli.org/) or [hledger](https://hledger.org/index.html) - Accounting Systems
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
-* [/r/povertyfinance wiki](https://www.reddit.com/r/povertyfinance/wiki/index/) - Financial Tips / Resources
-* [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community / [Wiki](https://www.rxddit.com/r/beermoney/wiki/index)
+* [r/povertyfinance wiki](https://www.reddit.com/r/povertyfinance/wiki/index/) - Financial Tips / Resources
+* [r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community / [Wiki](https://www.rxddit.com/r/beermoney/wiki/index)
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
 * [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
 * [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Investment Tracker / [GitHub](https://github.com/portfolio-performance/portfolio)
 * [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice Calc
 * [YieldFinder](https://yieldfinder.app/) - Rates for Savings Accounts, Market Funds, and Treasuries
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
+* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Educational Trading Ebooks
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
 * [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
 * [⁠BestETF](https://www.bestetf.net/) or [ETFDB](https://etfdb.com/) - ETF Databases
@@ -922,7 +927,7 @@
 * [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
 * [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
-* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/), [CoinGlass](https://www.coinglass.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [Mempool](https://mempool.space/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/), [CoinGlass](https://www.coinglass.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Crypto Prices / Blockchain Explorers
 * [Dora](https://www.ondora.xyz/) - Cross-Chain Search Engine
 * [DefiLlama](https://defillama.com/) - TVL Aggregator
 * [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin Block Explorers
@@ -936,22 +941,25 @@
 
 # ► Shopping
 
+* 🌐 **[⁠Monerica](https://monerica.com/status/verified)** - Monero-Friendly Online Shop Index
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - Find Interesting Things to Buy
+* ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Discord](https://discord.gg/8w5rSNAXRf)
 * ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** - Deceptive Services to Avoid
 * [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
 * [RedditFavorites](https://redditfavorites.com/) - Reddit Recommended Products
-* [Consumer Action Taskforce](https://consumerrights.wiki/) - Documents Practices That Impact Consumer Rights
 * [Kit.co](https://kit.co/), [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
 * [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
 * [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
 * [Remove Amazon Sponsored](https://greasyfork.org/en/scripts/536756) - Remove Amazon Sponsored Listings
 * [Slant](https://www.slant.co/) - "What are the best..." Product Rankings
-* [PicClick](https://picclick.com/) - Ebay Quick Search
-* [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - Ebay Typo Search
+* [⁠NoBids](https://nobids.net/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
+* [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
+* [PicClick](https://picclick.com/) - eBay Quick Search
 * [⁠a view from my seat](https://aviewfrommyseat.co.uk/) - See Event Views Before Buying Tickets
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
-* [/r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
-* [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
+* [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
+* [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
+* [⁠OutdoorGearLab](https://www.outdoorgearlab.com/) - Outdoor Gear Comparisons / Reviews
 * [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
 * [GoEuropean](https://www.goeuropean.org/) - European Products / Services
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
@@ -963,33 +971,34 @@
 ## ▷ Electronics
 
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [BuildCores](http://www.buildcores.com/) / [Subreddit](https://reddit.com/r/buildcores) / [Discord](https://discord.gg/gxHtZx3Uxe), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder) or [CGDirector](https://www.cgdirector.com/pc-builder/) - PC Building Sites
-* ⭐ **[/r/PCMasterrace Builds](https://pcmasterrace.org/builds)** / [2](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
+* ⭐ **[r/PCMasterrace Builds](https://pcmasterrace.org/builds)** / [2](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [PC Tiers](https://pctiers.com/) - PC Building Guides / **[Video](https://youtu.be/s1fxZ-VWs2U)**
 * ⭐ **[NanoReview](https://nanoreview.net/)**, **[TechPowerup](https://www.techpowerup.com/)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews / Clear Cookies Reset Limit
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[GSMArena](https://www.gsmarena.com/)**, [Prepaid Compare](https://prepaidcompare.net/), [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/) or [Kimovil](https://www.kimovil.com/en/) - Compare Phones / Prices
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)**, [Toms GPU Hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy) or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
-* ⭐ **[/r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
+* ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)**, [KeebFinder](https://keeb-finder.com/) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
 * ⭐ **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
 * [ProductChart](https://www.productchart.com/) - Electronic Comparisons
 * [Privacy Not Included](https://foundation.mozilla.org/privacynotincluded/) - Product Privacy Ratings
-* [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
-* [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
+* [r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
+* [r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
-* [Jarrod's Tech](https://jarrods.tech/resources/) or [SuggestALaptop](https://discord.gg/pes68JM) (discord) - Laptop Suggestions
+* [Jarrod's Tech](https://jarrods.tech/resources/) or [SuggestALaptop](https://discord.gg/pes68JM) / [Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) (discord) - Laptop Suggestions
 * [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
 * [EveryMac](https://everymac.com/) - Mac Info Database
-* [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
+* [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
 * [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) - PSU Buying Guide
-* [DisplaySpecifications](https://www.displayspecifications.com/), [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
+* [DisplaySpecifications](https://www.displayspecifications.com/), [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/edit) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
 * [sven dpi](https://www.sven.de/dpi/) - Screen / Monitor Size Comparisons
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
-* [Scarbir](https://www.scarbir.com/), [/r/Headphones Guide](https://sites.google.com/view/quipa/assistants), [Squiglink](https://squig.link/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://list.hangout.audio/iem) - Headset / Headphone / Earphone Comparisons
+* [Scarbir](https://www.scarbir.com/), [r/Headphones Guide](https://sites.google.com/view/quipa/assistants), [Squiglink](https://squig.link/), [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/), [Crinacle Graphs](https://graph.hangout.audio/) or [Crinacle](https://list.hangout.audio/iem) - Headset / Headphone / Earphone Comparisons
 * [Consoomer_Guide](https://rentry.org/consoomer_guide) - Earphone Shopping Guide
 * [Crinacle's Ultimate IEM List](https://list.hangout.audio/iem/) or [IEMGazette](https://4ciemg.github.io/IEMGazette/) - In-Ear Monitor Comparisons / Reviews
 * [SpeakerRanking](https://www.speakerranking.com/) - Speaker Comparisons / Reviews
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
+* [⁠Audio Test Kitchen](https://www.audiotestkitchen.com/) - Compare Microphone Sounds
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [PhoneSized](https://phonesized.com/) or [HotSpot3D](https://www.hotspot3d.com/) - Phone Size Comparisons
 * [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
@@ -1006,22 +1015,24 @@
 ## ▷ Games
 
 * ↪️ **[Steam Store Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_store_tools)**
-* ⭐ **[GG.deals](https://gg.deals/deals/)** - Multi-Store / Mutli-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
+* ⭐ **[GG.deals](https://gg.deals/)** - Multi-Store / Mutli-Platform / [Discord](https://discord.com/invite/NhsTFvdHXG)
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** - Multi-Store / [Discord](https://discord.com/invite/C3K4bBh)
 * ⭐ **[SteamDB](https://steamdb.info/sales/)** - Steam Sales / [Extension](https://steamdb.info/extension/) / [Discord](https://discord.com/invite/steamdb)
 * [⁠EGData](https://egdata.app/) - Epic Store Sales / [Discord](https://github.com/nachoaldamav/egdata)
 * [SteamBase](https://steambase.io/sales) - Steam Sales / [Discord](https://discord.gg/C7fxdbCf6A)
-* [/r/SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
+* [r/SteamDeals](https://www.reddit.com/r/steamdeals/) - Steam Sales
 * [SteamSpy](https://steamspy.com/deal/) - Steam Sales
 * [CheapShark](https://www.cheapshark.com/) - Multi-Store / [Discord](https://discord.com/invite/cheapshark)
 * [PSPrices](https://psprices.com/) - Multi-Store / Mutli-Platform / [Discord](https://discord.com/invite/hN57zh8Ey2)
 * [AppAgg](https://appagg.com/) - Multi-Store / Multi-Platform / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
-* [/r/GameDeals](https://www.reddit.com/r/gamedeals)
+* [CheapCharts](https://games.cheapcharts.com/) - Switch, Xbox and Playstation Price Tracker
+* [r/GameDeals](https://www.reddit.com/r/gamedeals) - Game Deal Subreddit
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
+* [⁠VRDB](https://vrdb.app/) or [QuestStoreDB](https://queststoredb.com/) - VR Game / App Price Tracker
 * [DekuDeals](https://www.dekudeals.com/) / [Discord](https://discord.gg/WEuq5CTcBa), [NTDeals](https://ntdeals.net/) - Switch Price Trackers
 * [PS Deals](https://psdeals.net/) - Playstation Price Tracker
 * [XB Deals](https://xbdeals.net/) - Xbox Price Tracker
-* [⁠/r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Mac App Price Tracking
+* [⁠r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Mac App Price Tracking
 
 ***
 
@@ -1029,11 +1040,11 @@
 
 * [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
 * [App Sales](https://www.app-sales.net/nowfree/) - Android Apps
-* [/r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Android Apps
+* [r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Android Apps
 * [Play-Deals](https://github.com/psuzn/Play-Deals) - Android Apps
 * [App Finder](https://play.google.com/store/apps/details?id=scadica.aq) - Android Deal App
-* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Multi-Store / Multi Platform
-* [⁠/r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Apple Apps
+* [r/AppHookup](https://www.reddit.com/r/AppHookup/) - Multi-Store / Multi Platform
+* [⁠r/MacAppStoreDeals](https://www.reddit.com/r/MacAppStoreDeals/) - Apple Apps
 
 ***
 
@@ -1055,7 +1066,7 @@
 * ⭐ **[Dupe](https://dupe.com/)** or [wtf.deals](https://wtf.deals/) - Furniture Duplicate Deals Search
 * ⭐ **[Keepa](https://keepa.com/)**, [PriceHistory](https://pricehistoryapp.com/) or [CamelCamelCamel](https://camelcamelcamel.com/) / [Charts](https://greasyfork.org/en/scripts/416590) - Amazon Price Trackers / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
 * [Vetted](https://vetted.ai/), [Real Price Tracker](https://www.realpricetracker.com/) or [FlipsHope](https://flipshope.com/) - Price Tracking Extensions
-* [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
+* [r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [Music Software Deals](https://musicsoftwaredeals.com/) - Track Music Software Prices
 * [Valuta EX](https://valuta.exchange/) or [Currency World](https://currency.world/) - Currency Converters
 
@@ -1075,9 +1086,10 @@
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [RANDOM](https://www.random.org/), [The One Generator](https://theonegenerator.com/) or [getrandomgenerator](https://getrandomgenerator.com/) - Random Generators
 * [The Measure Of Things](https://www.themeasureofthings.com) - Comparative / Relative Quantity Measurements
-* [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool
+* [Compare Sizes](https://comparesizes.com/) or [⁠SizeR.jp](https://sizer.jp/) - Compare Sizes of Anything
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
-* [wttr](https://wttr.in/) - Simple Weather Site / [GitHub](https://github.com/chubin/wttr.in)
+* [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
+* [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [80's](https://weatherstar3000.netbymatt.com/) / [GitHub](https://github.com/MistWeatherMedia/)
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [SWG](https://spinthewheelgenerator.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [SurveyHeart](https://surveyheart.com/) or [Pepperform](https://pepperform.net/) - Survey Creators
@@ -1141,10 +1153,10 @@
 * ↪️ **[To-Do Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_to_do_lists)**
 * ⭐ **[Super Productivity](https://super-productivity.com/)** - Time Tracker / Productivity App / To-Do List
 * ⭐ **[Habitica](https://habitica.com/)** - Achievement Style Productivity App
-* [/r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
+* [r/GetMotivated](https://www.reddit.com/r/GetMotivated/) - Motivational Community
 * [Freeter](https://freeter.io) - Work Organizer / [GitHub](https://github.com/FreeterApp/Freeter)
 * [VisualizeHabit](https://visualizehabit.com/) - Habit Tracking
-* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYBase64#cold-turkey-premium)
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity App / [Premium (use python)](https://rentry.co/FMHYB64#cold-turkey)
 * [ActivityWatch](https://activitywatch.net/) - Device / App Time Tracker / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [ProcrastiTracker](https://strlen.com/procrastitracker/) - Device / App Time Tracker
 * [Focumon](https://www.focumon.com/) - Pokémon Style Productivity App
@@ -1156,7 +1168,7 @@
 * [Stretchly](https://hovancik.net/stretchly) - Break Reminders
 * [skāl.es](https://www.skal.es/) - Work Life Balance Tracking
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
-* [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs) or [Forest](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#forest-extensions) - Site Blocking Extensions
+* [Plucky](https://pluckyfilter.com/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) or [Forest](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#forest-extensions) - Site Blocking Extensions
 * [UnDistracted](https://www.undistracted.app/) or [Focus-ToDo](https://chromewebstore.google.com/detail/ngceodoilcgpmkijopinlkmohnfifjfb) - Chrome Productivity Managers
 * [Comicsflow](https://comicsflow.com/) - Comic / Manga Project Manager
 
@@ -1166,7 +1178,7 @@
 
 * ⭐ **[Cal.com](https://cal.com/)** / [GitHub](https://github.com/calcom/cal.com)
 * [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Cally](https://cally.com/), [LettuceMeet](https://lettucemeet.com), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Date Organizing
-* [Luma](https://lu.ma/), [⁠Heylo](https://www.heylo.com/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
+* [Luma](https://lu.ma/), [⁠Heylo](https://www.heylo.com/), [⁠Eventbrite](https://www.eventbrite.com/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
 * [Samay](https://samay.app/) - Meeting Time Polls
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
@@ -1186,12 +1198,12 @@
 
 ## ▷ Chat / Forums
 
-* 🌐 **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
+* 🌐 **[r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * 🌐 **[Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)** - Piracy Subreddits
 * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
 * ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [comfy box](https://comfybox.floofey.dog/), [SheepishPatio](https://sheepishpatio.net/) or [Macintosh Cafe](https://forum.agoraroad.com/) - General Forums
-* ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying Communities
+* ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [⁠AltHistory](https://althistory.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying Communities
 * [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
 * [Pithee](https://pithee.com/) - Rank Shitposting / Login Required
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
@@ -1220,12 +1232,11 @@
 
 ## ▷ Image / Video
 
-* ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_image_creation)**
+* ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_image_creation)**
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
-* ↪️ **[Art / Illustations](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_art_.2F_illustrations)**
-* ↪️ **[GIF Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools)**
-* ↪️ **[Meme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools/#wiki_.25B7_meme_tools)**
-* ↪️ **[Random Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)**
+* ↪️ **[Art / Illustations](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_art_.2F_illustrations)**
+* ↪️ **[GIF Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_gif_tools)**
+* ↪️ **[Meme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_meme_tools)**
 * ↪️ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_4chan_archives)**
 * ⭐ **[SakugaBooru](https://www.sakugabooru.com/)** - Anime Animation Booru / [Enhancements](https://chromewebstore.google.com/detail/sakuga-extended/khmnmdaghmhkcbooicndamlhkcmpklmc)
 * [loc.alize](https://loc.alize.us/) - Explore Earth via Images
@@ -1250,17 +1261,17 @@
 * [Pulp-O-Mizer](https://thrilling-tales.webomator.com/derange-o-lab/pulp-o-mizer/pulp-o-mizer.html) - Vintage Magazine Cover Generator
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
 * [THE 88×31 ARCHIVE](https://hellnet.work/8831/), [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons) or [Web Badges World](https://web.badges.world/) - Oldschool 88x31 Web Badges
-* [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
+* [r/Place Atlas](https://place-atlas.stefanocoding.me/) - r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Statuses
+* [TinyFox](https://tinyfox.dev/image-list/) - Random Animal Images
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
-* [Cataas](https://cataas.com/cat) or [Random Cat](https://s4il.is-a.dev/randomcat/) - Random Cat Images
+* [Cataas](https://cataas.com/cat), [CatPics](https://catpics.lol/) or [Random Cat](https://s4il.is-a.dev/randomcat/) - Random Cat Images
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
 * [Magic Sketchpad](https://magic-sketchpad.glitch.me/)
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
-* [World Draw](https://world-draw.appspot.com/draw)
+* [World Draw](https://world-draw.appspot.com/draw) - Draw World Together
 * [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
-* [Wplace](https://wplace.live/) - Infinite Pixel Art World Map Canvas
 * [Crayon Town](https://crayon.town/) - Infinite Online Drawing Canvas
 * [Triviart](https://triviart.live/) - Infinite Painting Canvas with Trivia
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
@@ -1278,6 +1289,7 @@
 * [Random Art](https://www.random-art.org/) - Random Art Generator
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
+* [Synaptic Spiral](https://synapticspiral.nz/) - Fractal Visualizer / Creator
 * [Inspirograph](https://inspiral-web.nathanfriend.com/) or [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tools
@@ -1309,8 +1321,8 @@
 
 * 🌐 **[David.li](https://david.li/)** - Physics Games
 * ↪️ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)**
-* ⭐ **[The Life Engine](https://thelifeengine.net/)** - Artificial Life Simulation / [Discord](https://discord.gg/ZsrAAByEnr) / [Video](https://youtu.be/iSAKEnRfles)
-* ⭐ **[Sandboxels](https://sandboxels.r74n.com/), [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox
+* ⭐ **[The Life Engine](https://thelifeengine.net/)** - Artificial Life Simulation / [Video](https://youtu.be/iSAKEnRfles) / [Discord](https://discord.gg/ZsrAAByEnr)
+* ⭐ **[Sandboxels](https://sandboxels.r74n.com/)**, [Powder Game 2](https://dan-ball.jp/en/javagame/dust2/), [Powder Toy](https://powdertoy.co.uk/), [sandspiel.club](https://sandspiel.club/) - Falling Sand Physics Sandbox
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** or [geneticars](https://geneticars.vercel.app/) - Random 2D Car Generator
 * ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * ⭐ **[Got Rhythm?](https://www.concerthotels.com/got-rhythm)** - Rhythm / Tempo Test
@@ -1372,7 +1384,9 @@
 * [Odyssey](https://experience.odyssey.world/) - Interactive 3D AI Generated Video
 * [Koalas to the Max](https://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
+* [EveryoneDraw](https://everyonedraw.com/), [pixels.land](https://pixel.land/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment with Spherical Trochoids
+* [⁠DrawAFish](https://drawafish.com/) - Global Fish Drawing Tank
 * [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
@@ -1408,12 +1422,12 @@
 
 * 🌐 **[Awesome Lego](https://github.com/ad-si/awesome-lego)** - Lego Resources
 * ↪️ **[Online Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)**
-* ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
+* ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** or [InfiniteConvo](https://infiniteconvo.ai/) - Never-Ending AI Conversations
 * ⭐ **[TVTropes](https://tvtropes.org/)** - Tropes & Media Encyclopedia
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[Topsters](https://topsters.org/)** or [TierMaker](https://tiermaker.com/) - Create / Explore Tier Lists
-* ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Discord](https://discord.gg/NFsM8YbBYH)
+* ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/) / [Subreddit](https://www.reddit.com/r/lostmedia/) / [Discord](https://discord.gg/NFsM8YbBYH)
 * ⭐ **[Goody2](https://www.goody2.ai/chat)** - World's Most Ethical AI
 * [The Pudding](https://pudding.cool/) - Explains Ideas w/ Visual Essays
 * [Google Earth](https://www.google.com/earth/about/versions) - Explore Earth
@@ -1488,6 +1502,38 @@
 
 ***
 
+## ▷ Live Webcams
+
+* ⭐ **[WebcamTaxi](https://www.webcamtaxi.com/en/)**
+* ⭐ **[Explore](https://explore.org/)**, [Mangolinkcam](https://www.mangolinkcam.com/), [Africam](https://africam.com/our-locations/) or [AnimalsLife](https://animalslife.net/category/shelters/) - Animal Cams
+* [WorldCams](https://worldcams.tv/)
+* [EarthCam](https://www.earthcam.com/)
+* [WebcamExplore](https://www.webcamexplore.com/)
+* [BalticLiveCam](https://balticlivecam.com/)
+* [Camscape](https://www.camscape.com/)
+* [Worldviewstream](https://worldviewstream.com/)
+* [CamStreamer](https://camstreamer.com/live)
+* [SkylineWebcams](https://www.skylinewebcams.com/en.html)
+* [webcamhopper](https://www.webcamhopper.com/)
+* [WorldCam](https://worldcam.eu/)
+* [mangolinkworld](https://www.mangolinkworld.com/)
+* [WebcamGalore](https://www.webcamgalore.com/)
+* [Windy Webcams](https://www.windy.com/-Webcams/webcams)
+* [livecamcroatia](https://www.livecamcroatia.com/en)
+* [WXYZWebcams](https://wxyzwebcams.com/)
+* [San Diego Zoo](https://zoo.sandiegozoo.org/live-cams), [Zqoo.org](https://www.zoo.org/webcams) or [NationalZoo](https://nationalzoo.si.edu/webcams) - Zoo Webcams
+* [Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams) or [AquariumOfPacific](https://www.aquariumofpacific.org/exhibits/webcams) - Aquarium Webcams
+* [BirdCAMs](https://birdcams.live/) - Bird Nests
+* [meow.camera](https://meow.camera/) - Chinese Cat Cams / [Android](https://play.google.com/store/apps/details?id=com.hello.purr) / [iOS](https://apps.apple.com/app/id6475722361) / [Discord](https://discord.com/invite/QmHWpZF9cP)
+* [The Fish Doorbell](https://visdeurbel.nl/en/) - Help Fish Migrate
+* [Insecam](http://www.insecam.org/en/) or [WorldEye](https://worldeye.cam) - Unprotected Webcams
+* [r/controllablewebcams](https://reddit.com/r/controllablewebcams) / [Discord](https://discord.gg/wdjtevG)
+* [snoweye](https://www.snoweye.com/) - Ski Resorts
+* [Airport Webcams](https://airportwebcams.net/) / [X](https://twitter.com/AirportWebcams)
+* [FogCam](https://www.fogcam.org/) - The World's Oldest Webcam
+
+***
+
 ## ▷ Random
 
 * 🌐 **[Funny / Useless](https://rentry.org/aksry2vc)** - Funny / Useless Websites
@@ -1527,6 +1573,7 @@
 * [The Scientific Place](https://scientific.place/) - Toys / Games
 * [artistaiden](https://artistaiden.com/) - Toys / Games
 * [ToyBox](https://toybox.toms.toys/) - Toys / Games
+* [⁠IARadio](https://iaradio.eu/) - AI Generated Radio Stations
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [LinkRoll](https://satyrs.eu/linkroll) - Find Random Sites
@@ -1540,6 +1587,7 @@
 * [The Forest](https://theforest.link/) - Find Random Sites
 * [PortalPioneer](https://www.portalpioneer.com/) - Find Random Sites
 * [TheSillyWeb](https://thesillyweb.com/) - Find Random Sites
+* [PageOrb](https://www.pageorb.com/) - Random Trippy Sites
 * [WhatsMYIP](http://random.whatsmyip.org/) - Find Random Sites
 * [Random-Website](https://random-website.com/) - Find Random Sites
 * [Wilderness Land](https://wilderness.land/) - Find Random Sites
@@ -1574,11 +1622,10 @@
 * [Skynet](https://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90s
 * [CameronsWorld](https://www.cameronsworld.net/) - 90s Themed Website
 * [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site
-* [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf
+* [Objection!](https://objection.lol/) - Ace Attorney Courtroom / Objection Generator
 * [The Death Generator](https://deathgenerator.com/) - Video Game Text Generator
 * [IASIP App](https://iasip.app/) - It's Always Sunny Title Generator
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
-* [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)
 * [The Santa Tracker](https://www.thesantatracker.com/) - Track Santa during Christmas

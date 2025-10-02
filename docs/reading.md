@@ -7,9 +7,8 @@
 # ► Ebooks
 
 * 🌐 **[Open Slum](https://open-slum.org/)** - Book Site Index / Uptime Tracking
-* ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.li/), [3](https://annas-archive.se/) - Books / Comics / [Frontend](https://welib.org/) / [Auto-Expand](https://greasyfork.org/en/scripts/494262) / [Matrix](https://matrix.to/#/#annas:archivecommunication.org) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
+* ⭐ **[Anna's Archive](https://annas-archive.org/)**, [2](https://annas-archive.li/), [3](https://annas-archive.se/) - Books / Comics / [Auto-Expand](https://greasyfork.org/en/scripts/494262) / [Matrix](https://matrix.to/#/#annas:archivecommunication.org) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
 * ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://articles.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/) - Books / Comics / [Apps / Extensions](https://go-to-library.sk/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
-* ⭐ **[Bookracy](https://bookracy.ru/)** - Books / Download / [Download Buttons](https://greasyfork.org/en/scripts/536768) / [Mirrors](https://rentry.co/bookracy) / [Subreddit](https://reddit.com/r/bookracy) / [Telegram](https://t.me/bookracy)
 * ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / [Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - Books / Audiobooks / Comics / Sheet Music / [Invite Required](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
@@ -17,14 +16,14 @@
 * [Liber3](https://liber3.eth.limo/) - Book Search / Download
 * [BookSee](https://en.booksee.org/) - Book Search / Download
 * [The Library](https://discord.gg/mSyFJz9) - Books / Discord
-* [eBookHunter](https://ebook-hunter.org/) - Books / Comics / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) / [Telegram](https://t.me/ebookhunterorg)
+* [⁠eBookoz](https://ebookoz.net/) - Books
+* [WeLib](https://welib.org/) - Anna's Archive Mirror / [Unofficial](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#welib-note)
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
 * [eBookBB](https://ebookbb.in/) - Books / Download
 * [iBookPile](https://ibookpile.in/) - Books / Download
-* [AllBooksWorld](https://allbooksworld.com/) - Books / [Telegram](https://t.me/allbooksworlddotcom)
-* [IsIDore](https://rentry.co/FMHYBase64#isidore) - Books / Download
 * [Library Land](https://library.land/) - Books / Online Reading
+* [AllFreeBooks](https://allfreebooks.org/) - Book / Download
 * [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
 * [Novel12](https://novel12.com/) - Books / Online Reading
 * [⁠ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books / Online Reading
@@ -35,7 +34,7 @@
 * [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [Flibusta](https://flibusta.is/) / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) - Russian Ebook Library / Sign-Up / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [The Free Book Library](https://ebooks.i2p/) - I2P Required
-* [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) - Ebook Subreddit
+* [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) - Ebook Subreddit
 * [Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic) - Guide to Finding Articles / Books
 * irc://irc.irchighway.net/ebooks / [Request Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#irc-highway-note)
 * IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
@@ -63,7 +62,6 @@
 * [Lit2Go](https://etc.usf.edu/lit2go/)
 * [Planet Publish](https://www.planetpublish.com/)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012)
-* [Classic Literature](https://classic-literature.co.uk/) - Classics
 * [⁠By the Fireplace](https://bythefireplace.com/) - Classics
 * [DigiLibraries](https://digilibraries.com/) - Classics
 * [ExClassics](https://www.exclassics.com/) - Obscure Books
@@ -78,7 +76,6 @@
 
 ## ▷ PDF Search
 
-* ⭐ **[PDF Drive](https://www.pdfdrive.com/)** - Books
 * [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
@@ -86,7 +83,6 @@
 * [ePDF](https://epdf.tips/), [2](https://epdf.pub/) - Books
 * [PDFCoffee](https://pdfcoffee.com) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
-* [PDFSearches](https://pdfsearches.com/) - Books
 * [iDoc](https://idoc.tips/) - Books
 * [freepdfbook](https://freepdfbook.com/) - Books
 * [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Amazon PDF Search
@@ -95,7 +91,7 @@
 
 ## ▷ Calibre Libraries
 
-* ↪️ **[Calibre Libraries](https://rentry.co/FMHYBase64#calibre-libraries)**
+* ↪️ **[Calibre Libraries](https://rentry.co/FMHYB64#calibre-libraries)**
 * ⭐ **[Ebook-Translator](https://translator.bookfere.com)** - Calibre Translators
 * [Libgen for Calibre](https://github.com/poochinski9/libgen-calibre-store-plugin) - Libgen for Calibre
 * [opencalibre](https://reddit.com/r/opencalibre) - Community Shared Calibre Libraries
@@ -104,149 +100,12 @@
 
 ***
 
-## ▷ Fanfiction / Stories
-
-* ⭐ **[Short Stories](https://short-stories.co/)**
-* ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
-* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
-* [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Collabs
-* [RPC Authority](http://rpc-wiki.net/) - Fictional Story Collabs
-* [OrionsArm](https://www.orionsarm.com/) - Fictional Story Collabs
-* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
-* [Fork Read](https://forkread.com/) - Publish Short Stories
-* [Fanfiction.net](https://fanfiction.net/) - Fanfiction
-* [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
-* [FanMTL](https://www.fanmtl.com/) - Fanfiction
-* [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
-* [Wattpad](https://wattpad.com/) - Fanfiction
-* [Royal Road](https://royalroad.com/) - Fanfiction
-* [FictionPress](https://www.fictionpress.com/) - Fanfiction
-* [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
-* [fiction.live](https://fiction.live/) - Fanfiction
-* [Booksie](https://www.booksie.com/) - Short Stories
-* [Vestal Review](https://www.vestalreview.net/) - Short Stories
-* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
-* [Vocal Media](https://vocal.media/fiction/) - Short Stories
-* [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
-* [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
-* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
-* [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
-* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
-
-***
-
-## ▷ Esoteric / Cultural
-
-* 🌐 **[WiLd's Occult Ebooks](https://rentry.co/FMHYBase64#wilds-occult-ebook-sources)** - Occult / Esoterica
-* 🌐 **[Soren Megathread](https://rentry.co/FMHYBase64#soren-megathread)** - Occult / Esoterica
-* ↪️ **[Esoterica Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
-* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
-* ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
-* ⭐ **[The Exerdex](https://rentry.co/FMHYBase64#echerdex-repository)** - Esoterica / [Subreddit](https://www.reddit.com/r/Echerdex/) / [Discord](https://discord.gg/dS5X3d7ype)
-* [Theoi](https://www.theoi.com/) - Greek Mythology
-* [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
-* [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
-* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Occult Rentry](https://rentry.co/FMHYBase64#occult-rentry), [766 Occult Books](https://rentry.co/FMHYBase64#766-occult-books), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
-* [Messy Occult Library](https://rentry.co/FMHYBase64#messy-occult-library) - Occult / Esoterica / Gnosticism
-* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
-* [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
-* [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
-* [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
-* [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
-* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion
-* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
-* [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
-* [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
-* [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
-* [The Library of Consciousness](https://www.organism.earth/library/) - Esoterica
-* [Humanitys Vault](https://rentry.co/FMHYBase64#humanitys-vault) - Esoterica
-* [Esoteric Archive](https://esotericarchives.com/) - Esoterica
-* [Esoterica Drive](https://rentry.co/FMHYBase64#archive) - Esoterica
-* [magZtore](https://t.me/magZtore) - Esoterica / Telegram
-* [WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks) - Esoterica / Telegram
-* [Synchroncity1111](https://t.me/synchroncity1111) - Esoterica / Telegram
-* [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
-* [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
-* [Azrk's library](https://rentry.co/FMHYBase64#azrks-library) - Occult / Esoterica / Satanism / Religion
-* [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
-* [Spirituality Megadrive](https://rentry.co/FMHYBase64#spirituality-megadrive)
-* [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
-* [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
-* [CraftStuff](https://rentry.co/FMHYBase64#craftstuff) - Witchcraft
-* [Witchcraft Library](https://rentry.co/FMHYBase64#witchcraft-library) - Witchcraft / Paganism
-* [Public Witchcraft Library](https://rentry.co/FMHYBase64#public-witchcraft-library) - Witchcraft / Paganism / Satanism
-* [Alchemy Drive](https://rentry.co/FMHYBase64#alchemy-drive) - Alchemy
-* [LeftHandPath](https://rentry.co/FMHYBase64#lefthandpath) - Luciferianism
-* [Hellenistic Theism Drive](https://rentry.co/FMHYBase64#hellenistic-theism) - Hellenistic Theism
-* [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
-* [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
-* [Vedanta Shastras](https://www.shastras.com/) - Hinduism
-* [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
-* [BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - Bhagavad Gita App
-* [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters
-* [84000](https://84000.co/) - Buddhism
-* [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
-* [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
-* [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
-* [HolyBooks](https://holybooks.com/) - Religious Texts
-* [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
-* [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
-* [BibleGateway](https://www.biblegateway.com/), [Armorer](https://armorer.io/) or [Bible.com](https://www.bible.com/) - Christian Bible
-* [eSword](https://e-sword.net/) - Christian Bible Desktop App
-* [Classics Ethereal Library](https://www.ccel.org/) - Christianity
-* [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [Quran.com](https://quran.com/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations / [Mobile](https://github.com/quran/quran_android)
-* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
-* [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
-* [TheIslam360](https://theislam360.com/) - Islamic Research App
-* [Halakhah](https://www.halakhah.com/) - Talmud Translation
-* [Targum](http://targum.info/targumic-texts/) - Targum Translation
-* [Sefaria](https://www.sefaria.org/) - Jewish Texts Translations
-* [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
-* [2Muslims](https://www.2muslims.com/) - Muslim Resources
-* [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
-* [Sunnah.com](https://sunnah.com/) - Hadith Translation
-
-***
-
-## ▷ Special Interest
-
-* ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
-* ↪️ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_quote_indexes)**
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**, [Poetry In Translation](https://www.poetryintranslation.com/), [PoemHunter](https://www.poemhunter.com/), [DiscoverPoetry](https://discoverpoetry.com/), [RUVerses](https://ruverses.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
-* ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
-* [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
-* [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
-* [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
-* [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
-* [Artbooks Archive](https://t.me/archive_artbooks), [ArtFacultas](https://t.me/ArtFacultas), [FreeArt](https://t.me/free_art_book) or [TheArtbooks](https://t.me/theartbooks) - Artbooks
-* [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
-* [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
-* [Booklet Library](https://bookletlibrary.org/) - Booklet Library
-* [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
-* [QSL](https://rentry.co/FMHYBase64#qsl) - Ham Radio & Antenna Books
-* [Film Books](https://rentry.co/FMHYBase64#film-books) - Film Books
-* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
-* [TTRPG Torrent](https://rentry.co/FMHYBase64#ttrpg-books) - TTRPG Books
-* [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
-* [Trans Reads](https://transreads.org/) - Transgender-focused Literature
-* [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
-* [Anarchist FAQ](https://www.anarchistfaq.org/) - Anarchism / Translations
-* [Archive.Leftove.rs](https://archive.leftove.rs/) - Protest Documents
-* [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
-* [Liberation School](https://liberationschool.org/) - Communism
-* [Red Texts](https://redtexts.org/) - Communism
-* [Communism Essays / FAQs](https://dessalines.github.io/essays) - Communism
-* [Avalon Library](https://avalonlibrary.net/) - Conspirology Books
-
-***
-
 ## ▷ Ebook Readers
 
 * 🌐 **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** or [Mobile Read](https://www.mobileread.com/) - Ebook Reader Indexes
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - Mobile Ebook Readers
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Manage Books / Auto Metadata / Allows 1000 Uploads
-* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
+* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYB64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows, Mac, Linux
@@ -303,14 +162,206 @@
 
 ## ▷ Kindle Tools
 
-* ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYBase64#jailbreak-kindle)**
+* ↪️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYB64#jailbreak-kindle)**
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
-* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Releases
-* [Send to Kobo/Kindle](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) - Send Ebooks to Kindle
-* [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
+* [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
+* [Send to Kobo/Kindle](https://send.djazz.se/) - Send Ebooks to Kindle / [GitHub](https://github.com/daniel-j/send2ereader)
 * [Remove Kindle DRM](https://itsfoss.com/calibre-remove-drm-kindle/) - Remove DRM from Kindle
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
+
+***
+
+# ► Special Interest
+
+* ↪️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
+* ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - Anarchism
+* [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
+* [eBookHunter.net](https://www.ebookhunter.net/) or [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
+* [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
+* [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's Books
+* [Artbooks Archive](https://t.me/archive_artbooks), [ArtFacultas](https://t.me/ArtFacultas), [FreeArt](https://t.me/free_art_book) or [TheArtbooks](https://t.me/theartbooks) - Artbooks
+* [VGArtbooks](https://vk.com/vgartbooks) - Video Game Artbooks
+* [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
+* [Booklet Library](https://bookletlibrary.org/) - Booklet Library
+* [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
+* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
+* [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
+* [Trans Reads](https://transreads.org/) - Transgender-focused Literature
+* [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
+* [Anarchist FAQ](https://www.anarchistfaq.org/) - Anarchism / Translations
+* [Archive.Leftove.rs](https://archive.leftove.rs/) - Protest Documents
+* [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
+* [Liberation School](https://liberationschool.org/) - Communism
+* [Red Texts](https://redtexts.org/) - Communism
+* [Communism Essays / FAQs](https://dessalines.github.io/essays) - Communism
+* [Avalon Library](https://avalonlibrary.net/) - Conspirology Books
+
+***
+
+## ▷ Light Novels
+
+* 🌐 **[Wotaku](https://wotaku.wiki/websites#novels)** - Light Novel Index / [Discord](https://discord.gg/vShRGx8ZBC)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-novel)**, [2](https://everythingmoe.org/#section-novel) - Light Novel Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[Novel Updates](https://www.novelupdates.com/)**
+* ⭐ **[⁠NovelFire](https://novelfire.net/)**
+* [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
+* [Just Light Novels](https://www.justlightnovels.com/) / Allows Downloads
+* [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://allnovel.org), [NovelFull](https://novelfull.com/) or [NOVGO](https://novgo.net/)
+* [Vynovel](https://vynovel.com/)
+* [Ranobes](https://ranobes.top/)
+* [⁠Light Novel World](https://lightnovelworld.org/)
+* [Baka-Tsuki](https://www.baka-tsuki.org)
+* [Armaell's Library](https://armaell-library.net/) / Allows Downloads
+* [WuxiaWorld](https://www.wuxiaworld.com/)
+* [WTR-LAB](https://wtr-lab.com/) / Sign-Up Required for AI Translations
+* [WuxiaSpot](https://www.wuxiaspot.com/)
+* [WebNovel.com](https://www.webnovel.com/)
+* [AsianHobbyist](https://www.asianhobbyist.com/)
+* [Wordrain69](https://wordrain69.com/)
+* [Wuxia World](https://wuxiaworld.site/)
+* [Wuxiabox](https://www.wuxiabox.com/)
+* [NovelGo](https://novelgo.id)
+* [Wuxia.click](https://wuxia.click/)
+* [Ocean of EPUB](https://oceanofepub.net/) / Allows Downloads
+* [Novel Bin](https://novelbin.com/), [2](https://novelbin.me/)
+* [ReadNovelFull](https://readnovelfull.com)
+* [FreeWebNovel](https://freewebnovel.com/)
+* [Translated Light Novels](https://rentry.co/FMHYB64#translated-light-novels) / Allows Downloads
+* [NovelNext](https://novelnext.com/)
+* [NovelBuddy](https://novelbuddy.io/), [2](https://novelbuddy.com/)
+* [Wuxia Box](https://www.wuxiabox.com/)
+* [NovelCool](https://www.novelcool.com/)
+* [Novels.pl](https://www.novels.pl/) / Allows Downloads
+* [Scribblehub](https://www.scribblehub.com/)
+* [Novel Hall](https://www.novelhall.com/)
+* [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)
+* [WoopRead](https://woopread.com/)
+* [Royal Road](https://www.royalroad.com/) - Web Novels
+* [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - Telegram
+* [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
+* [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
+* [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
+* [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
+* [LNMTL](https://lnmtl.com/) or [Omni](https://app.readomni.com/) - Light Novel Translators
+
+***
+
+## ▷ Fanfiction / Stories
+
+* ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
+* ⭐ **[Short Stories](https://short-stories.co/)**
+* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Collabs / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation) / [Subreddit](https://www.reddit.com/r/SCPDeclassified/)
+* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
+* [Fork Read](https://forkread.com/) - Publish Short Stories
+* [Booksie](https://www.booksie.com/) - Short Stories
+* [Vestal Review](https://www.vestalreview.net/) - Short Stories
+* [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
+* [Vocal Media](https://vocal.media/fiction/) - Short Stories
+* [Poop Fiction](https://readpoopfiction.com/) - Random Short Stories
+* [the Wanderers' Library](https://wanderers-library.wikidot.com/) - Fictional Story Collabs
+* [RPC Authority](http://rpc-wiki.net/) - Fictional Story Collabs
+* [OrionsArm](https://www.orionsarm.com/) - Fictional Story Collabs
+* [Fanfiction.net](https://www.fanfiction.net/) - Fanfiction
+* [SquidgeWorld](https://squidgeworld.org/) - Fanfiction
+* [FanMTL](https://www.fanmtl.com/) - Fanfiction
+* [Inkitt](https://www.inkitt.com/fanfiction) - Fanfiction
+* [Wattpad](https://wattpad.com/) - Fanfiction / [Downloader](https://wpd.my/)
+* [Royal Road](https://royalroad.com/) - Fanfiction
+* [FictionPress](https://www.fictionpress.com/) - Fanfiction
+* [Quotev](https://www.quotev.com/stories/c/Fanfiction) - Fanfiction
+* [AlternateHistory](https://www.alternatehistory.com/forum/) - Historical "What if?" Fiction
+* [Liminal Archives](http://liminal-archives.wikidot.com/) / [Discord](https://discord.gg/fxhwcsyKN2), [The Backrooms Wiki](http://backrooms-wiki.wikidot.com/) or [The Voidclusters](http://voidclusters.wikidot.com/) - Liminal Space Stories
+* [Potions and Snitches](https://www.potionsandsnitches.org/) - Harry Potter Fanfiction
+* [Fim Fiction](https://www.fimfiction.net/) - MLP Fanfiction
+* [fiction.live](https://fiction.live/) - Fanfiction
+
+***
+
+## ▷ Newspapers
+
+* 🌐 **[Veridian](https://veridiansoftware.com/collections/)** - Newspaper Archive List
+* ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+* ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
+* ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)** / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
+* ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
+* [SoftArchive](https://softarchive.download/newspapers)
+* [Meta-Press](https://www.meta-press.es/) - Newspaper Search
+* [EngNewspapers](https://vk.com/engnewspapers) - Telegram
+* [newspaper_archive](https://t.me/newspaper_archive) - Telegram
+* [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
+* [Kiosko](https://en.kiosko.net/)
+* [FultonHistory](https://fultonhistory.com/Fulton.html)
+* [Loc.gov Newspapers](https://www.loc.gov/newspapers/)
+* [Newspapers](https://newspapers.com/)
+* [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
+* [Library of Congress Newspapers](https://guides.loc.gov/foreign-newspapers/digital-resources)
+* [Archive.org Newspapers](https://rentry.co/FMHYB64#archiveorg-newspapers)
+* [World-Newspapers](https://world-newspapers.com/), [NewsPaperIndex](https://www.newspaperindex.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Indexes
+* [LA Times](https://latimes.newspapers.com/)
+* [Front Pages](https://www.frontpages.com/) - Newspaper Front Pages
+* [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
+* [Newspaper Map](https://newspapermap.com/) - Find / Translate Worldwide Newspapers
+
+***
+
+## ▷ Esoteric / Cultural
+
+* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - Religion / Mythology / Folklore / Esoterica / [Classic View](https://archive.sacred-texts.com/)
+* ⭐ **[Libris Adepti](https://librisadepti.com/)** - Esoterica / Occult
+* [Theoi](https://www.theoi.com/) - Greek Mythology
+* [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
+* [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
+* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2), [Darkbooks](https://darkbooks.org/collection/top250.html) or [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult Books
+* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
+* [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
+* [EatTheFruit](https://www.eatthefruit.com/media-library/pdf-library/) - Ancient Texts / Mythology
+* [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
+* [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
+* [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion
+* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
+* [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
+* [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
+* [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
+* [The Library of Consciousness](https://www.organism.earth/library/) - Esoterica
+* [Esoteric Archive](https://esotericarchives.com/) - Esoterica
+* [magZtore](https://t.me/magZtore) - Esoterica / Telegram
+* [WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks) - Esoterica / Telegram
+* [Synchroncity1111](https://t.me/synchroncity1111) - Esoterica / Telegram
+* [SpiritualBooks](https://t.me/spiritualbooks) - Esoterica / Telegram
+* [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
+* [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
+* [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
+* [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
+* [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
+* [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
+* [Vedanta Shastras](https://www.shastras.com/) - Hinduism
+* [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
+* [BhagavadGitaApp](https://github.com/WirelessAlien/BhagavadGitaApp) - Bhagavad Gita App
+* [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters
+* [84000](https://84000.co/) - Buddhism
+* [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
+* [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
+* [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
+* [HolyBooks](https://holybooks.com/) - Religious Texts
+* [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
+* [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
+* [BibleGateway](https://www.biblegateway.com/), [Armorer](https://armorer.io/) or [Bible.com](https://www.bible.com/) - Christian Bible
+* [eSword](https://e-sword.net/) - Christian Bible Desktop App
+* [Classics Ethereal Library](https://www.ccel.org/) - Christianity
+* [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
+* [Quran.com](https://quran.com/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations / [Mobile](https://github.com/quran/quran_android)
+* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
+* [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
+* [TheIslam360](https://theislam360.com/) - Islamic Research App
+* [Halakhah](https://www.halakhah.com/) - Talmud Translation
+* [Targum](http://targum.info/targumic-texts/) - Targum Translation
+* [Sefaria](https://www.sefaria.org/) - Jewish Texts Translations
+* [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
+* [2Muslims](https://www.2muslims.com/) - Muslim Resources
+* [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
+* [Sunnah.com](https://sunnah.com/) - Hadith Translation
 
 ***
 
@@ -354,13 +405,14 @@
 * [zAudiobooks](https://zaudiobooks.com/)
 * [Find Audiobook](https://findaudiobook.app/)
 * [Audio AZ](https://audioaz.com/)
-* [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
+* [r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Select Playlists
 
 ***
 
 ## ▷ Audiobook Tools
 
+* [⁠AudiobookCovers](https://audiobookcovers.com/) - Download Audiobook Covers
 * [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook), [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Audible DRM Remover / Manager
@@ -373,7 +425,7 @@
 ## ▷ Comics
 
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
-* ⭐ **[BatCave](https://batcave.biz/)** / US IP or VPN Required
+* ⭐ **[BatCave](https://batcave.biz/)** - May Require VPN
 * ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Webcomics
@@ -412,92 +464,41 @@
 * 🌐 **[Rawmangaz](https://rentry.co/rawmangaz)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
-* ⭐ **[ComicK](https://comick.io/)** / [Subreddit](https://reddit.com/r/ComicK/) / [Discord](https://discord.gg/comick)
 * ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
 * ⭐ **[Weeb Central](https://weebcentral.com/)**
-* ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Proxies](https://rentry.co/batoto) / [Discord](https://discord.com/invite/batoto)
-* ⭐ **[MangaPark](https://mangapark.net/)** / [Proxies](https://rentry.co/mangapark) / [Discord](https://discord.gg/jctSzUBWyQ)
+* ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Mirrors](https://batotomirrors.pages.dev/) / [Discord](https://discord.com/invite/batoto)
+* ⭐ **[MangaPark](https://mangapark.net/)** / [Proxies](https://mangaparkmirrors.pages.dev/) / [Discord](https://discord.gg/jctSzUBWyQ)
+* ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.com/invite/kBPYVSzwUE)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [MangaHaven](https://mangahaven.net/)
 * [MangaKatana](https://mangakatana.com/)
 * [MangaFire](https://mangafire.to/) / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
-* [The Manga Library](https://rentry.co/FMHYBase64#the-manga-library)
-* [MangaReader](https://mangareader.to/) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/) / [Discord](https://discord.com/invite/Bvc5mVcUqE)
+* [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
 * [MangaNato](https://www.manganato.gg/), [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * [Rive Manga](https://rivestream.org/manga)
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [MangaDex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYBase64#madokami)
+* [Madokami](https://wotaku.wiki/guides/manga/madokami) - Makokami Download Guide / [Archive](https://rentry.co/FMHYB64#madokami)
 * [Atsumaru](https://atsu.moe/) / [Discord](https://discord.gg/Tj4QmEF4uV)
-* [MangaHasu](https://mangahasu.me/)
 * [mangapill](https://mangapill.com/)
 * [Like Manga](https://likemanga.in/)
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [Webtoon](https://www.webtoons.com/) / [Discord](https://discord.com/invite/webtoonofficial)
-* [MangaBerri](https://mangaberri.com/) - Use Adblock
+* [MangaBerri](https://mangaberri.com/) - Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Toonily](https://toonily.com/) - Manhwa
 * [ManhwaClan](https://manhwaclan.com/) - Manhwa
 * [MediaBang](https://medibang.com/mpc/) or [⁠NamiComi](https://namicomi.com/en) - User-Created Manga
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Database / Releases Updates
 * [Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z) / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
-* [Seanime](https://seanime.rahim.app/) - Self-Hosted Manga App
+* [Seanime](https://seanime.app/) - Self-Hosted Manga App
 * [Kaizoku](https://github.com/lucy-goblin/kaizoku-next) - Self-Hosted Manga Downloader
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [Manga-Manager](https://github.com/MangaManagerORG/Manga-Manager) - Manga Managers
 * [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
-
-***
-
-## ▷ Light Novels
-
-* 🌐 **[Wotaku](https://wotaku.wiki/websites#novels)** - Light Novel Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/#section-novel)**, [2](https://everythingmoe.org/#section-novel) - Light Novel Sites Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
-* 🌐 **[The Index](https://theindex.moe/library/novels)** - Light Novel Site Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ⭐ **[Novel Updates](https://www.novelupdates.com/)**
-* ⭐ **[⁠NovelFire](https://novelfire.net/)**
-* [Visual Novels Android](https://t.me/visual_novels_android_eng) - Android Visual Novel Ports
-* [Just Light Novels](https://www.justlightnovels.com/) / Allows Downloads
-* [LightNovelHeaven](https://lightnovelheaven.com), [AllNovel](https://allnovel.org), [NovelFull](https://novelfull.com/) or [NOVGO](https://novgo.net/)
-* [Vynovel](https://vynovel.com/)
-* [Ranobes](https://ranobes.top/)
-* [⁠Light Novel World](https://lightnovelworld.org/)
-* [Baka-Tsuki](https://www.baka-tsuki.org)
-* [Armaell's Library](https://armaell-library.net/) / Allows Downloads
-* [WuxiaWorld](https://www.wuxiaworld.com/)
-* [WTR-LAB](https://wtr-lab.com/) / Sign-Up Required for AI Translations
-* [WuxiaSpot](https://www.wuxiaspot.com/)
-* [WebNovel.com](https://www.webnovel.com/)
-* [AsianHobbyist](https://www.asianhobbyist.com/)
-* [Wordrain69](https://wordrain69.com/)
-* [Wuxia World](https://wuxiaworld.site/)
-* [Wuxiabox](https://www.wuxiabox.com/)
-* [NovelGo](https://novelgo.id)
-* [Wuxia.click](https://wuxia.click/)
-* [Ocean of EPUB](https://oceanofepub.net/) / Allows Downloads
-* [Novel Bin](https://novelbin.com/), [2](https://novelbin.me/)
-* [ReadNovelFull](https://readnovelfull.com)
-* [FreeWebNovel](https://freewebnovel.com/)
-* [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels) / Allows Downloads
-* [NovelNext](https://novelnext.com/)
-* [NovelBuddy](https://novelbuddy.io/), [2](https://novelbuddy.com/)
-* [Wuxia Box](https://www.wuxiabox.com/)
-* [NovelCool](https://www.novelcool.com/)
-* [Novels.pl](https://www.novels.pl/) / Allows Downloads
-* [Scribblehub](https://www.scribblehub.com/)
-* [Novel Hall](https://www.novelhall.com/)
-* [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)
-* [WoopRead](https://woopread.com/)
-* [Royal Road](https://www.royalroad.com/) - Web Novels
-* [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index) - Telegram
-* [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
-* [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
-* [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
-* [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
-* [LNMTL](https://lnmtl.com/) or [Omni](https://app.readomni.com/) - Light Novel Translators
 
 ***
 
@@ -535,45 +536,19 @@
 
 ***
 
-## ▷ Newspapers
-
-* 🌐 **[Veridian](https://veridiansoftware.com/collections/)** - Newspaper Archive List
-* ↪️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
-* ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)** / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
-* [SoftArchive](https://softarchive.download/newspapers)
-* [Meta-Press](https://www.meta-press.es/) - Newspaper Search
-* [EngNewspapers](https://vk.com/engnewspapers) - Telegram
-* [newspaper_archive](https://t.me/newspaper_archive) - Telegram
-* [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
-* [Kiosko](https://en.kiosko.net/)
-* [FultonHistory](https://fultonhistory.com/Fulton.html)
-* [Loc.gov Newspapers](https://www.loc.gov/newspapers/)
-* [Newspapers](https://newspapers.com/)
-* [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
-* [Library of Congress Newspapers](https://guides.loc.gov/foreign-newspapers/digital-resources)
-* [Archive.org Newspapers](https://rentry.co/FMHYBase64#archiveorg-newspapers)
-* [World-Newspapers](https://world-newspapers.com/), [NewsPaperIndex](https://www.newspaperindex.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Indexes
-* [LA Times](https://latimes.newspapers.com/)
-* [Front Pages](https://www.frontpages.com/) - Newspaper Front Pages
-* [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
-* [Newspaper Map](https://newspapermap.com/) - Find / Translate Worldwide Newspapers
-
-***
-
 # ► Educational Books
 
 * 🌐 **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - Educational Book Site Index
 * ↪️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_language_learning)**
+* ↪️ **[Dictionaries / Thesaurus'](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dictionaries_.2F_thesaurus)**
+* ↪️ **[Encyclopedias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_encyclopedias)**
 * ⭐ **[Openstax](https://openstax.org/)** or [OpenStax College Textbooks](https://philschatz.com/books/)
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 * [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
-* [Library Drive](https://rentry.co/FMHYBase64#library-drive)
-* [opendir](https://rentry.co/FMHYBase64#opendir)
 * [Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [The Literature Network](https://www.online-literature.com/)
 * [Memory of the World](https://www.memoryoftheworld.org/)
+* [Taleem360](https://www.taleem360.com/)
 * [LibreTexts](https://one.libretexts.org/home), [2](https://libretexts.org/platforms/libraries/), [3](https://libretexts.org/)
 * [PDFBooksWorld](https://www.pdfbooksworld.com/)
 * [Monoskop](https://monoskop.org/log/)
@@ -583,7 +558,6 @@
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
 * [VDOC.PUB](https://vdoc.pub/)
-* [Various Books](https://rentry.co/FMHYBase64#various-books-manuals)
 * [Sciarium](https://sciarium.com/)
 * [OpenED](https://open.bccampus.ca/)
 * [De Gruyter Brill](https://www.degruyterbrill.com/?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyterbrill.com/page/2045)
@@ -603,9 +577,9 @@
 * [JSTor](https://www.jstor.org/) - Books / Journals
 * [UCL Press](https://www.uclpress.co.uk/) - Books / Journals
 * [Dummies Store](https://t.me/dummiesbook) - Books for Dummies Collection
-* [Saylor Academy](https://learn.saylor.org/) - Courses
 * [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
+* [⁠ReadYourFlow](https://readyourflow.com/) - Textbooks
 * [TextBookGo](http://textbookgo.com/) - TextBooks
 * [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
 * [2012books](https://2012books.lardbucket.org/) - Creative Commons Books
@@ -619,6 +593,7 @@
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [⁠Japanese Wiki Corpus](https://www.japanesewiki.com/) - Japanese Culture / History Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
+* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Trading / Stocks
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
 * [VetBooks](https://vetbooks.ir/) - Veterinary
 * [Brill](https://brill.com/) - International Law Books / Free for Students Only
@@ -629,10 +604,9 @@
 ## ▷ STEM Resources
 
 * 🌐 **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - Artificial Intelligence Books
-* [Math and Physics Books](https://rentry.co/FMHYBase64#math-and-physics-books)
 * [IntechOpen](https://www.intechopen.com/) - Science
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYBase64#astronomy-physics) - Books / Notes / Astronomy / Physics
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) - Books / Notes / Astronomy / Physics
 * [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
 * [Chemistry.com.pk](https://chemistry.com.pk/) - Chemistry / Books
 * [Biology.com.pk](https://biology.com.pk/) - Biology / Books
@@ -643,14 +617,13 @@
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
 * [SemiWiki](https://semiwiki.com/) - Semiconductor Wiki
 * [PDFiles](https://www.pdfiles.net/) - IT Books
-* [IT Book Drive](https://rentry.co/FMHYBase64#it-books-drive) - IT Books
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
 
 ***
 
 ## ▷ History Books
 
-* 🌐 **[/r/AskHistorians Recommended](https://www.reddit.com/r/AskHistorians/wiki/books)** - Recommended History Books
+* 🌐 **[r/AskHistorians Recommended](https://www.reddit.com/r/AskHistorians/wiki/books)** - Recommended History Books
 * ⭐ **[Media History](https://mediahistoryproject.org/)** - Books / Magazines
 * ⭐ **[EarlyModernTexts](https://www.earlymoderntexts.com)** - Historical Texts
 * ⭐ **[World History](https://www.worldhistory.org/)** or [Livius](https://www.livius.org/) - History Encyclopedias
@@ -669,7 +642,7 @@
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [ToposText](https://topostext.org/) - Historical Greek Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
-* [History Newsboys of 1899](https://rentry.co/FMHYBase64#history-newsboys-of-1899) - Books / Documents
+* [History Newsboys of 1899](https://rentry.co/FMHYB64#history-newsboys-of-1899) - Books / Documents
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [HornTip](https://www.horntip.com/) - Military Songbooks
@@ -684,6 +657,27 @@
 
 ***
 
+## ▷ Quotes / Poetry
+
+* ⭐ **[Wikiquote](https://en.wikiquote.org)**
+* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
+* [BrainyQuote](https://www.brainyquote.com/)
+* [AZQuotes](https://www.azquotes.com/)
+* [QuoteGarden](https://www.quotegarden.com/)
+* [QuoteMaster](https://www.quotemaster.org/)
+* [TheOtherPages](https://theotherpages.org/quote.html)
+* [Quote Collections](https://rentry.co/zeoemsh9)
+* [Poetry In Translation](https://www.poetryintranslation.com/)
+* [PoemHunter](https://www.poemhunter.com/)
+* [DiscoverPoetry](https://discoverpoetry.com/)
+* [RUVerses](https://ruverses.com/)
+* [Poetry.com](https://www.poetry.com/)
+* [Poets.org](https://poets.org/)
+* [PoetryArchive](https://poetryarchive.org/)
+* [ScottishPoetryLibrary](https://www.scottishpoetrylibrary.org.uk/)
+
+***
+
 ## ▷ Programming Books
 
 * 🌐 **[Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books)** - Programming Book Index
@@ -694,7 +688,6 @@
 * [IT eBooks](https://it-ebooks.info/)
 * [FreeTechBooks](https://www.freetechbooks.com/)
 * [FreeComputerEbooks](https://freecomputerbooks.com/)
-* [OnlineProgrammingBooks](https://www.onlineprogrammingbooks.com/)
 * [TechBooksFree](https://techbooksforfree.com/)
 * [eBooks-IT](https://ebooks-it.org)
 * [Essential Programming Books](https://www.programming-books.io/)
@@ -748,6 +741,7 @@
 * [Zenodo](https://zenodo.org/) - Research Papers
 * [re3data](https://www.re3data.org/) - Research Data
 * [Retraction Watch](https://retractionwatch.com/) - Retracted Research Papers
+* [HAL](https://hal.science/) - Scientific Paper Search
 * [Science.gov](https://www.science.gov/) - Scientific Paper Search
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Computer Vision Research Papers
 * [IDEAS](https://ideas.repec.org/) or [RePEc](http://repec.org/) - Economic Research Papers
@@ -854,17 +848,14 @@
 
 ***
 
-## ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_reference_sites)
-
-***
-
 # ► Tracking / Database
 
-* ⭐ **[GoodReads](https://www.goodreads.com/)** - Ratings / Tracking / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/) / [Frontend](https://github.com/nesaku/BiblioReads)
+* ⭐ **[GoodReads](https://www.goodreads.com/)** - Tracking / Database / Reviews / Recommendations / [Ratings Filter](https://www.book-filter.com/) / [Frontend](https://github.com/nesaku/BiblioReads)
 * ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - Tracking / Recommendations
-* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Rating / Tracking / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
-* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Rating / Tracking / Reviews [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
-* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Rating / Releases
+* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
+* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Databsase / Reviews [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
+* ⭐ **[MangaBaka](https://mangabaka.dev/)** - Multi-Site Manga + Novel Rating Aggregator / Tracking / [Discord](https://mangabaka.dev/discord)
+* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
 * [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
@@ -873,7 +864,6 @@
 * [Oku](https://oku.club/) - Book Tracking Platform
 * [Literal](https://literal.club/) - Social Book Tracking Platform
 * [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
-* [MangaBaka](https://mangabaka.dev/) - Multi-Site Manga / Novel Database / [Discord](https://discord.com/invite/XYtPtMkbKs)
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
 * [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations
 * [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
@@ -890,15 +880,15 @@
 * ⭐ **[Five Books](https://fivebooks.com/)** - Expert Recommended Books
 * ⭐ **[TasteDive](https://tastedive.com/books)** - Discovery and Recommendations
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga Database / Releases Updates
-* [Rec Charts](https://pastebin.com/ayuqSpGR) - Books / Comics / Manga Recommendation Guides
-* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
+* [Charts and Culture](https://pastebin.com/uRDJVGkL) - Books / Comics / Manga Recommendation Directory
+* [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Personalized Recommendation Subreddit
 * [BookHype](https://bookhype.com/) - Book Discovery / Recommendations
 * [Reddit Reads](https://www.redditreads.com/) - Most Popular Books from Subreddits
 * [Gnooks](https://www.gnooks.com/) - Book Discovery / Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - First Page Book Teasers
 * [WhichBook](https://www.whichbook.net/) - Mood-Based Book Discovery
 * [En](https://en.app/) - Vibe-Based Book Search
-* [⁠/r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Book Recommendations
+* [⁠r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Newvella](https://newvella.com/) - Book Discovery / Recommendations
@@ -914,8 +904,8 @@
 * [Bookmarks Review](https://bookmarks.reviews/) - Book Review Aggregator
 * [5000 Best](http://5000best.com/books/) - Top 5000 Books
 * [BookStash](https://bookstash.io/), [Sobrief](https://sobrief.com/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
-* [/r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
-* [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
+* [r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
+* [r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
 * [ComicBookCanon](https://www.comicbookcanon.com/) - Comics / Manga Top Lists
 * [Nevix](https://nevix.com/) - Manga / Social Media
@@ -927,7 +917,7 @@
 * [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.gg/YbuYYUwhpP)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 * [VNDB](https://vndb.org/) - Visual Novels
-* [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
+* [r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
 
 ***
 
@@ -950,7 +940,6 @@
 * [⁠IPDL](https://ipdl.cat/) - Monitor Digital Library Torrent Health
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader
-* [Book Scraper](https://gitlab.com/minecraftpiston/book-scraper) - RoyalRoad / ScribbleHub Downloader
 * [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
 * [EPUB Translator](https://github.com/quantrancse/epub-translator) or [epub-translator](https://github.com/sharplab/epub-translator) - EPUB Translators
 * [SmartStitch](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
