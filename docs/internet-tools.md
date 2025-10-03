@@ -43,7 +43,7 @@
 * ↪️ **[Password Privacy / 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
 * ⭐ **[KeePass](https://keepass.info/)** or **[KeePassXC](https://keepassxc.org/)**
 * ⭐ **KeePass Tools** - [Forks](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/)
-* ⭐ **[Bitwarden](https://bitwarden.com/)** / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
+* ⭐ **[Bitwarden](https://bitwarden.com/)** / [Alt Client](https://github.com/AChep/keyguard-app) / [X](https://twitter.com/bitwarden) / [Subreddit](https://reddit.com/r/bitwarden) / [GitHub](https://github.com/bitwarden)
 * ⭐ **[Proton Pass](https://proton.me/pass)**
 * [Pashword](https://pashword.app/)
 * [LessPass](https://lesspass.com/)
@@ -451,6 +451,7 @@
 * [Guerrilla Mail](https://www.guerrillamail.com/) - Forever / 1 Hour / 11 Domains / [SharkLasers](https://www.sharklasers.com/)
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/) - Temp Email Extension
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
+* [⁠DuckSpam](https://duckspam.com/) - Forever / Forever / 1 Domain
 * [⁠AltAddress](https://altaddress.org/) - Forever / 3 Days / 14 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
 * [Vortex Email](https://vortex.skyfall.dev/) - Forever / 9 Domains / [GitHub](https://github.com/SkyfallWasTaken/vortex.email)
