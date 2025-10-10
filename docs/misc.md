@@ -139,7 +139,7 @@
 * [r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
 * [r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
 * [Cheese.com](https://cheese.com/) - Cheese Resources
-* [Crispy Creations](https://rentry.co/crispycreations) - Potato Chip Info / Guides
+* [Crispy Creations](https://claraiscute.neocities.org/Guides/crispycreations/), [2](https://claraiscute.pages.dev/Guides/crispycreations/) - Potato Chip Info / Guides
 * [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
 * [⁠SaltYourMeat](https://www.saltyourmeat.com/) - Dry Brining Calculator
 * [HackTheMenu](https://hackthemenu.com/) - Fast Food Secret Menu Items
@@ -183,7 +183,7 @@
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [Nahbucks!](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops (US)
 * [⁠Aeromatic](https://aeromatic.app/) - AeroPress Recipe App
-* [/tea/](https://rentry.co/teageneral) - Tea Brewing Masterlist / Guide
+* [/tea/](https://claraiscute.pages.dev/Guides/teageneral/) - Tea Brewing Masterlist / Guide
 * [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
 * [Make Me a Cocktail](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Modern Meadmaking](https://meadmaking.wiki/) - Homebrewing Wiki
@@ -211,7 +211,7 @@
 # ► Gardening
 
 * 🌐 **[Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)** - Agriculture Resources
-* 🌐 **[Agriculture / Gardening Subreddits](https://rentry.co/TouchGrasss)**
+* 🌐 **[Agriculture / Gardening Subreddits](https://claraiscute.pages.dev/Guides/touchgrasss/)**
 * 🌐 **[Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)** or [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
 * ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
 * ⭐ **[r/Gardening](https://reddit.com/r/gardening)** - Gardening Community
@@ -328,6 +328,7 @@
 * [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
 * [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) - Restricted Google Maps WebView Wrapper / [GitHub](https://github.com/woheller69/maps)
 * [CubeTrek](https://cubetrek.com/) - GPS Track Manager
+* [DeFlock](https://deflock.me/) - AI Automated License Plate Reader Cameras / ALPR Map / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock)
 * [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Maps
 * [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
 * [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
@@ -509,7 +510,8 @@
 * ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
 * [Kite](https://kite.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
-* [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries 
+* [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries
+* [⁠Particle](https://particle.news/) - Aggregator / Summaries
 * [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
 * [Ground.news](https://ground.news/) - Sign-Up Required
 * [Upstract](https://upstract.com/)
@@ -611,6 +613,7 @@
 * [HealthDirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
+* [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
 
 ***
 
@@ -709,7 +712,6 @@
 * [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies / [GitHub](https://github.com/dynamite-ready/movie-parser)
 * [Wingman](https://github.com/wingman-jr-addon/wingman_jr), [HaramBlur](https://linktr.ee/haramblur) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
-* [Fortify](https://www.joinfortify.com/) - Porn Quitting Community
 * [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings
 
 ***
@@ -965,6 +967,8 @@
 * [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
 * [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
+* [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
+* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 
 ***
 
@@ -1052,6 +1056,7 @@
 
 * [MyFigureCollection](https://myfigurecollection.net/) - Japanese Pop-Culture Merch Database
 * [Pokechange](https://en.pokechange.net/) or [Misprint](https://www.misprint.com/) - Buy / Sell Pokémon Cards
+* [⁠ThePriceDex](https://www.thepricedex.com/) - Pokémon Card Price Tracking
 * [Dinosaur Toy Blog](https://dinotoyblog.com/) or [Animal Toy Blog](https://animaltoyforum.com/blog/) - Animal Toy Reviews
 * [Ty Collector](https://tycollector.com/) or [Beaniepedia](https://beaniepedia.com/) - Ty Collectibles Databases
 * [BreyerHorseRef](https://www.breyerhorseref.com/) - Breyer Horse Database
@@ -1090,7 +1095,6 @@
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [wttr](https://wttr.in/) - Simple / Minimal Weather / [GitHub](https://github.com/chubin/wttr.in)
 * [WeatherStar 4000+](https://weatherstar.netbymatt.com/) / [2](https://weatherstar.dev/) or [WeatherScan](https://weatherscan.net/) - Retro Style Weather / [80's](https://weatherstar3000.netbymatt.com/) / [GitHub](https://github.com/MistWeatherMedia/)
-* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [SWG](https://spinthewheelgenerator.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [SurveyHeart](https://surveyheart.com/) or [Pepperform](https://pepperform.net/) - Survey Creators
 * [Label Studio](https://labelstud.io/) or [Cvat](https://www.cvat.ai/) - Data Organizing Tools
@@ -1106,8 +1110,10 @@
 * [FamilyEcho](https://www.familyecho.com/) - Create Custom Family Tree
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [ThistoThat](https://www.thistothat.com/) - How to Glue Anything to Anything
+* [A Bra That Fits](https://www.abrathatfits.org/calculator.php) or [BraMetric](https://brametric.com/) - Bra Size Calculators
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
-* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
+* [FreeSewing](https://freesewing.eu/) - Free Clothing Sewing Patterns / [Forum](https://forum.freesewing.eu/)
+* [r/CurlyHair Guide](https://docs.google.com/document/d/e/2PACX-1vSvGm-p4tvrstjT-XEo6pTHZSYeEON7xF5lPSnNv-3Kc2lCrdnkjXhFbdHt4pF3HUetWZ1j9dgfBBkS/pub) - Curly Hair Haircare Guide
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [CacheSleuth](https://www.cachesleuth.com/) - Geocaching Tools
 * [Parcelsapp](https://parcelsapp.com/en/), [Informed Delivery](https://informeddelivery.usps.com/) or [17Track](https://www.17track.net/en) - Mail Package Tracking
@@ -1189,6 +1195,7 @@
 * [Office Holidays](https://www.officeholidays.com/) - World Event Calendars
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [StageTimer](https://stagetimer.io/) - Event Timer
+* [Table Plan](https://table-plan.com/) - Seating Chart Maker ⁠
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
 * [KittySplit](https://www.kittysplit.com/en/) or [Spliit](https://spliit.app/) - Group Expense Splitting Calculator
 
@@ -1462,6 +1469,7 @@
 * [BreezeWiki](https://breezewiki.com/) - Fandom Frontend / [Mirrors](https://docs.breezewiki.com/Links.html#(part._.Mirrors))
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
+* [⁠Doomsday Scoreboard](https://doomsday.march1studios.com/) - Past & Predicted Apocalypse Events / Failed Prediction Scoreboard
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attractions
 * [Roller Coaster Database](https://rcdb.com/) - World Roller Coasters

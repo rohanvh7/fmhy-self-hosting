@@ -107,6 +107,26 @@
 
 ***
 
+## EmulatorJS / NeptunJS
+
+* **Note** - These serve as frontends for the EmulatorJS + NeptunJS emulator APIs.
+
+***
+
+* [PlayRetroGames](https://playretrogames.net/) - Retro Consoles / EmulatorJS / [Discord](https://discord.gg/qw9caq2qEg)
+* [RetroGames.cc](https://www.retrogames.cc/) - Retro Consoles / EmulatorJS
+* [OldGameShelf](https://oldgameshelf.com/) - Retro Consoles / EmulatorJS
+* [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy / EmulatorJS
+* [Play NES](https://www.playnesonline.com/) - NES Browser Emulator / EmulatorJS
+* [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator / EmulatorJS
+* [Mega Drive Emulator](https://megadrive-emulator.com/) - Sega Megadrive Browser Emulator / EmulatorJS
+* [PlayRetroGames](https://www.playretrogames.com/) - Retro Consoles / NeptunJS
+* [PlayEmulator](https://playemulator.online/) - Retro Consoles / NeptunJS
+* [8bbit](https://www.8bbit.com/) -  NES Browser Emulator / NeptunJS
+* [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator / NeptunJS
+
+***
+
 ## Free DNS Resolvers
 
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
@@ -149,6 +169,8 @@
 * [Mytunneling](https://www.mytunneling.com/)
 * [OpenTunnel](https://opentunnel.net/)
 * [Howdy](https://howdy.id/)
+* [ProxyBot](https://t.me/vamproxy_bot) - Telegram Proxy Bot
+* [proxy_socks5_bot](https://t.me/BestMTProxyBot) or [ShadowSocks_bot](https://t.me/ShadowSocks_bot) - Telegram Shadowsocks Bots
 
 ***
 
@@ -236,6 +258,7 @@
 
 ## Manga Readers
 
+* ↪️ **[Android Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga)** / **[iOS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)**
 * ⭐ **[Suwayomi](https://github.com/Suwayomi)**
 * ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Suwayomi-Server)
 * ⭐ **[Houdoku](https://houdoku.org/)** / [GitHub](https://github.com/xgi/houdoku)

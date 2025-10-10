@@ -63,7 +63,6 @@
 * [Bardeen](https://www.bardeen.ai/) or [N8N](https://n8n.io/) / [Workflow Index](https://github.com/Zie619/n8n-workflows) - Workflow Automation
 * [UI.Vision RPA](https://ui.vision/) - Workflow Automation Extension
 * [Hajimari](https://hajimari.io/) - Kubernetes Startpage / [Discord](https://discord.com/invite/HWGZSWJsA8)
-* [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [devSwag](https://devswag.io/) - Developer Giveaways
@@ -225,7 +224,7 @@
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History / [GitHub](https://github.com/Murmele/Gittyup)
 * [Gource](https://gource.io/) - Git Project Visualizer
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
-* [Delta](https://github.com/dandavison/delta) or [Git-Split-Diffs](https://github.com/banga/git-split-diffs) - Syntax Highlighting / Comparison
+* [⁠Difftastic](https://difftastic.wilfred.me.uk/) / [GitHub](https://github.com/Wilfred/difftastic), [Delta](https://github.com/dandavison/delta) or [Git-Split-Diffs](https://github.com/banga/git-split-diffs) - Syntax Highlighting / Diff Tools
 * [Onefetch](https://onefetch.dev) - Command-line Git information tool / [GitHub](https://github.com/o2sh/onefetch)
 * [pre-commit](https://pre-commit.com/) - Manage / Maintain Pre-Commit Hooks / [GitHub](https://github.com/pre-commit/)
 * [commitlint](https://commitlint.js.org/) - Lint Commit Messages / [GitHub](https://github.com/conventional-changelog/commitlint)
@@ -329,7 +328,6 @@
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engines
 * [Lip Gloss](https://github.com/charmbracelet/lipgloss) - Style Definitions for Terminal Layouts
 * [sshx](https://sshx.io/) - Share Terminal Screen / [GitHub](https://github.com/ekzhang/sshx)
-* [cURL](https://curl.se/) - Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/) / [Recipes](https://catonmat.net/cookbooks/curl)
 * [ripgrep](https://github.com/BurntSushi/ripgrep) or [Sift](https://sift-tool.org/) - `grep` Alternatives
 * [Edbrowse](https://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
@@ -367,6 +365,8 @@
 * [Mockae](https://mockae.com/) - Mock APIs with Lua Execution
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
+* [Userdoccers](https://docs.discord.food/) - Unofficial Discord API Documentation
+* [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
 * [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket / [Discord](https://discord.gg/lanyard)
 * [Telegram Bot API](https://core.telegram.org/bots) / [GitHub](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Serverless Telegram Bot / [GitHub](https://github.com/codebam/cf-workers-telegram-bot)
@@ -464,7 +464,7 @@
 * 🌐 **[⁠Awesome Web Editor](https://github.com/xjh22222228/awesome-web-editor)** - FOSS Web Editor Index
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Extensions](https://www.vsixhub.com/) / [Extensions Marketplace](https://rentry.co/vscodiumguide)
-* ⭐ **[JetBrains](https://jetbrains.com/)** / [Unlock](https://rentry.co/FMHYB64#jetbrains)
+* ⭐ **[JetBrains](https://jetbrains.com/)**
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org)
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [Windows Build](https://zed.dev/api/releases/nightly/latest/zed_editor_installer_x86_64.exe) / [GitHub](https://github.com/zed-industries/zed)
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
@@ -683,7 +683,7 @@
 
 * 🌐 **[Awesome HTML5](https://diegocard.com/awesome-html5)** - HTML5 Resources
 * ⭐ **[HTML Reference](https://htmlreference.io/)**, [HTML Cheat Sheet](https://htmlcheatsheet.com/) or [HTML.com](https://html.com/) - HTML Guides / Cheat Sheets
-* [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
+* [HTML-Minifier](https://github.com/j9t/html-minifier-next) - HTML Minifier
 * [HTMLRev](https://htmlrev.com/) - Free HTML Templates
 * [Markdown to HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [APlayer](https://aplayer.js.org/), [DPlayer](https://dplayer.diygod.dev/) or [xgplayer](https://h5player.bytedance.com/en/) - HTML5 Video Players
@@ -790,8 +790,9 @@
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) - Things to Remember for Web Devs
 * [Dagu](https://dagu.cloud/) - WebUI Job Manager / [GitHub](https://github.com/dagu-org/dagu)
-* [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
+* [cURL](https://curl.se/) or [xh](https://github.com/ducaale/xh) - HTTP Clients / Transfer Data with URLs / [Converter](https://curlconverter.com/) / [IP Lookup](http://ifconfig.me/) / [Recipes](https://catonmat.net/cookbooks/curl)
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
+* [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
 * [Transform](https://transform.tools/) - Polyglot Web Converter
@@ -1132,7 +1133,7 @@
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - Unlimited Storage / 100GB Bandwidth
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB Storage / 10GB Bandwidth
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB Storage / Unlimited Bandwidth
-* ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / Unlimited Bandwidth / No Custom Domain
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB Storage / No Custom Domain
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB Storage / Unlimited Bandwidth / [Bandwidth Note](https://files.catbox.moe/xf1shh.png)
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB Storage / Unlimited Bandwidth
 * [Codeberg Pages](https://codeberg.page/) - 750MB Storage / Unspecified Bandwidth
