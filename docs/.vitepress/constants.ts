@@ -154,10 +154,6 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
   {
     icon: 'reddit',
     link: 'https://reddit.com/r/FREEMEDIAHECKYEAH'
-  },
-  {
-    icon: 'bluesky',
-    link: 'https://bsky.app/profile/fmhy.net'
   }
 ]
 
@@ -175,6 +171,7 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
       { text: '🚀 Startpage', link: 'https://fmhy.net/startpage' },
       { text: '📋 snowbin', link: 'https://pastes.fmhy.net' },
+      { text: '🇷 Redlib', link: 'https://redlib.fmhy.net/' },
       { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
       {
         text: '💡 Site Hunting',
