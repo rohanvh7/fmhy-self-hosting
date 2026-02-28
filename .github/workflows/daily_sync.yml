@@ -1,0 +1,23 @@
+name: Sync Upstream
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows you to run it manually whenever you want
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          ref: main # Change this to 'master' if your branch uses the old naming
+
+      - name: Sync upstream changes
+        id: sync
+        uses: ahmadnassri/action-upstream-sync@v3
+        with:
+          upstream_repository: fmhy/edit # Replace with the original repo (e.g., google/jax)
+          target_branch: main
+          upstream_branch: main
