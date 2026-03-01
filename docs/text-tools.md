@@ -35,7 +35,7 @@
 * ⭐ **[pastes.dev](https://pastes.dev/)** - Multi-Syntax / Markdown Support / [GitHub](https://github.com/lucko/paste)
 * ⭐ **[paste.fmhy](https://paste.fmhy.bid/)**, **[PrivateBin](https://privatebin.net/)**, [NoteBin](https://notebin.de/) or [⁠ZeroBin](https://www.zerobin.net/) - Markdown Support / Syntax Highlighting / [Instances](https://privatebin.info/directory) / [GitHub](https://github.com/PrivateBin/PrivateBin)
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
-* ⭐ **[fluffle](https://fluffle.cc/)** - Markdown Support / [Source](https://git.0x8e.net/t/fluffle)
+* ⭐ **[Markbox](https://fluffle.cc/)** - Markdown Support / [Source](https://git.0x8e.net/t/fluffle)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [⁠Pretrey](https://pretrey.fmhy.bid/) - Markdown / Dynamic Content Support 
 * [Text.is](https://text.is/) - Markdown Support
@@ -359,7 +359,6 @@
 * [tad](https://github.com/antonycourtney/tad), [Tree Sheets](https://strlen.com/treesheets/), [VisiData](https://www.visidata.org/), [Gnumeric](https://gnome.pages.gitlab.gnome.org/gnumeric-web/) or [Quadratic](https://www.quadratichq.com/) - Spreadsheet Viewers / CSV Editors
 * [Framacalc](https://framacalc.org/) or [EtherCalc](https://ethercalc.net/) / [GitHub](https://github.com/audreyt/ethercalc) - Collaborative Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
-* [Excel Practice Online](https://excel-practice-online.com/) - Excel Practice / Guides
 * [Excel Macro Mastery](https://excelmacromastery.com/vba-articles/) - Excel VBA Guides
 * [ExcelJet](https://exceljet.net/formulas) or [Excel Functions](https://www.excelfunctions.net/) - Excel Formulas
 * [Vertex42](https://www.vertex42.com/) - Excel Templates
@@ -471,7 +470,7 @@
 * [MarkdownLivePreview](https://markdownlivepreview.com/)
 * [Vrite](https://editor.vrite.io/)
 * [MindForger](https://www.mindforger.com/)
-* [⁠Markpad](https://github.com/alecdotdev/Markpad) - Lightweight / Minimal
+* [⁠Markpad](https://markpad.sftwr.dev/) - Lightweight / Minimal / [GitHub](https://github.com/alecdotdev/Markpad)
 
 ***
 
@@ -479,7 +478,7 @@
 
 * ⭐ **[Typst](https://typst.app/home)** - LaTeX Alternative / [Resources](https://github.com/qjcg/awesome-typst) / [GitHub](https://github.com/typst/typst) 
 * ⭐ **[Overleaf](https://www.overleaf.com/), [⁠Crixet](https://crixet.com/) / [Discord](https://discord.gg/ffMZrSxUQa), [⁠LyX](https://www.lyx.org/) or [TeXStudio](https://texstudio.org/)** - LaTeX Editors
-* [⁠MathCheap](https://mathcheap.xyz/) - AI-Powered LaTex Editor w/ Image to Text OCR / [Discord](https://discord.gg/Q4chBVDFvK)
+* [⁠MathCheap](https://mathcheap.xyz/) / [Discord](https://discord.gg/Q4chBVDFvK) or [⁠Prism](https://prism.openai.com/) / [Discord](https://discord.com/invite/ffMZrSxUQa) - AI-Powered LaTex Editors
 * [Learn LaTeX](https://www.learnlatex.org/) - LaTeX Guide
 * [Tables Generator](https://www.tablesgenerator.com/) - Create LaTeX Tables
 * [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions

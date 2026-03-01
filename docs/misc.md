@@ -145,6 +145,8 @@
 * [⁠SaltYourMeat](https://www.saltyourmeat.com/) - Dry Brining Calculator
 * [HackTheMenu](https://hackthemenu.com/) - Fast Food Secret Menu Items
 * [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
+* [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
+* [⁠Slave Free Chocolate](https://www.slavefreechocolate.org/) - Chocolatiers that use Ethically Sourced (child slavery free) Cocoa
 
 ***
 
@@ -1044,7 +1046,7 @@
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
-* [Build List](https://buildlist.org/) - On-Demand Online Manufacturers
+* [Build List](https://buildlist.org/) or [USA Parts Made Fast](https://partsmadefast.com/) - On-Demand Online Manufacturers
 
 ***
 
@@ -1275,7 +1277,7 @@
 ## ▷ Calendars / Events
 
 * ⭐ **[Cal.com](https://cal.com/)** - Business / Work Schedule Calendar / [GitHub](https://github.com/calcom/cal.com)
-* [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Cally](https://cally.com/), [LettuceMeet](https://lettucemeet.com), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Date Organizing
+* ⭐ **[LettuceMeet](https://lettucemeet.com)**, [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Cally](https://cally.com/), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Date Organizing
 * [Luma](https://lu.ma/), [⁠Heylo](https://www.heylo.com/), [⁠Eventbrite](https://www.eventbrite.com/) or [Meetup](https://www.meetup.com/) - Search or Post Local Events
 * [Samay](https://samay.app/) - Meeting Time Polls
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
