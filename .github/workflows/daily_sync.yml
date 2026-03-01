@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Sync Upstream
-        uses: wei/pull@v3
+        uses: wei/pull@v1
         with:
           target_group: rohanvh7
           target_branch: main
