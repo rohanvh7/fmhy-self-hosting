@@ -2,9 +2,8 @@ name: Daily Upstream Sync
 
 on:
   schedule:
-    # This runs at 00:00 UTC (12:00 AM) every day
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually to test
+    - cron: '0 0 * * *' # Runs at midnight UTC
+  workflow_dispatch:      # Allows you to click "Run workflow" manually
 
 jobs:
   sync_latest_from_upstream:
@@ -14,15 +13,12 @@ jobs:
     steps:
       - name: Checkout target repo
         uses: actions/checkout@v4
-        with:
-          # Ensure we use a token that can push to the fork
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Sync Upstream
-        uses: wei/pull@v1
+      - name: Pull Upstream Changes
+        # Note: 'master' is the most reliable tag for this action
+        uses: wei/pull@master
         with:
-          target_group: rohanvh7
-          target_branch: main
-          upstream_repo: fmhy/edit
-          upstream_branch: main
-          force: false # Change to true if you want to overwrite your own changes
+          upstream_package_repository: fmhy/edit
+          upstream_package_branch: main
+          branch: main
+          token: ${{ secrets.GITHUB_TOKEN }}
