@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # Runs at midnight UTC
   workflow_dispatch:      # Allows you to click "Run workflow" manually
 
+permissions:
+  contents: write         # Explicitly grant permission to push code
+
 jobs:
   sync_latest_from_upstream:
     runs-on: ubuntu-latest
@@ -13,12 +16,24 @@ jobs:
     steps:
       - name: Checkout target repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Required: Fetches all history for all branches and tags
 
       - name: Pull Upstream Changes
-        # Note: 'master' is the most reliable tag for this action
-        uses: wei/pull@master
-        with:
-          upstream_package_repository: fmhy/edit
-          upstream_package_branch: main
-          branch: main
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 1. Set up the bot's Git identity
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 2. Add the upstream repository
+          git remote add upstream https://github.com/fmhy/edit.git
+          
+          # 3. Fetch from upstream
+          git fetch upstream
+          
+          # 4. Merge upstream's main branch into your current branch
+          git merge upstream/main --no-edit
+          
+          # 5. Push the synced changes back to your repo
+          git push origin main
+          
