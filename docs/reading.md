@@ -81,7 +81,7 @@
 
 ## ▷ PDF Search
 
-* [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
+* ⭐ **[Ocean of PDF](https://oceanofpdf.com/)** - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
@@ -416,16 +416,16 @@
 * 🌐 **[Rawmangaz](https://claraiscute.neocities.org/Guides/rawmangaz/)** - List of Raw Manga Sites
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
-* ⭐ **[Weeb Central](https://weebcentral.com/)**
+* ⭐ **[Weeb Central](https://weebcentral.com/)** / Use Adblocker
 * ⭐ **[⁠Comix](https://comix.to/)** / [Subreddit](https://reddit.com/r/comix) / [Discord](https://discord.com/invite/kZgWWHUj22)
 * ⭐ **[MangaFire](https://mangafire.to/)** / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
 * ⭐ **[Atsumaru](https://atsu.moe/)** / [Discord](https://discord.gg/Tj4QmEF4uV)
+* ⭐ **[⁠OniSaga](https://onisaga.com/)** - Manga + Scanlation Groups
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [Discord](https://discord.gg/Qhz84GGvE9)
 * ⭐ **[Kagane](https://kagane.org/)** - Manhwa / [Discord](https://discord.com/invite/kBPYVSzwUE)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * [MangaKatana](https://mangakatana.com/)
-* [⁠OniSaga](https://onisaga.com/)
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MangaBall](https://mangaball.net/)
 * [Mangadotnet](https://mangadot.net/) / [Discord](https://discord.com/invite/XCdaT6tyy8)
@@ -435,6 +435,8 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaTown](https://www.mangatown.com/)
+* [ComiKuro](https://comikuro.to/)
+* [All Manga](https://allmanga.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
@@ -599,6 +601,7 @@
 * [textfiles.com](http://textfiles.com/) - 1980s Text File Index
 * [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - Historical Documents
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Documents
+* [MSU Digital Repository](https://d.lib.msu.edu/) - Historical Documents, Books, Recording & more
 * [Archives.gov](https://archives.gov/) - US Historical Documents
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
@@ -644,18 +647,18 @@
 ## ▷ Programming Books
 
 * 🌐 **[Free-Programming-Books](https://ebookfoundation.github.io/free-programming-books-search/)** - Programming Book Index / [GitHub](https://github.com/EbookFoundation/free-programming-books)
-* ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making a new account
+* ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making a new account
 * ⭐ **[ScanLibs](https://scanlibs.com/)**, [2](https://forcoder.net/), [3](https://coderprog.com/)
 * [IT eBooks](https://it-ebooks.info/)
 * [FreeTechBooks](https://www.freetechbooks.com/)
 * [FreeComputerEbooks](https://freecomputerbooks.com/)
-* [TechBooksFree](https://techbooksforfree.com/)
 * [eBooks-IT](https://ebooks-it.org)
 * [Essential Programming Books](https://www.programming-books.io/)
 * [GoalKicker](https://goalkicker.com/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [WOW! eBook](https://www.wowebook.org/)
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
+* [⁠GoalKicker](https://books.goalkicker.com/) - Programming Books Compiled from Stack Overflow Docs
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
@@ -672,7 +675,7 @@
 * ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [VK](https://vk.com/sci_hub) / [Subreddit](https://reddit.com/r/scihub)
 * ⭐ **Sci-Hub Tools** - [Official TG Bot](https://t.me/scihubot), [2](https://t.me/freescience) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/en/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Dumps](https://redd.it/edwi9b) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
 * ⭐ **[arXiv](https://arxiv.org/)** or [ChinaRxiv](https://chinarxiv.org/) - Research Papers
-* ⭐ **arXiv Tools** - [Search Engine](https://arxivxplorer.com/), [2](https://searchthearxiv.com/) / [3D Viewer](https://soarxiv.org/) / [Chatbot](https://www.alphaxiv.org/) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
+* ⭐ **arXiv Tools** - [Chatbot](https://www.alphaxiv.org/) / [Search Engine](https://arxivxplorer.com/), [2](https://searchthearxiv.com/) / [3D Viewer](https://soarxiv.org/) / [Chatbot](https://www.alphaxiv.org/) / [Mobile](https://github.com/dagmawibabi/ScholArxiv)
 * ⭐ **[Google Scholar](https://scholar.google.com/)** - Academic Papers Search Engine
 * ⭐ **[Citrus Search](https://citrus-search.com/)** - Find Similar Research Papers
 * ⭐ **[ResearchGate](https://www.researchgate.net/)** - Research Papers / Publications
@@ -869,13 +872,11 @@
 * [Early Christian Writings](https://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
 * [Quran.com](https://quran.com/) / [Android](https://github.com/quran/quran_android) / [iOS](https://github.com/quran/quran-ios), [Tanzil](https://tanzil.net/) or [AbcQuran](https://github.com/jomtek/AbcQuran) - Quran Translations
 * [Sunnah.com](https://sunnah.com/) - Hadith Translation
-* [Sirah](https://www.sirah.gleeze.com/) - AI-Powered Hadith Translation / Collections
+* [Sirah](https://www.sirah.xyz/) - AI-Powered Hadith Translation / Collections
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
 * [Muslim Scholars](https://muslimscholars.info/) - Muslim Scholar Database
-* [2Muslims](https://www.2muslims.com/) - Muslim Resources
-* [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
 
 ***
 
@@ -906,28 +907,29 @@
 * ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Aggregator for Manga / Manhwa / Manhua / OEL / Light Novels w/ Tracking & Database / [Discord](https://mangabaka.org/discord)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** or [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking / Databases
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comic Tracking / Database / Releases
-* [⁠Midloop](https://midloop.net/) - Book Release Date Tracker / [Discord](https://discord.gg/AvUxR59Yv5)
+* [LibraryThing](https://www.librarything.com/) - Tracking / Reviews / Recommendations / Database
+* [⁠EntertainMe](https://www.entertainme.fun/) - Book Tracking / Recommendations
+* [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations / [Discord](https://discord.com/invite/hardcover)
+* [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
+* [Oku](https://oku.club/) - Book Tracking
+* [BookWyrm](https://joinbookwyrm.com/) - Book Tracking / [Official Instance](https://bookwyrm.social/)
+* [rate.house](https://rate.house/) or [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Media Trackers
+* [Literal](https://literal.club/) - Social Book Tracking Platform
+* [libib](https://www.libib.com/) or [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Catalogs
+* [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
+* [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
+* [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
 * [Listal](https://www.listal.com/) - Book Database
 * [Books Search](https://books-search.typesense.org/) - Book Database
-* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders 
-* [LibraryThing](https://www.talpasearch.com/) - Find Books by Describing Them
-* [Ratings Filter](https://www.book-filter.com/) - Goodreads / Storygraph Rating Aggregator + Filter
+* [⁠Banned Book List](https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI) - List of Books Banned by Schools 
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [⁠Uchronia](https://www.uchronia.net/) - Fictional "What If" History
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
 * [Romance.io](https://www.romance.io/) - Romance Database
-* [Oku](https://oku.club/) - Book Tracking Platform
-* [Literal](https://literal.club/) - Social Book Tracking Platform
-* [BookWyrm](https://joinbookwyrm.com/) - Book Tracking Platform / [Official Instance](https://bookwyrm.social/)
-* [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking
-* [Hardcover](https://hardcover.app/) - Tracking / Reviews / Recommendations / [Discord](https://discord.com/invite/hardcover)
-* [LibraryThing](https://www.librarything.com/) - Book Cataloguing Community
-* [CandlApp](https://www.candlapp.com/) - Book Tracking / Recommendations
-* [Anobii](https://www.anobii.com/) - Book Cataloguing / Reviews
 * [Mad Cover Site](https://madcoversite.com/) - MAD Magazine History Archive
-* [⁠Banned Book List](https://docs.google.com/spreadsheets/u/0/d/10NwV38Rp6EF8X8p7Qa2iXpSFn9m46v717DQtJkLictI) - List of Books Banned by Schools 
-* [rate.house](https://rate.house/) or [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - Media Trackers
-* [libib](https://www.libib.com/) or [All My Books](https://www.bolidesoft.com/allmybooks.html) - Desktop Catalogs
+* [⁠Midloop](https://midloop.net/) - Book Release Date Tracker / [Discord](https://discord.gg/AvUxR59Yv5)
+* [Talpa Search](https://www.talpasearch.com/) - Find Books by Describing Them
+* [⁠Book Series in Order](https://www.bookseriesinorder.com/) - Book Character / Author Release Orders 
 
 ***
 
@@ -971,7 +973,6 @@
 * [Spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
 * [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
-* [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 
 ***

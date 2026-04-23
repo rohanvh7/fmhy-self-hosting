@@ -50,7 +50,6 @@
 * [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
 * [instaparty](https://instaparty.gg/) - Temporary Discord Servers
 * [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
-* [Discord Quest Script](https://rentry.co/FMHYB64#discord-quests) - Discord Quest Auto-Complete
 * [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Info
 * [Discord Previews](https://discordpreviews.com/) - Get Early Access to Discord Features / [X](https://x.com/discordpreviews) / [Discord](https://discord.gg/discord-603970300668805120)
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
@@ -125,6 +124,7 @@
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
 * [MonitoRSS](https://monitorss.xyz/) or [ReadyBot](https://readybot.io/) - RSS Discord Bots
 * [Steambase Bot](https://steambase.io/tools/steam-discord-bot) - Steam Insights Bot
+* [⁠Wispbyte](https://wispbyte.com/) - Free Discord Bot Server Hosting / 512MB RAM / 1GB Disk / Unlimited Bandwidth 
 * [Red Discordbot](https://github.com/Cog-Creators/Red-DiscordBot), [Discord-Bot](https://github.com/CorwinDev/Discord-Bot) or [Loritta](https://github.com/LorittaBot/Loritta) - Self-Hostable Discord Moderation Bots
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - Discord Anti-Phishing Bot
@@ -160,7 +160,7 @@
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** / [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite), [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
-* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends / Viewers
+* ⭐ **[Redlib](https://github.com/redlib-org/redlib-instances/blob/main/instances.md)** / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends / Viewers
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** or [Teamdoko Old Reddit](https://teamdoko.com/products/old-reddit-for-safari) - Redirect New Reddit to Old
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
@@ -193,6 +193,7 @@
 
 * [⁠DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) - Download / Archive Subreddits
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Reddit Bulk Image Downloaders
+* [⁠Redvid](https://redvid.io/) - Reddit Media Downloader 
 * [RapidSave](https://rapidsave.com/) - Reddit Video / GIF Downloader
 
 ***
@@ -284,6 +285,7 @@
 ## ▷ Telegram Bots
 
 * 🌐 **[BotsArchive](https://t.me/BotsArchive)**, [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList/) or [borodutch.eth](https://borodutch.com/) - Telegram Bots Indexes
+* [⁠Wispbyte](https://wispbyte.com/) - Free Telegram Bot Server Hosting / 512MB RAM / 1GB Disk / Unlimited Bandwidth
 * [Searchee Bot](https://t.me/SearcheeBot) - Telegram Channel Search Bot
 * [Rose](https://t.me/MissRose_bot) or [GroupHelpBot](https://t.me/GroupHelpBot) - Telegram Group Managers
 * [TediCross](https://github.com/TediCross/TediCross) - Telegram to Discord Bridge
@@ -312,8 +314,9 @@
 * [YouTube Subscription History](https://xxluke.de/subscription-history/) - Subscription History Tracker
 * [MassYoutubeUnsubscriber](https://github.com/DomHeadroom/MassYoutubeUnsubscriber) - Bulk Remove YouTube Subscriptions
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
-* [Playboard](https://playboard.co) or [Viewstats](https://www.viewstats.com/) - YouTube Channel Stats
+* [Playboard](https://playboard.co) - YouTube Channel Stats
 * [vidIQ](https://vidiq.com/extension/) - YouTube Viewership Data
+* [⁠Thumbs Up](https://thumbsup.tv/) - Preview YouTube Thumbnails / Titles
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [SpeechChat](https://speechchat.com/) - Text to Speech Client
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Convert Audio Files and Upload to YouTube
@@ -527,7 +530,7 @@
 
 * 🌐 **[TwitchAdSolutions](https://github.com/ryanbr/TwitchAdSolutions)** - Solutions / Scripts for Blocking Twitch Ads
 * ⭐ **[AdGuard Extra](https://github.com/AdguardTeam/AdGuardExtra)** - Twitch Adblocker / Userscript Works Best
-* ⭐ **[VAFT UBO Script](https://github.com/ryanbr/TwitchAdSolutions?tab=readme-ov-file#applying-a-script-ublock-origin)** - Twitch Adblocker
+* ⭐ **[VAFT Script](https://github.com/ryanbr/TwitchAdSolutions#scripts)** - Twitch Adblocker
 * [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) - Twitch Adblocker / [Proxies](https://wiki.cdn-perfprod.com/v/v1/must-read/proxies)
 * [PurpleAdblock](https://github.com/arthurbolsoni/Purple-adblock) - Twitch Adblocker
 * [luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Twitch Adblocker

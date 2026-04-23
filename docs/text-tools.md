@@ -37,7 +37,6 @@
 * ⭐ **[Rentry](https://rentry.co/)**, [2](https://rentry.org/) - Markdown Support / Custom URLs / [CLI](https://github.com/radude/rentry) / [Styling](https://rentry.co/rentryarchived)
 * ⭐ **[Markbox](https://markbox.cc/)**, [2](https://fluffle.cc/) - Markdown Support / Custom URLs / [Source Code](https://git.0x8e.net/t/fluffle)
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
-* [⁠Pretrey](https://pretrey.fmhy.bid/) - Markdown / Dynamic Content Support 
 * [Text.is](https://text.is/) - Markdown Support
 * [Yasosu](https://yaso.su/) - Multi-Syntax / Markdown Support / [Telegram](https://t.me/yaso_updates)
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
@@ -87,6 +86,7 @@
 * [Reverso](https://context.reverso.net/translation/) - Online In-Context Translations
 * [Nice Translator](https://nicetranslator.com/) - Batch Multi-Language Translation
 * [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
+* [⁠Translumo](https://github.com/ramjke/Translumo) - Real-Time Translation Tool 
 * [Poedit](https://poedit.net/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
 * [Sign Translate](https://sign.mt/) - Text to Sign-Language Video Translator
@@ -128,7 +128,7 @@
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [Base64 Repair](https://base64.guru/tools/repair) - Fix Broken Base64
-* Base64 Extensions - [Chrome](https://chromewebstore.google.com/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chromewebstore.google.com/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/)
+* Base64 Extensions - [Chrome](https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/)
 
 ***
 
@@ -169,7 +169,6 @@
 * ⭐ **[Amp What](https://www.amp-what.com/)**
 * [CopyChar](https://copychar.cc/)
 * [Unicode Table](https://symbl.cc/)
-* [Unicode Explorer](https://unicode-explorer.com/)
 * [Symbol.so](https://symbol.so/)
 * [Graphemica](https://graphemica.com/)
 * [SymbolSelect](https://www.symbolselect.com/)
@@ -222,12 +221,12 @@
 * ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/obsidianmd)
 * ⭐ **Obsidian Tools** - [Publish Notes](https://dg-docs.ole.dev/) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Google Drive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Guides](https://help.obsidian.md/Home) / [Forum](https://forum.obsidian.md/)
 * ⭐ **[AnyType](https://anytype.io/)** - Note-Taking / E2EE / All Platforms / [Telegram](https://t.me/anytype) / [GitHub](https://github.com/anyproto/anytype-ts)
-* ⭐ **[AppFlowy](https://appflowy.com/)** - Note-Taking / All Platforms / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO)
+* ⭐ **[AppFlowy](https://appflowy.com/)** - Note-Taking / All Platforms + Web / [Discord](https://discord.com/invite/appflowy-903549834160635914) / [GitHub](https://github.com/AppFlowy-IO)
 * ⭐ **[Logseq](https://logseq.com/)** - Outlining / All Platforms / [Discord](https://discord.com/invite/VNfUaTtdFb) / [GitHub](https://github.com/logseq/logseq)
-* ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / E2EE / All Platforms / [Discord](https://discord.com/invite/zQBK97EE22) / [GitHub](https://github.com/streetwriters/notesnook)
+* ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking / E2EE / All Platforms + Web / [Discord](https://discord.com/invite/zQBK97EE22) / [GitHub](https://github.com/streetwriters/notesnook)
 * [Simplenote](https://simplenote.com/) - Note-Taking / All Platforms / [GitHub](https://github.com/Automattic/simplenote-electron)
-* [AFFiNE](https://affine.pro/) - Note-Taking / All Platforms / [GitHub](https://github.com/toeverything/AFFiNE) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/affine-note.md)
-* [Notion](https://www.notion.com/) - Note-Taking / Windows, Mac, Android, iOS
+* [AFFiNE](https://affine.pro/) - Note-Taking / All Platforms + Web / [GitHub](https://github.com/toeverything/AFFiNE) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/affine-note.md)
+* [Notion](https://www.notion.com/) - Note-Taking / All Platforms + Web
 * Notion Tools - [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://notionconvert.com/) / [Web Clipper](https://www.notion.com/web-clipper)
 * [Lokus](https://www.lokusmd.com/) - Markdown Note-Taking / Windows, Mac, Linux / [GitHub](https://github.com/lokus-ai/lokus)
 * [Trilium](https://github.com/TriliumNext/Trilium) - Info Manager / Windows, Mac, Linux
@@ -262,7 +261,7 @@
 * ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://massgrave.dev/office_c2r_custom)
 * ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite
 * ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - Office Suite
-* ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** / [Linux](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b) - Office Suite / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd) / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_13.zip), [2](https://gitlab.com/stdout12/batutil/-/tree/master/OfficeScrubber), [3](https://codeberg.org/stdout12/BatUtil/src/branch/master/OfficeScrubber)
+* ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links)** / [Linux](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b) - Office Suite / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd) / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_14.zip), [2](https://gitlab.com/stdout12/batutil/-/tree/master/OfficeScrubber), [3](https://codeberg.org/stdout12/BatUtil/src/branch/master/OfficeScrubber)
 * [Calligra](https://calligra.org/) - FOSS Office Suite
 * [Ziziyi](https://office.ziziyi.com/) - Online Office Suite / [GitHub](https://github.com/baotlake/office-website)
 * [Office365Version](https://www.office365versions.com/) - Office 365 Version History
@@ -397,7 +396,7 @@
 ## ▷ To Do Lists
 
 * ↪️ **[Android To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_to-do_apps)**
-* ⭐ **[Goblin.tools](https://goblin.tools/)** - Automatic Task Breakdown
+* ⭐ **[Goblin.tools](https://goblin.tools/ToDo)** - Automatic Task Breakdown
 * ⭐ **[TickTick](https://www.ticktick.com/)** / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2) (search)
 * ⭐ **[Super Productivity](https://super-productivity.com/)**
 * [Columns](https://columns.app/) - Checklists
@@ -536,8 +535,8 @@
 
 * ⭐ **[Fonts CSE](https://cse.google.com/cse?cx=82154ebab193e493d)** - Multi-Site Font Search
 * ⭐ **[Font Piracy 101](https://gist.github.com/Overimagine1/9f32e11b4c770fcd33374ad936a57d90)** - Font Download Guide
+* ⭐ **[wFonts](https://wfonts.com/)**
 * ⭐ **[BeFonts](https://befonts.com/)**
-* [Windows Fonts](https://wfonts.com/)
 * [Free Fonts Family](https://freefontsfamily.org/)
 * [Cufon Fonts](https://www.cufonfonts.com/)
 * [FontsFree](https://fontsfree.net)

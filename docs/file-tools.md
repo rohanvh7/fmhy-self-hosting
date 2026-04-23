@@ -27,7 +27,7 @@
 * ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, Mac, Linux, Android / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / Windows, Mac, Linux / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)**
 * ⭐ **JDownloader Tools** - [Debloat Guide](https://claraiscute.neocities.org/Guides/jdownloader2/), [2](https://claraiscute.pages.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-* ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
+* ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
 * [Go Speed](https://gopeed.com/) - Download Manager / All Platforms / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
 * [⁠Brisk](https://github.com/BrisklyDev/brisk) - Download Manager / [Extension](https://github.com/BrisklyDev/brisk-browser-extension) / Windows, Mac, Linux / [Discord](https://discord.gg/hGBDWNDHG3)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/) / [Chrome](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-) / Windows, Mac, Linux, Android
@@ -55,6 +55,7 @@
 * [unzip-online](https://unzip-online.com/en) - Unzip Files Online
 * [Unrar online](https://unrar.online/) - Unrar Files Online
 * [WinRAR](https://www.win-rar.com/), [2](https://www.rarlab.com) - File Archiver / [Hide Popups](https://claraiscute.neocities.org/Guides/x3-rawr/), [2](https://claraiscute.pages.dev/Guides/x3-rawr/) / [Update (Important)](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/winrar.md)
+* [ouch](https://crates.io/crates/ouch) - Archiving / Compression CLI / [GitHub](https://github.com/ouch-org/ouch)
 * [UPX](https://upx.github.io/) - Executable File Compressor / [GitHub](https://github.com/upx/upx)
 
 ***
@@ -79,7 +80,7 @@
 * [AnyConvert](https://anyconv.com/) - Online / File Converter / 100MB / Web
 * [MiConv](https://miconv.com/) - Online / File Converter / 75MB / Web
 * [⁠Docpose](https://docpose.cloud/convert) - Online / File Converter / 25MB / Web
-* [⁠ConvertX](https://github.com/C4illin/ConvertX) - Self-Hosted Online File Converter
+* [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - Self-Hosted File Converters
 
 ***
 
@@ -99,6 +100,7 @@
 * [Total Commander](https://www.ghisler.com/) - Shareware File Manager
 * [TablacusExplorer](https://tablacus.github.io/explorer_en.html) or [Multi Commander](https://multicommander.com/) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-Based File Manager
+* [eza](https://eza.rocks/) or [lsd](https://github.com/lsd-rs/lsd) - Modern `ls` Replacements
 * [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
 * [FileBrowser Quantum](https://filebrowserquantum.com/) - Self-Hosted Web File Manager / [GitHub](https://github.com/gtsteffaniak/filebrowser)
 
@@ -290,6 +292,7 @@
 * [aQRoss](https://aqross.app/) / Web or [qrcp](https://qrcp.sh/) / Share Files Using QR Codes / Windows, Mac, Linux / [GitHub](https://github.com/claudiodangelis/qrcp)
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/onionshare/onionshare)
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / Windows, Mac, Linux / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla-warning.md)
+* [⁠Sendme](https://www.iroh.computer/sendme) - P2P File Transfer CLI / [GitHub](https://github.com/n0-computer/sendme)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client / Windows
 * [⁠robocopy](https://learn.microsoft.com/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [WebUI](https://ar-puuk.github.io/robocopy-gui/)
 
@@ -297,7 +300,7 @@
 
 ## ▷ P2P Transfer
 
-* ⭐ **[PairDrop](https://pairdrop.net/)** - Web / [GitHub](https://github.com/schlagmichdoch/pairdrop)
+* ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop) or [⁠Snapdrop](https://node-snapdrop.onrender.com/) - Web
 * ⭐ **[JustBeamIt](https://justbeamit.com/)** - Web
 * [Surge](https://getsurge.io/) - P2P App / Windows, Mac / [GitHub](https://github.com/rule110-io/surge)
 * [ToffeeShare](https://toffeeshare.com/) - Web / [GitHub](https://github.com/ToffeeShare)
@@ -322,7 +325,7 @@
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / Use Adblocker / [Discord](https://discord.gg/EPEFC6KkpF) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 7 Day Expiry / +1 Hour Per DDL / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 30 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
-* ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / [Discord](https://discord.com/invite/rtz)
+* ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / Use Adblocker / [Discord](https://discord.com/invite/rtz)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / [Discord](https://discord.gg/zc2r9pZzF)
@@ -339,6 +342,7 @@
 * [udrop](https://www.udrop.com/) - 5GB / 50GB on Signup / Forever
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Sign-Up
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
+* [Fast File](https://fast-file.com/) - 10GB / 20 Days After Last Download / [Status](https://status.fast-file.com/)
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
@@ -399,7 +403,7 @@
 
 ## ▷ Cloud Storage
 
-* **Note** - Free storage / Free account inactivity deletion / Cheapest USD/TB/month.
+* **Note** - Free storage / Free account inactivity deletion / Cheapest USD/TB/month (plan name).
 
 ***
 
@@ -412,7 +416,7 @@
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced) / [Client](https://github.com/SamSchott/maestral)
 * [MediaFire](https://www.mediafire.com/) - 10GB / 8 Months / ~$5.83 (1TB Pro)
 * [icedrive](https://icedrive.net/) - 10GB / 3 Months / ~$2.07 (6TB Pro Max)
-* [PCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 (10TB Ultra)
+* [pCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 (10TB Ultra)
 * [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$2.20 (1TB Personal)
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
 * [Proton Drive](https://proton.me/drive) - 5GB / 1 Year / ~$6.66 (3TB Workspace Premium) / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
